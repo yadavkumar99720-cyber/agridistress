@@ -1,0 +1,3001 @@
+state,district,year,suicide_count,rainfall_mm,yield_kg_ha,debt_per_farmer,msp_gap_percent,insurance_coverage_percent,crop_failure_percent,risk_level
+Telangana,Kurnool,2021,91,1430,2095,140268,25,87,75,Medium
+Andhra Pradesh,Warangal,2022,51,430,2685,94820,6,34,38,Medium
+Telangana,Kurnool,2015,121,759,4385,288795,29,53,59,High
+Telangana,Warangal,2022,83,489,4005,114654,48,59,64,Medium
+Andhra Pradesh,Sangrur,2021,5,320,3888,171699,29,64,14,Low
+Maharashtra,Bidar,2016,109,864,3945,154243,32,64,71,High
+Andhra Pradesh,Sangrur,2020,51,1404,2955,230551,8,6,6,Medium
+Telangana,Nagaur,2019,85,1002,3449,232283,38,78,62,Medium
+Rajasthan,Nagaur,2021,41,1575,2016,85591,25,84,53,Medium
+Karnataka,Kurnool,2021,69,364,4928,294712,28,5,8,Medium
+Punjab,Bidar,2022,15,718,3336,42666,9,45,28,Low
+Karnataka,Warangal,2016,65,1356,4119,107373,28,41,44,Medium
+Rajasthan,Sangrur,2017,22,1260,4810,169182,18,7,1,Low
+Maharashtra,Nagaur,2021,165,1094,1392,248126,30,46,77,High
+Karnataka,Warangal,2019,108,395,2923,241428,27,19,43,High
+Andhra Pradesh,Sangrur,2017,84,1409,2819,73585,46,49,62,Medium
+Telangana,Warangal,2018,5,1663,4869,182906,32,66,1,Low
+Andhra Pradesh,Bidar,2017,115,1682,1709,51959,31,13,62,High
+Karnataka,Sangrur,2016,113,983,1663,195838,36,56,62,High
+Maharashtra,Warangal,2018,5,1709,4458,97172,21,63,2,Low
+Telangana,Nagaur,2021,83,1548,3432,287426,6,57,44,Medium
+Telangana,Sangrur,2022,106,422,1400,198229,28,73,70,High
+Karnataka,Bidar,2018,42,486,4397,81663,33,7,20,Medium
+Punjab,Yavatmal,2017,39,446,4219,163983,11,56,33,Low
+Maharashtra,Bidar,2017,5,772,2969,77254,35,46,7,Low
+Maharashtra,Bidar,2018,37,1180,3049,192688,16,73,37,Low
+Karnataka,Sangrur,2017,89,1115,3255,96690,24,28,54,Medium
+Telangana,Sangrur,2015,52,1743,2445,214423,24,29,18,Medium
+Maharashtra,Yavatmal,2020,117,1486,4791,142296,40,37,68,High
+Rajasthan,Kurnool,2022,131,1715,2158,116416,37,52,76,High
+Rajasthan,Nagaur,2020,46,337,3277,164508,12,31,27,Medium
+Andhra Pradesh,Nagaur,2015,72,583,3926,166672,9,65,48,Medium
+Telangana,Sangrur,2022,96,1372,4583,217563,32,34,46,High
+Punjab,Warangal,2015,111,1360,3327,295564,35,64,63,High
+Punjab,Yavatmal,2015,5,865,1569,66631,36,51,23,Low
+Punjab,Yavatmal,2016,52,1084,4175,135864,47,52,39,Medium
+Maharashtra,Sangrur,2016,46,1220,3455,169788,11,61,36,Medium
+Telangana,Bidar,2022,144,811,1399,117922,27,19,66,High
+Karnataka,Yavatmal,2021,67,1513,2148,85609,26,53,52,Medium
+Rajasthan,Nagaur,2017,92,743,3660,143632,12,57,60,Medium
+Telangana,Kurnool,2021,101,1519,1773,227484,36,51,55,High
+Telangana,Kurnool,2016,15,935,2129,252866,21,67,19,Low
+Maharashtra,Kurnool,2020,151,1090,2150,250552,16,5,58,High
+Maharashtra,Nagaur,2020,64,859,4672,206615,49,5,16,Medium
+Andhra Pradesh,Nagaur,2019,19,546,4147,97215,41,61,29,Low
+Telangana,Kurnool,2021,5,1308,3141,108781,9,80,16,Low
+Andhra Pradesh,Warangal,2015,75,1577,2757,53049,9,38,52,Medium
+Maharashtra,Sangrur,2016,36,1068,2015,39540,49,8,16,Low
+Maharashtra,Bidar,2018,47,1195,3207,221962,24,28,12,Medium
+Punjab,Warangal,2015,105,1256,3738,281492,16,71,65,High
+Maharashtra,Sangrur,2018,35,584,3444,295517,6,39,8,Low
+Maharashtra,Nagaur,2016,5,414,1616,33267,49,79,29,Low
+Karnataka,Kurnool,2019,105,1060,1675,68756,13,28,64,High
+Karnataka,Sangrur,2022,57,1277,2008,226582,36,28,23,Medium
+Telangana,Bidar,2021,11,578,3264,216141,21,66,13,Low
+Karnataka,Warangal,2018,179,744,4304,230968,11,32,78,High
+Punjab,Yavatmal,2021,74,443,1884,156020,39,16,25,Medium
+Punjab,Kurnool,2018,81,1474,2167,293206,49,57,42,Medium
+Rajasthan,Yavatmal,2019,5,1486,2238,104460,47,79,18,Low
+Telangana,Bidar,2016,129,1253,3539,233664,42,11,46,High
+Maharashtra,Bidar,2016,91,1094,3681,244532,33,41,38,Medium
+Andhra Pradesh,Bidar,2020,98,799,2680,198152,49,8,36,High
+Telangana,Sangrur,2019,5,1175,2205,56790,31,78,19,Low
+Rajasthan,Sangrur,2019,78,952,1753,170507,24,76,61,Medium
+Karnataka,Sangrur,2019,53,647,1189,260907,29,60,33,Medium
+Andhra Pradesh,Nagaur,2016,112,984,3719,264286,25,84,75,High
+Telangana,Sangrur,2017,42,1764,4473,47640,18,19,31,Medium
+Andhra Pradesh,Nagaur,2020,177,1582,3703,202502,15,16,74,High
+Rajasthan,Warangal,2022,21,967,1372,190775,32,40,8,Low
+Telangana,Warangal,2019,5,340,1739,50159,31,67,17,Low
+Karnataka,Kurnool,2018,37,760,3779,112844,17,50,35,Low
+Maharashtra,Sangrur,2022,38,1008,2838,159473,14,60,30,Low
+Punjab,Kurnool,2019,94,1442,2015,91813,5,22,49,High
+Andhra Pradesh,Yavatmal,2021,150,1540,4925,299114,31,53,77,High
+Maharashtra,Bidar,2017,53,810,1384,30404,10,85,69,Medium
+Rajasthan,Sangrur,2019,124,1346,4044,230244,41,78,74,High
+Karnataka,Kurnool,2020,39,756,2901,51949,5,36,34,Low
+Maharashtra,Yavatmal,2016,64,737,3165,124074,16,69,54,Medium
+Andhra Pradesh,Nagaur,2020,5,1062,2848,45254,19,89,14,Low
+Punjab,Sangrur,2021,70,1745,4775,108587,38,42,50,Medium
+Maharashtra,Nagaur,2021,5,1158,3482,280875,34,55,5,Low
+Maharashtra,Bidar,2016,5,1084,4579,155911,9,38,6,Low
+Andhra Pradesh,Nagaur,2017,111,342,4823,75002,27,59,75,High
+Telangana,Warangal,2022,88,580,4266,244879,7,31,32,Medium
+Andhra Pradesh,Yavatmal,2017,5,1726,4860,141195,46,65,22,Low
+Karnataka,Kurnool,2015,155,823,3393,254301,38,53,78,High
+Punjab,Bidar,2016,75,548,3094,204293,34,67,48,Medium
+Maharashtra,Warangal,2015,113,307,1624,248803,19,51,56,High
+Maharashtra,Warangal,2021,61,377,4287,275121,49,30,14,Medium
+Punjab,Nagaur,2017,126,1597,4577,118869,39,19,64,High
+Telangana,Yavatmal,2021,62,1596,2254,275885,48,29,17,Medium
+Telangana,Bidar,2018,72,1717,1066,112152,49,22,34,Medium
+Karnataka,Warangal,2017,96,724,3660,224053,30,68,59,High
+Rajasthan,Kurnool,2015,169,1612,2460,146421,10,8,75,High
+Punjab,Sangrur,2021,64,1363,1228,46389,6,88,75,Medium
+Rajasthan,Nagaur,2015,122,803,3021,290669,6,83,75,High
+Maharashtra,Sangrur,2019,8,1623,2668,167541,30,72,19,Low
+Karnataka,Warangal,2015,28,439,1558,134537,18,68,38,Low
+Rajasthan,Sangrur,2021,104,1144,3026,77362,37,10,50,High
+Andhra Pradesh,Yavatmal,2018,43,1197,3060,35287,6,88,65,Medium
+Karnataka,Bidar,2015,111,1210,2943,127829,39,53,69,High
+Maharashtra,Nagaur,2019,5,675,4530,226513,16,39,1,Low
+Rajasthan,Warangal,2022,151,1672,4911,287802,45,18,60,High
+Andhra Pradesh,Kurnool,2019,18,1150,4450,155501,8,46,18,Low
+Rajasthan,Sangrur,2019,44,721,2888,248134,19,29,17,Medium
+Maharashtra,Nagaur,2019,5,403,4110,71157,10,71,7,Low
+Maharashtra,Warangal,2021,47,1612,3035,55053,43,31,36,Medium
+Karnataka,Bidar,2019,107,1296,4482,243942,37,72,66,High
+Andhra Pradesh,Sangrur,2016,96,1164,2141,184782,40,56,56,High
+Andhra Pradesh,Kurnool,2019,66,346,3371,164828,6,31,36,Medium
+Maharashtra,Sangrur,2017,5,368,2683,44153,44,42,6,Low
+Maharashtra,Nagaur,2017,101,695,3265,236988,44,66,60,High
+Telangana,Warangal,2018,29,1307,2347,225716,41,76,31,Low
+Rajasthan,Sangrur,2019,10,1785,4367,164869,15,27,1,Low
+Andhra Pradesh,Kurnool,2016,53,719,2205,130158,44,19,21,Medium
+Karnataka,Kurnool,2015,5,501,4507,43224,39,67,25,Low
+Rajasthan,Yavatmal,2021,68,1533,1474,167855,47,63,51,Medium
+Telangana,Nagaur,2019,57,1484,3224,124270,47,26,26,Medium
+Andhra Pradesh,Bidar,2021,61,1148,2107,49816,24,67,61,Medium
+Karnataka,Bidar,2022,36,1464,1989,163554,23,66,32,Low
+Andhra Pradesh,Kurnool,2020,209,1467,4495,250178,22,5,78,High
+Maharashtra,Yavatmal,2020,64,1287,2136,56737,34,42,51,Medium
+Karnataka,Kurnool,2021,54,1099,1777,213675,37,59,32,Medium
+Andhra Pradesh,Bidar,2015,105,1058,2858,106218,12,58,67,High
+Karnataka,Warangal,2021,5,1587,4489,103506,36,82,32,Low
+Punjab,Warangal,2018,74,464,1181,151300,18,59,48,Medium
+Maharashtra,Bidar,2021,64,1408,1146,197292,23,40,29,Medium
+Maharashtra,Bidar,2021,178,1008,2939,246586,46,6,67,High
+Telangana,Kurnool,2019,67,1233,2279,224269,13,57,44,Medium
+Telangana,Yavatmal,2020,20,1687,2303,286713,34,63,14,Low
+Maharashtra,Kurnool,2015,81,1682,4272,178757,47,8,26,Medium
+Maharashtra,Kurnool,2017,33,1137,4217,218456,42,38,17,Low
+Karnataka,Nagaur,2016,5,887,2622,78756,46,89,27,Low
+Punjab,Yavatmal,2018,84,1120,1454,254137,49,21,26,Medium
+Maharashtra,Warangal,2020,64,1686,4776,180322,40,30,29,Medium
+Punjab,Warangal,2015,107,486,3854,258071,39,58,55,High
+Rajasthan,Nagaur,2019,119,1635,2312,89129,40,24,62,High
+Punjab,Yavatmal,2015,41,453,4521,162596,13,77,40,Medium
+Karnataka,Bidar,2019,36,1238,2639,85337,29,43,35,Low
+Maharashtra,Kurnool,2018,65,471,2458,246541,42,16,19,Medium
+Telangana,Sangrur,2017,5,1116,4004,210553,16,66,8,Low
+Andhra Pradesh,Nagaur,2022,47,1009,2223,176968,22,16,15,Medium
+Andhra Pradesh,Yavatmal,2021,32,1611,1777,59711,11,21,23,Low
+Rajasthan,Kurnool,2021,30,436,3930,234615,27,86,39,Low
+Maharashtra,Sangrur,2016,117,914,2296,119613,35,28,60,High
+Maharashtra,Sangrur,2019,29,1494,3983,181734,27,43,15,Low
+Telangana,Kurnool,2020,102,1220,4468,188417,37,20,42,High
+Rajasthan,Yavatmal,2021,42,1038,4241,155341,17,17,18,Medium
+Punjab,Nagaur,2018,95,328,1957,212256,33,66,57,High
+Telangana,Bidar,2016,77,1225,1920,280195,9,69,49,Medium
+Andhra Pradesh,Nagaur,2022,142,623,1145,218847,5,57,79,High
+Karnataka,Bidar,2022,30,1263,4211,73001,41,65,43,Low
+Rajasthan,Sangrur,2020,154,525,4224,223283,12,24,63,High
+Andhra Pradesh,Nagaur,2016,11,1430,1225,276584,30,45,3,Low
+Andhra Pradesh,Kurnool,2020,33,1370,1726,106898,24,65,35,Low
+Maharashtra,Nagaur,2015,159,515,1002,189903,39,17,73,High
+Rajasthan,Kurnool,2016,31,1590,2640,272615,7,33,9,Low
+Karnataka,Yavatmal,2018,12,469,1520,111121,28,83,38,Low
+Punjab,Kurnool,2022,119,1213,1453,164092,32,73,77,High
+Maharashtra,Kurnool,2022,33,617,3396,114082,7,60,40,Low
+Punjab,Kurnool,2019,9,1612,2285,116231,23,84,40,Low
+Punjab,Sangrur,2022,62,1080,1362,212828,29,57,42,Medium
+Punjab,Nagaur,2018,14,306,3180,78874,49,62,31,Low
+Maharashtra,Sangrur,2019,5,381,3403,156209,18,81,12,Low
+Maharashtra,Kurnool,2020,104,1436,2256,193038,38,64,64,High
+Punjab,Nagaur,2017,5,713,4526,59257,45,67,28,Low
+Rajasthan,Kurnool,2019,108,577,2219,233667,36,72,64,High
+Telangana,Nagaur,2015,73,1185,3752,283973,30,86,50,Medium
+Andhra Pradesh,Warangal,2018,83,1062,2250,182499,16,11,29,Medium
+Karnataka,Nagaur,2021,5,378,4999,123106,15,62,26,Low
+Rajasthan,Yavatmal,2019,10,815,3000,119186,17,43,15,Low
+Telangana,Yavatmal,2021,5,1273,4155,82930,21,60,21,Low
+Andhra Pradesh,Sangrur,2018,77,1776,2410,297770,5,62,38,Medium
+Maharashtra,Kurnool,2017,5,1308,1792,56385,19,84,27,Low
+Telangana,Nagaur,2015,106,1632,1519,235390,31,50,50,High
+Punjab,Kurnool,2022,158,992,2559,176323,19,29,78,High
+Karnataka,Nagaur,2018,158,820,2701,104744,26,6,72,High
+Andhra Pradesh,Bidar,2022,60,573,3013,191087,22,42,32,Medium
+Andhra Pradesh,Bidar,2015,75,401,4496,211002,26,55,41,Medium
+Telangana,Bidar,2020,95,1786,1591,272997,26,24,33,High
+Maharashtra,Warangal,2015,167,301,3272,206076,34,37,77,High
+Maharashtra,Nagaur,2021,7,493,4237,184470,30,50,15,Low
+Maharashtra,Warangal,2015,34,616,2986,245048,10,77,32,Low
+Maharashtra,Warangal,2022,5,1641,2107,54826,11,79,4,Low
+Maharashtra,Nagaur,2016,175,1194,1514,182360,46,18,75,High
+Rajasthan,Warangal,2021,50,1208,2560,113186,23,59,45,Medium
+Andhra Pradesh,Kurnool,2021,20,587,1306,250971,22,74,18,Low
+Rajasthan,Kurnool,2022,51,611,3920,275378,32,78,35,Medium
+Karnataka,Warangal,2015,60,1161,2748,89321,28,24,37,Medium
+Telangana,Warangal,2020,155,831,1955,296847,45,40,66,High
+Maharashtra,Warangal,2020,67,594,1754,206313,16,7,18,Medium
+Andhra Pradesh,Bidar,2017,82,1093,4591,187795,34,46,44,Medium
+Rajasthan,Yavatmal,2021,124,592,3884,206037,49,45,62,High
+Rajasthan,Bidar,2018,118,429,4814,131520,29,32,66,High
+Andhra Pradesh,Kurnool,2021,19,1772,2447,91367,40,49,23,Low
+Punjab,Yavatmal,2017,5,929,1269,232332,14,80,1,Low
+Telangana,Sangrur,2018,94,812,3360,243567,24,32,37,High
+Andhra Pradesh,Warangal,2019,5,604,4568,56155,32,83,6,Low
+Punjab,Kurnool,2018,63,633,4713,227576,41,24,26,Medium
+Punjab,Nagaur,2019,69,1382,3884,190928,18,16,20,Medium
+Punjab,Sangrur,2020,68,516,4377,176470,35,60,43,Medium
+Telangana,Nagaur,2018,69,450,3431,134061,49,56,50,Medium
+Telangana,Yavatmal,2019,112,428,2014,184268,36,9,47,High
+Karnataka,Yavatmal,2017,5,1737,3161,58625,21,30,8,Low
+Karnataka,Warangal,2017,24,644,1813,131376,23,35,14,Low
+Andhra Pradesh,Bidar,2016,60,1543,2009,35704,37,45,48,Medium
+Karnataka,Kurnool,2019,160,1482,1488,262549,8,23,70,High
+Maharashtra,Kurnool,2015,108,1602,1850,47772,15,5,54,High
+Karnataka,Kurnool,2021,55,1388,4147,264182,19,25,19,Medium
+Karnataka,Bidar,2017,106,401,3009,139834,39,76,78,High
+Maharashtra,Nagaur,2015,126,1326,3132,255049,12,52,66,High
+Telangana,Kurnool,2019,20,1477,1664,111889,41,83,44,Low
+Punjab,Nagaur,2020,114,797,3411,219420,25,27,47,High
+Karnataka,Warangal,2017,27,350,4854,75379,25,17,19,Low
+Rajasthan,Kurnool,2018,65,1307,1372,253725,31,33,28,Medium
+Maharashtra,Warangal,2020,5,301,3636,261513,29,79,7,Low
+Maharashtra,Kurnool,2021,71,1258,3359,251097,46,60,36,Medium
+Telangana,Nagaur,2021,5,1708,2195,72668,46,51,13,Low
+Maharashtra,Bidar,2021,5,309,1983,106153,46,76,24,Low
+Karnataka,Yavatmal,2017,121,1616,2603,140641,28,23,60,High
+Maharashtra,Bidar,2016,128,1214,4747,226553,37,59,69,High
+Karnataka,Sangrur,2018,41,1549,1672,79104,26,52,37,Medium
+Punjab,Warangal,2021,80,1483,2546,87993,13,82,77,Medium
+Punjab,Kurnool,2016,126,1697,3684,156888,15,28,60,High
+Punjab,Warangal,2016,36,1425,3601,61007,43,40,36,Low
+Karnataka,Bidar,2017,5,1393,3472,146492,6,64,5,Low
+Punjab,Kurnool,2022,93,1553,2735,104069,10,6,44,High
+Rajasthan,Bidar,2017,36,653,2494,161733,48,62,36,Low
+Andhra Pradesh,Kurnool,2021,57,1626,2016,292351,46,66,30,Medium
+Telangana,Bidar,2022,44,1279,3562,261055,34,27,5,Medium
+Telangana,Bidar,2015,148,585,1148,174467,10,26,72,High
+Karnataka,Kurnool,2022,51,759,4621,39715,38,18,36,Medium
+Maharashtra,Kurnool,2016,66,660,1340,65585,31,77,65,Medium
+Punjab,Warangal,2020,5,1730,2689,66035,22,59,6,Low
+Rajasthan,Sangrur,2021,131,641,2339,251427,46,16,49,High
+Rajasthan,Yavatmal,2019,5,1481,4287,75033,34,82,6,Low
+Telangana,Nagaur,2015,130,698,2428,298865,31,6,35,High
+Rajasthan,Warangal,2016,126,565,2560,59984,40,18,65,High
+Rajasthan,Nagaur,2019,81,1759,3946,196370,45,10,25,Medium
+Andhra Pradesh,Yavatmal,2022,64,1216,4041,47347,29,83,68,Medium
+Telangana,Warangal,2022,181,427,4679,255371,17,35,78,High
+Maharashtra,Kurnool,2018,5,746,1389,90545,27,87,31,Low
+Andhra Pradesh,Sangrur,2016,68,1077,3392,280497,15,54,31,Medium
+Karnataka,Sangrur,2015,5,1422,1148,232056,32,66,7,Low
+Telangana,Bidar,2018,97,1084,3148,229900,40,42,50,High
+Telangana,Nagaur,2022,117,782,3566,129853,11,9,55,High
+Rajasthan,Sangrur,2019,144,545,1741,234366,25,14,58,High
+Andhra Pradesh,Bidar,2019,54,512,3009,143132,25,57,45,Medium
+Karnataka,Sangrur,2015,80,999,3442,165870,25,56,55,Medium
+Maharashtra,Warangal,2022,17,893,1743,102930,45,56,29,Low
+Maharashtra,Kurnool,2016,75,696,3672,83352,21,13,41,Medium
+Maharashtra,Warangal,2022,81,328,2120,250169,44,25,28,Medium
+Maharashtra,Sangrur,2020,76,499,3992,210302,21,64,45,Medium
+Andhra Pradesh,Warangal,2015,5,386,3148,231548,12,47,1,Low
+Punjab,Sangrur,2022,38,1340,2668,177603,25,62,31,Low
+Telangana,Sangrur,2018,86,698,2234,155426,32,55,58,Medium
+Andhra Pradesh,Nagaur,2020,5,1675,3567,166511,14,42,8,Low
+Karnataka,Bidar,2016,132,762,3993,252146,40,72,78,High
+Karnataka,Bidar,2016,107,418,1189,299054,14,25,36,High
+Punjab,Yavatmal,2020,48,1080,2716,69071,35,20,32,Medium
+Punjab,Yavatmal,2021,115,572,1935,119489,13,29,59,High
+Telangana,Yavatmal,2015,110,1089,3461,207876,48,36,51,High
+Karnataka,Kurnool,2017,115,421,2567,150029,43,16,47,High
+Andhra Pradesh,Kurnool,2020,61,960,4709,128605,44,11,23,Medium
+Punjab,Nagaur,2020,14,534,2368,73541,32,33,13,Low
+Maharashtra,Kurnool,2019,5,762,3483,185930,35,83,23,Low
+Andhra Pradesh,Nagaur,2017,5,720,2724,96912,7,67,19,Low
+Telangana,Bidar,2022,5,1552,2134,71321,20,76,1,Low
+Andhra Pradesh,Sangrur,2015,41,1427,2506,51727,46,14,21,Medium
+Punjab,Sangrur,2016,76,1236,3159,147235,40,62,54,Medium
+Karnataka,Nagaur,2020,5,1741,4508,119464,24,79,16,Low
+Rajasthan,Sangrur,2019,5,997,3179,39596,8,24,10,Low
+Maharashtra,Kurnool,2020,176,1792,1821,294167,43,25,74,High
+Rajasthan,Warangal,2018,5,1380,1940,98099,33,18,3,Low
+Maharashtra,Warangal,2018,56,1065,3583,46029,22,23,31,Medium
+Karnataka,Nagaur,2017,91,705,1663,72092,16,34,58,Medium
+Andhra Pradesh,Warangal,2022,89,318,1431,242652,40,59,55,Medium
+Maharashtra,Warangal,2015,46,1062,1475,272634,49,37,17,Medium
+Telangana,Warangal,2022,5,1370,3010,191326,18,79,9,Low
+Andhra Pradesh,Bidar,2018,51,437,3097,76850,17,74,51,Medium
+Maharashtra,Sangrur,2020,27,1221,1580,92812,41,88,49,Low
+Andhra Pradesh,Warangal,2020,5,1583,1637,176150,43,39,1,Low
+Rajasthan,Bidar,2020,5,985,2851,37531,35,88,24,Low
+Andhra Pradesh,Nagaur,2022,96,1175,1617,170629,32,11,35,High
+Maharashtra,Nagaur,2021,119,504,1581,281435,13,49,56,High
+Telangana,Yavatmal,2016,142,1174,2464,47073,37,11,70,High
+Maharashtra,Sangrur,2018,113,1795,4726,268511,11,25,42,High
+Rajasthan,Bidar,2019,130,613,3068,289153,9,7,37,High
+Punjab,Sangrur,2015,78,1152,1383,111912,45,37,50,Medium
+Maharashtra,Bidar,2021,143,897,4062,294480,21,28,61,High
+Telangana,Yavatmal,2017,72,722,4669,75232,21,74,70,Medium
+Karnataka,Yavatmal,2019,5,321,4183,141672,6,78,16,Low
+Punjab,Kurnool,2021,97,1409,1587,104071,44,42,60,High
+Punjab,Sangrur,2021,61,860,1959,269647,11,25,20,Medium
+Rajasthan,Warangal,2020,59,675,3791,126468,19,18,27,Medium
+Maharashtra,Warangal,2016,164,1180,1446,130417,29,7,72,High
+Karnataka,Yavatmal,2018,81,526,1773,209635,27,54,43,Medium
+Andhra Pradesh,Sangrur,2017,65,803,3315,91001,12,28,41,Medium
+Andhra Pradesh,Kurnool,2022,47,866,1904,201918,44,86,42,Medium
+Rajasthan,Warangal,2016,61,1074,1847,36530,49,7,27,Medium
+Punjab,Nagaur,2015,116,519,4200,280870,12,36,48,High
+Andhra Pradesh,Warangal,2020,70,1265,3413,298050,36,13,12,Medium
+Rajasthan,Bidar,2021,72,1432,2910,149052,38,8,28,Medium
+Maharashtra,Sangrur,2021,5,430,3400,185289,9,65,9,Low
+Rajasthan,Yavatmal,2020,47,510,4643,111835,15,70,47,Medium
+Telangana,Bidar,2019,5,1549,1981,39346,16,34,21,Low
+Andhra Pradesh,Sangrur,2018,139,845,1040,233058,22,62,75,High
+Rajasthan,Bidar,2019,129,919,2674,219139,20,38,66,High
+Telangana,Nagaur,2015,70,423,3048,51447,27,67,67,Medium
+Maharashtra,Bidar,2021,74,442,4262,132932,39,61,53,Medium
+Telangana,Nagaur,2018,109,759,4472,128696,39,81,79,High
+Punjab,Bidar,2020,48,1574,3266,97990,31,50,38,Medium
+Telangana,Kurnool,2022,6,1001,4618,207810,34,82,25,Low
+Rajasthan,Yavatmal,2020,5,961,2967,230696,23,55,3,Low
+Punjab,Bidar,2018,128,1279,3220,209526,18,67,73,High
+Telangana,Nagaur,2022,62,1233,2460,240748,40,44,30,Medium
+Karnataka,Warangal,2015,118,1526,1820,172312,18,45,68,High
+Telangana,Yavatmal,2015,67,1450,2278,65292,34,16,35,Medium
+Rajasthan,Yavatmal,2019,30,960,2348,74900,7,48,33,Low
+Andhra Pradesh,Bidar,2018,99,1358,1976,89871,5,12,45,High
+Telangana,Nagaur,2018,55,473,3606,157795,33,26,21,Medium
+Rajasthan,Warangal,2015,12,478,1131,179302,11,32,4,Low
+Andhra Pradesh,Sangrur,2020,17,493,3007,203824,12,42,6,Low
+Karnataka,Kurnool,2018,78,561,1729,165450,12,87,65,Medium
+Karnataka,Sangrur,2022,83,441,2314,217116,24,60,49,Medium
+Andhra Pradesh,Nagaur,2015,105,1625,1880,255683,37,43,49,High
+Punjab,Nagaur,2020,68,532,2800,166535,41,53,41,Medium
+Andhra Pradesh,Sangrur,2017,5,482,4112,52054,17,68,11,Low
+Punjab,Sangrur,2019,37,426,4629,213852,5,44,19,Low
+Andhra Pradesh,Kurnool,2019,131,1591,3492,229919,37,49,69,High
+Karnataka,Sangrur,2020,89,1666,4741,196892,27,53,47,Medium
+Maharashtra,Yavatmal,2016,15,1647,1989,295888,40,86,19,Low
+Telangana,Warangal,2015,61,631,4449,185378,19,45,39,Medium
+Andhra Pradesh,Bidar,2016,55,749,2842,171130,17,14,14,Medium
+Punjab,Nagaur,2015,84,1700,4622,207691,7,88,70,Medium
+Andhra Pradesh,Nagaur,2017,148,1673,3343,279768,16,39,65,High
+Maharashtra,Kurnool,2019,45,873,1048,149006,29,27,24,Medium
+Telangana,Kurnool,2020,139,1430,2681,261496,42,34,60,High
+Maharashtra,Sangrur,2017,5,1479,4243,69758,45,67,23,Low
+Punjab,Yavatmal,2017,72,1441,2635,158379,37,28,39,Medium
+Telangana,Kurnool,2021,84,1519,3468,254448,24,23,29,Medium
+Telangana,Yavatmal,2018,103,1742,2450,74014,35,15,49,High
+Rajasthan,Kurnool,2022,10,1229,4759,121575,16,69,31,Low
+Karnataka,Kurnool,2016,40,1136,3973,180871,7,79,45,Low
+Maharashtra,Sangrur,2020,13,662,3495,238434,10,63,15,Low
+Andhra Pradesh,Yavatmal,2019,140,469,1123,38036,39,10,68,High
+Telangana,Bidar,2015,156,1096,1076,261312,49,26,68,High
+Andhra Pradesh,Bidar,2015,8,973,1364,291973,27,55,3,Low
+Maharashtra,Kurnool,2017,69,1061,4568,30340,48,25,44,Medium
+Telangana,Sangrur,2015,106,1603,4708,67772,38,15,51,High
+Punjab,Warangal,2016,88,403,2237,207912,28,23,37,Medium
+Andhra Pradesh,Warangal,2019,9,956,3660,269779,23,68,11,Low
+Telangana,Nagaur,2019,5,694,2510,37684,21,60,20,Low
+Rajasthan,Yavatmal,2018,109,1182,3194,160351,48,56,70,High
+Rajasthan,Sangrur,2015,79,1539,3454,212170,15,68,51,Medium
+Punjab,Yavatmal,2018,62,1071,1902,214482,13,76,45,Medium
+Karnataka,Bidar,2015,55,1139,3194,70510,42,71,59,Medium
+Andhra Pradesh,Nagaur,2019,77,586,3767,129441,36,26,43,Medium
+Rajasthan,Yavatmal,2016,108,619,1125,292420,20,80,66,High
+Punjab,Nagaur,2015,129,1626,4234,107842,12,30,71,High
+Punjab,Bidar,2018,50,324,2572,286910,41,17,8,Medium
+Telangana,Bidar,2021,17,556,4747,176110,44,27,9,Low
+Rajasthan,Nagaur,2022,159,1583,1413,279415,7,18,60,High
+Andhra Pradesh,Yavatmal,2019,63,382,2146,235157,20,70,40,Medium
+Maharashtra,Yavatmal,2018,152,1681,4259,265841,6,17,56,High
+Telangana,Yavatmal,2021,26,1774,3951,178694,18,59,27,Low
+Andhra Pradesh,Bidar,2015,25,1556,2693,152258,23,61,25,Low
+Rajasthan,Yavatmal,2016,96,1779,2589,55235,36,18,50,High
+Telangana,Kurnool,2022,88,1146,2045,272717,8,81,59,Medium
+Maharashtra,Warangal,2021,125,1613,1849,234535,38,79,76,High
+Karnataka,Bidar,2016,100,1477,2809,229775,26,42,50,High
+Karnataka,Nagaur,2019,38,1239,1888,264104,5,23,9,Low
+Telangana,Warangal,2018,124,1210,1818,121218,10,60,76,High
+Andhra Pradesh,Bidar,2016,97,770,3265,261324,37,64,55,High
+Andhra Pradesh,Kurnool,2017,169,1336,2124,251035,15,21,68,High
+Karnataka,Nagaur,2015,108,832,4923,297986,16,41,42,High
+Andhra Pradesh,Nagaur,2022,77,1170,3587,96914,22,82,71,Medium
+Andhra Pradesh,Yavatmal,2019,7,696,2123,56654,6,20,9,Low
+Rajasthan,Sangrur,2020,59,1251,3005,212240,40,49,34,Medium
+Telangana,Yavatmal,2017,83,1351,3373,275739,48,25,28,Medium
+Rajasthan,Nagaur,2015,157,655,4604,270891,47,17,57,High
+Rajasthan,Nagaur,2016,5,864,2067,87134,14,50,13,Low
+Rajasthan,Yavatmal,2020,76,1167,1397,243666,29,7,17,Medium
+Rajasthan,Warangal,2022,24,840,1170,162473,30,69,28,Low
+Karnataka,Warangal,2016,22,474,4805,278552,38,41,6,Low
+Andhra Pradesh,Bidar,2015,77,354,3566,91240,16,20,43,Medium
+Andhra Pradesh,Warangal,2021,13,606,1456,34426,12,76,45,Low
+Punjab,Kurnool,2015,101,456,3657,117265,32,81,79,High
+Maharashtra,Warangal,2016,65,1427,1392,128934,9,60,50,Medium
+Telangana,Nagaur,2015,46,1413,4563,269977,30,29,10,Medium
+Punjab,Sangrur,2019,165,755,4431,239987,35,32,75,High
+Karnataka,Bidar,2021,18,863,4173,53989,35,50,26,Low
+Maharashtra,Kurnool,2018,26,660,3506,65063,37,54,38,Low
+Andhra Pradesh,Yavatmal,2019,134,752,4461,225877,26,66,78,High
+Rajasthan,Kurnool,2021,129,302,1989,73527,48,37,75,High
+Maharashtra,Sangrur,2021,103,571,1579,89234,30,66,76,High
+Andhra Pradesh,Bidar,2016,5,1342,3006,153765,22,30,6,Low
+Telangana,Sangrur,2019,90,424,4425,255898,47,84,66,Medium
+Andhra Pradesh,Yavatmal,2022,41,777,4423,141086,34,69,43,Medium
+Karnataka,Sangrur,2018,137,1053,2877,188763,13,41,74,High
+Andhra Pradesh,Warangal,2022,120,1479,4326,185604,28,46,66,High
+Punjab,Nagaur,2019,124,1478,3936,263820,7,17,45,High
+Telangana,Bidar,2020,129,1570,1666,85841,5,36,71,High
+Punjab,Warangal,2018,5,928,2629,33696,43,82,17,Low
+Andhra Pradesh,Warangal,2019,131,992,4162,93811,5,5,58,High
+Telangana,Warangal,2021,156,1589,1314,148474,45,9,65,High
+Rajasthan,Yavatmal,2022,77,1032,2603,217647,15,60,51,Medium
+Telangana,Yavatmal,2017,113,702,2132,129003,11,51,71,High
+Andhra Pradesh,Kurnool,2020,15,431,3838,104601,24,19,8,Low
+Punjab,Nagaur,2018,64,774,3883,208048,7,28,27,Medium
+Andhra Pradesh,Warangal,2016,26,835,4075,177745,27,57,23,Low
+Andhra Pradesh,Nagaur,2019,15,980,1824,295976,10,61,10,Low
+Rajasthan,Kurnool,2019,129,511,2538,218799,26,51,68,High
+Rajasthan,Sangrur,2021,155,719,3798,246232,9,17,58,High
+Rajasthan,Nagaur,2019,38,836,2135,60106,18,61,47,Low
+Rajasthan,Kurnool,2020,7,960,2991,45088,20,63,31,Low
+Maharashtra,Sangrur,2016,44,1066,1253,169784,21,15,10,Medium
+Telangana,Warangal,2021,99,452,2658,172180,42,69,63,High
+Telangana,Bidar,2015,110,1194,2111,115774,36,43,70,High
+Maharashtra,Kurnool,2020,5,612,4664,96216,33,77,13,Low
+Rajasthan,Warangal,2018,70,544,2538,55675,49,59,64,Medium
+Karnataka,Sangrur,2016,104,1423,2567,159887,8,22,43,High
+Punjab,Nagaur,2016,42,1593,1673,198636,8,63,29,Medium
+Rajasthan,Bidar,2015,18,1491,3386,161060,5,73,27,Low
+Rajasthan,Kurnool,2022,5,958,3763,213887,47,78,20,Low
+Telangana,Yavatmal,2022,5,1345,1882,247400,41,76,7,Low
+Punjab,Yavatmal,2022,114,1314,1594,136464,16,57,75,High
+Punjab,Warangal,2015,80,1201,4168,171880,32,82,69,Medium
+Rajasthan,Yavatmal,2022,76,318,1725,282100,6,51,39,Medium
+Karnataka,Kurnool,2018,115,690,4662,105277,27,23,54,High
+Andhra Pradesh,Yavatmal,2021,15,1013,1360,124776,12,66,29,Low
+Karnataka,Yavatmal,2020,52,1648,2435,186989,45,73,41,Medium
+Punjab,Bidar,2018,5,1318,3434,75833,38,39,2,Low
+Rajasthan,Nagaur,2016,91,1762,4366,124876,42,24,41,Medium
+Telangana,Sangrur,2018,135,666,4905,160356,38,26,67,High
+Punjab,Yavatmal,2015,70,780,4423,124767,10,63,59,Medium
+Andhra Pradesh,Warangal,2015,32,894,2177,216633,19,63,22,Low
+Andhra Pradesh,Sangrur,2022,126,1167,1609,114381,29,32,65,High
+Andhra Pradesh,Warangal,2021,64,1116,4208,283091,23,5,10,Medium
+Karnataka,Kurnool,2020,56,917,3975,112289,31,58,50,Medium
+Telangana,Sangrur,2019,204,1450,2432,292043,19,8,73,High
+Telangana,Bidar,2017,99,676,2064,296161,24,44,39,High
+Andhra Pradesh,Warangal,2021,58,1323,2598,90128,9,47,48,Medium
+Punjab,Kurnool,2016,5,1262,4901,211561,37,79,16,Low
+Rajasthan,Yavatmal,2016,83,938,1274,143143,7,78,65,Medium
+Punjab,Nagaur,2016,107,1020,4144,204588,10,43,60,High
+Rajasthan,Kurnool,2015,53,867,4258,93610,42,44,36,Medium
+Telangana,Sangrur,2019,140,1658,3139,185489,26,15,58,High
+Telangana,Nagaur,2022,119,434,4644,215194,28,72,79,High
+Punjab,Nagaur,2020,205,420,4456,297247,33,9,74,High
+Punjab,Kurnool,2021,5,1102,1963,42356,5,72,12,Low
+Karnataka,Kurnool,2019,5,1642,2913,272998,36,59,5,Low
+Rajasthan,Yavatmal,2015,5,1685,1313,53408,25,65,9,Low
+Punjab,Kurnool,2017,161,1362,1661,253861,9,46,76,High
+Punjab,Nagaur,2015,32,1194,3773,220920,33,41,13,Low
+Telangana,Kurnool,2015,71,1570,4687,276356,6,10,18,Medium
+Rajasthan,Bidar,2020,62,534,3463,182185,14,40,34,Medium
+Maharashtra,Warangal,2017,75,505,4750,208933,23,19,28,Medium
+Punjab,Kurnool,2015,87,1498,4360,66320,23,71,74,Medium
+Maharashtra,Bidar,2019,114,1245,2377,263612,5,38,48,High
+Andhra Pradesh,Bidar,2019,47,1131,4388,237772,43,30,17,Medium
+Andhra Pradesh,Kurnool,2016,117,604,4522,191081,43,57,65,High
+Rajasthan,Bidar,2017,74,550,2788,193202,19,33,32,Medium
+Karnataka,Nagaur,2018,61,1396,3679,279664,33,84,41,Medium
+Telangana,Sangrur,2020,91,1522,1717,210882,6,45,45,Medium
+Punjab,Sangrur,2019,37,1241,1541,53185,6,12,22,Low
+Telangana,Bidar,2022,85,591,4406,186379,49,86,66,Medium
+Andhra Pradesh,Nagaur,2021,5,831,2983,206348,46,71,3,Low
+Punjab,Nagaur,2018,5,1142,4193,139162,36,34,2,Low
+Karnataka,Warangal,2021,32,1447,2505,205607,19,52,25,Low
+Karnataka,Yavatmal,2016,93,1691,4500,131158,36,62,64,High
+Andhra Pradesh,Sangrur,2021,93,1415,2288,196782,32,10,29,High
+Punjab,Kurnool,2022,64,1157,1803,227097,41,66,42,Medium
+Maharashtra,Kurnool,2019,5,566,1053,46999,44,63,2,Low
+Maharashtra,Warangal,2017,30,1530,2359,79522,30,27,18,Low
+Rajasthan,Nagaur,2015,34,538,1194,123405,5,49,28,Low
+Andhra Pradesh,Sangrur,2018,136,1202,4861,158585,43,57,79,High
+Telangana,Nagaur,2022,52,1663,4940,183939,16,37,28,Medium
+Karnataka,Kurnool,2021,149,833,2093,181956,36,39,79,High
+Telangana,Nagaur,2016,125,1201,2240,95901,44,33,71,High
+Andhra Pradesh,Nagaur,2016,53,1581,4335,211429,42,52,27,Medium
+Telangana,Sangrur,2019,29,1098,2114,134927,14,71,35,Low
+Andhra Pradesh,Kurnool,2015,109,1102,2011,278724,15,34,48,High
+Rajasthan,Nagaur,2021,5,761,1919,197679,47,62,3,Low
+Andhra Pradesh,Kurnool,2019,22,437,1338,106312,8,65,29,Low
+Punjab,Yavatmal,2016,25,872,3986,143711,23,28,11,Low
+Maharashtra,Warangal,2019,123,1514,2338,231604,25,16,50,High
+Rajasthan,Bidar,2016,6,1791,4749,109768,18,79,32,Low
+Andhra Pradesh,Yavatmal,2017,98,993,2745,208646,15,25,44,High
+Karnataka,Sangrur,2021,61,1156,2000,114425,26,87,65,Medium
+Telangana,Bidar,2021,5,915,1405,91169,21,50,14,Low
+Telangana,Yavatmal,2022,125,674,4130,264538,19,16,40,High
+Rajasthan,Nagaur,2017,171,1479,4255,218505,34,17,77,High
+Andhra Pradesh,Bidar,2020,63,1761,4609,286875,44,47,22,Medium
+Andhra Pradesh,Yavatmal,2020,94,939,3387,55517,47,11,45,High
+Punjab,Kurnool,2021,102,387,4327,150318,13,39,51,High
+Andhra Pradesh,Yavatmal,2015,126,1546,3678,217655,19,24,53,High
+Karnataka,Bidar,2022,105,1109,4421,121036,23,15,50,High
+Telangana,Yavatmal,2016,105,1062,3323,230753,42,14,32,High
+Andhra Pradesh,Warangal,2017,149,883,2319,198171,27,15,64,High
+Andhra Pradesh,Nagaur,2022,61,1383,1649,283347,17,40,26,Medium
+Maharashtra,Nagaur,2021,112,1699,4542,205745,35,15,46,High
+Rajasthan,Yavatmal,2022,122,1451,3285,220359,39,48,60,High
+Karnataka,Yavatmal,2015,89,1762,3153,282084,38,13,22,Medium
+Karnataka,Yavatmal,2017,155,1271,1935,103616,19,19,79,High
+Andhra Pradesh,Bidar,2022,82,692,1039,61379,30,89,77,Medium
+Karnataka,Warangal,2018,5,1361,2234,36587,11,52,18,Low
+Telangana,Sangrur,2015,5,523,3877,64700,49,85,6,Low
+Andhra Pradesh,Bidar,2018,5,569,2630,118059,43,76,25,Low
+Punjab,Nagaur,2021,5,1745,3167,111972,34,71,28,Low
+Andhra Pradesh,Nagaur,2016,92,1019,1405,245286,12,66,57,Medium
+Rajasthan,Sangrur,2016,85,686,2791,125408,35,73,62,Medium
+Karnataka,Bidar,2021,31,1065,1724,237609,24,26,4,Low
+Andhra Pradesh,Yavatmal,2016,28,575,3547,122876,21,58,36,Low
+Karnataka,Kurnool,2015,82,1381,2351,101386,49,27,46,Medium
+Punjab,Yavatmal,2021,145,998,1780,251094,41,32,61,High
+Maharashtra,Nagaur,2016,5,1212,4357,227478,17,86,13,Low
+Andhra Pradesh,Nagaur,2019,80,1148,3983,273154,19,77,52,Medium
+Telangana,Kurnool,2021,71,683,2715,151757,37,61,52,Medium
+Rajasthan,Bidar,2018,41,1038,2866,230399,13,36,15,Medium
+Karnataka,Kurnool,2020,144,1316,1952,254135,12,31,62,High
+Karnataka,Sangrur,2022,14,1365,4773,189882,43,47,17,Low
+Maharashtra,Kurnool,2019,136,723,4478,206469,42,41,64,High
+Rajasthan,Bidar,2015,89,526,2394,184455,25,70,63,Medium
+Punjab,Warangal,2017,129,572,2029,172482,42,32,66,High
+Andhra Pradesh,Sangrur,2018,113,1541,3224,238547,17,56,58,High
+Karnataka,Warangal,2021,32,999,2517,232834,39,60,28,Low
+Maharashtra,Yavatmal,2022,102,908,3494,165639,20,8,38,High
+Punjab,Bidar,2021,29,1211,1183,33358,28,18,25,Low
+Punjab,Yavatmal,2022,54,809,3677,237849,13,30,20,Medium
+Maharashtra,Sangrur,2017,5,451,2028,248306,31,84,15,Low
+Telangana,Bidar,2019,22,1605,2710,298449,27,54,12,Low
+Karnataka,Nagaur,2015,56,969,4970,189892,29,88,49,Medium
+Rajasthan,Kurnool,2020,131,1183,3341,134188,19,56,79,High
+Karnataka,Kurnool,2022,122,1188,3937,154997,47,51,68,High
+Andhra Pradesh,Warangal,2017,32,1025,1871,236486,7,44,10,Low
+Karnataka,Sangrur,2019,132,491,3052,273767,49,73,73,High
+Maharashtra,Bidar,2022,59,1118,3077,298042,32,80,39,Medium
+Punjab,Kurnool,2019,89,1761,1731,230569,34,77,58,Medium
+Maharashtra,Warangal,2015,106,1196,2462,252820,5,69,63,High
+Rajasthan,Yavatmal,2019,5,1658,2232,132421,42,84,8,Low
+Karnataka,Bidar,2020,5,901,2676,108672,18,49,6,Low
+Rajasthan,Nagaur,2021,91,371,4516,272318,31,17,31,Medium
+Telangana,Nagaur,2019,48,1281,3617,152672,27,38,26,Medium
+Andhra Pradesh,Yavatmal,2018,67,689,1709,191215,22,8,17,Medium
+Rajasthan,Kurnool,2021,130,683,1555,139430,19,23,63,High
+Telangana,Sangrur,2015,65,718,2938,179395,40,39,32,Medium
+Telangana,Kurnool,2019,77,444,4398,199024,39,36,36,Medium
+Rajasthan,Yavatmal,2022,53,697,2956,200863,19,72,40,Medium
+Telangana,Nagaur,2018,23,728,3905,278044,6,35,3,Low
+Punjab,Bidar,2021,41,1261,4847,216950,48,61,30,Medium
+Rajasthan,Yavatmal,2016,72,1520,4956,177878,38,47,45,Medium
+Rajasthan,Nagaur,2022,5,793,3667,82227,33,27,6,Low
+Maharashtra,Yavatmal,2022,109,756,2764,219651,10,67,67,High
+Punjab,Sangrur,2015,15,1419,2411,51438,8,85,41,Low
+Andhra Pradesh,Nagaur,2022,5,753,4362,245189,15,81,3,Low
+Telangana,Warangal,2021,5,1593,1224,142752,45,77,23,Low
+Punjab,Kurnool,2021,166,1392,4118,224840,32,29,74,High
+Maharashtra,Bidar,2020,147,1637,1605,140966,45,29,78,High
+Telangana,Yavatmal,2016,89,398,2482,142138,25,25,45,Medium
+Karnataka,Nagaur,2022,63,557,3891,208296,46,86,54,Medium
+Karnataka,Sangrur,2016,111,782,2012,31881,20,10,57,High
+Punjab,Yavatmal,2018,40,1656,2923,225558,6,63,27,Low
+Rajasthan,Warangal,2018,13,440,2789,58202,21,67,36,Low
+Andhra Pradesh,Yavatmal,2022,119,1103,3843,124837,33,51,76,High
+Rajasthan,Nagaur,2016,135,1394,3028,152035,41,33,67,High
+Telangana,Nagaur,2018,104,760,1617,83311,41,31,55,High
+Andhra Pradesh,Warangal,2015,16,1137,1830,33969,26,20,18,Low
+Rajasthan,Warangal,2020,85,344,2810,116486,38,17,43,Medium
+Rajasthan,Warangal,2018,89,1690,1931,206968,43,23,38,Medium
+Telangana,Bidar,2018,45,1332,2311,71347,22,9,20,Medium
+Andhra Pradesh,Nagaur,2016,22,1288,4371,257105,17,46,9,Low
+Telangana,Sangrur,2016,52,777,2182,237288,25,65,31,Medium
+Andhra Pradesh,Yavatmal,2017,40,1461,1129,128064,36,20,16,Low
+Andhra Pradesh,Sangrur,2022,176,428,1906,194726,25,8,71,High
+Maharashtra,Warangal,2021,113,1548,2371,299279,5,51,53,High
+Maharashtra,Yavatmal,2022,83,1431,3578,139863,47,79,67,Medium
+Punjab,Yavatmal,2017,129,1180,3229,33009,20,6,60,High
+Rajasthan,Warangal,2015,61,1419,4452,272471,37,81,42,Medium
+Andhra Pradesh,Nagaur,2022,112,1560,4605,284136,24,31,41,High
+Maharashtra,Yavatmal,2015,124,1645,3059,297687,13,80,73,High
+Karnataka,Yavatmal,2022,55,1087,4110,148843,6,69,51,Medium
+Rajasthan,Sangrur,2016,53,868,2101,274929,33,19,12,Medium
+Telangana,Warangal,2019,52,1170,1279,279737,18,22,14,Medium
+Maharashtra,Warangal,2020,54,1777,1035,109267,26,82,61,Medium
+Karnataka,Bidar,2019,5,463,1147,37697,42,71,23,Low
+Punjab,Sangrur,2019,103,1775,3708,221591,18,82,70,High
+Karnataka,Kurnool,2021,124,1465,3364,246621,36,19,44,High
+Karnataka,Nagaur,2021,156,855,1609,136244,49,31,78,High
+Punjab,Bidar,2019,48,1610,2378,153664,32,87,54,Medium
+Andhra Pradesh,Sangrur,2018,21,590,2668,274936,33,74,25,Low
+Andhra Pradesh,Kurnool,2018,12,1030,4672,60791,5,88,44,Low
+Rajasthan,Sangrur,2019,79,353,2753,98111,39,24,46,Medium
+Karnataka,Yavatmal,2019,73,1434,1128,124913,33,88,70,Medium
+Andhra Pradesh,Sangrur,2015,5,430,3235,158674,9,80,20,Low
+Telangana,Sangrur,2020,51,1425,4034,167900,47,17,13,Medium
+Andhra Pradesh,Kurnool,2020,64,1366,3258,294179,12,46,26,Medium
+Andhra Pradesh,Warangal,2015,5,1343,3487,116226,43,55,12,Low
+Rajasthan,Sangrur,2016,34,1365,1410,242490,42,47,19,Low
+Rajasthan,Warangal,2020,106,1692,2243,31466,11,15,61,High
+Karnataka,Warangal,2016,5,951,4634,248532,28,84,13,Low
+Rajasthan,Warangal,2017,86,604,3054,237370,32,58,45,Medium
+Telangana,Sangrur,2021,15,612,1537,137573,33,87,36,Low
+Rajasthan,Sangrur,2020,78,647,1272,90354,20,34,45,Medium
+Rajasthan,Bidar,2017,5,657,3665,125790,42,68,7,Low
+Maharashtra,Bidar,2015,62,629,1649,113384,11,54,52,Medium
+Karnataka,Warangal,2019,77,1511,1929,31539,21,8,43,Medium
+Karnataka,Nagaur,2016,17,756,3236,127799,28,87,36,Low
+Telangana,Sangrur,2017,88,1606,2567,285821,22,32,29,Medium
+Punjab,Sangrur,2017,79,1354,3307,116436,21,43,48,Medium
+Maharashtra,Bidar,2018,96,841,4741,168442,6,16,36,High
+Maharashtra,Kurnool,2021,146,1778,3300,79593,30,10,70,High
+Rajasthan,Sangrur,2019,45,906,4837,133780,34,46,33,Medium
+Andhra Pradesh,Warangal,2020,166,1161,1154,246486,13,25,76,High
+Punjab,Nagaur,2019,103,570,1769,183267,43,48,54,High
+Punjab,Sangrur,2016,5,721,2444,121321,37,63,11,Low
+Punjab,Yavatmal,2018,114,1180,2121,178929,48,10,42,High
+Rajasthan,Warangal,2022,62,519,1178,203686,13,62,45,Medium
+Andhra Pradesh,Yavatmal,2019,158,779,4514,156202,43,19,71,High
+Punjab,Sangrur,2016,128,647,1028,41781,16,42,77,High
+Punjab,Yavatmal,2018,30,474,2923,72674,25,71,45,Low
+Andhra Pradesh,Sangrur,2022,5,308,4899,233085,17,75,15,Low
+Rajasthan,Yavatmal,2015,160,1731,3160,121563,5,14,72,High
+Karnataka,Yavatmal,2018,70,1668,4536,219933,18,45,36,Medium
+Rajasthan,Kurnool,2017,38,1348,2553,285116,47,82,28,Low
+Punjab,Warangal,2021,151,1764,4163,125386,36,13,68,High
+Karnataka,Yavatmal,2022,121,622,3969,285493,20,28,48,High
+Rajasthan,Kurnool,2019,110,447,2141,153246,22,70,74,High
+Maharashtra,Warangal,2021,100,1272,2137,287134,15,23,35,High
+Andhra Pradesh,Yavatmal,2020,55,1337,1373,110428,48,69,51,Medium
+Rajasthan,Nagaur,2017,126,375,1438,244304,23,32,52,High
+Andhra Pradesh,Yavatmal,2017,165,426,2506,244183,20,42,77,High
+Telangana,Sangrur,2018,5,984,4629,224795,26,89,26,Low
+Andhra Pradesh,Bidar,2015,32,364,2669,157039,27,47,23,Low
+Punjab,Yavatmal,2021,86,1786,4296,113860,43,27,45,Medium
+Maharashtra,Sangrur,2021,20,979,1434,51638,24,10,9,Low
+Karnataka,Kurnool,2016,5,595,3159,78940,17,53,20,Low
+Rajasthan,Kurnool,2018,130,1724,1027,184536,6,29,58,High
+Karnataka,Nagaur,2017,5,548,4068,30901,49,79,14,Low
+Punjab,Kurnool,2017,38,1548,4735,232258,22,68,35,Low
+Telangana,Bidar,2019,65,807,4197,173704,20,23,23,Medium
+Karnataka,Nagaur,2017,109,1140,2664,151897,23,38,55,High
+Maharashtra,Bidar,2019,77,344,4717,261444,10,52,39,Medium
+Maharashtra,Nagaur,2015,30,1055,1273,220195,13,19,4,Low
+Karnataka,Kurnool,2015,90,453,2411,57856,20,19,52,Medium
+Andhra Pradesh,Warangal,2021,117,922,4841,197516,17,8,42,High
+Maharashtra,Kurnool,2021,129,916,2031,292210,13,15,42,High
+Telangana,Kurnool,2018,112,848,2097,54648,11,6,56,High
+Andhra Pradesh,Kurnool,2020,83,478,3244,47118,29,35,50,Medium
+Telangana,Bidar,2019,111,1453,3712,295228,43,74,67,High
+Maharashtra,Sangrur,2020,111,1151,2215,231682,26,63,60,High
+Rajasthan,Nagaur,2022,102,683,3263,98968,8,19,55,High
+Rajasthan,Bidar,2017,38,1169,2635,275277,23,53,16,Low
+Rajasthan,Sangrur,2022,5,894,2577,137792,49,81,7,Low
+Maharashtra,Warangal,2015,142,817,4991,277941,33,29,55,High
+Rajasthan,Sangrur,2016,5,1706,4186,102573,38,32,3,Low
+Rajasthan,Kurnool,2020,79,1246,4673,145375,25,58,56,Medium
+Rajasthan,Sangrur,2022,93,478,2811,82335,36,63,71,High
+Andhra Pradesh,Bidar,2019,77,490,2223,222898,49,11,27,Medium
+Punjab,Nagaur,2021,76,471,4158,100474,46,37,50,Medium
+Andhra Pradesh,Bidar,2017,119,682,3256,203615,36,7,47,High
+Telangana,Nagaur,2021,53,1691,4324,143758,21,28,23,Medium
+Maharashtra,Nagaur,2020,5,1658,4150,151635,12,83,3,Low
+Andhra Pradesh,Bidar,2016,29,1283,2511,267919,36,17,1,Low
+Rajasthan,Warangal,2020,18,1188,4420,184721,22,75,31,Low
+Rajasthan,Sangrur,2020,111,685,4280,289021,29,60,61,High
+Andhra Pradesh,Yavatmal,2016,57,1451,3672,170202,21,84,58,Medium
+Telangana,Kurnool,2021,121,1161,4461,237440,43,73,69,High
+Punjab,Bidar,2019,138,1008,2449,160744,6,13,64,High
+Andhra Pradesh,Nagaur,2017,5,1177,2632,159553,11,69,1,Low
+Telangana,Kurnool,2016,32,1606,2706,73066,36,37,28,Low
+Karnataka,Warangal,2018,5,617,2487,101537,46,60,13,Low
+Rajasthan,Kurnool,2015,128,528,1170,243286,46,85,79,High
+Rajasthan,Sangrur,2020,118,1061,1865,202857,8,71,71,High
+Maharashtra,Nagaur,2020,24,492,2091,61601,47,33,21,Low
+Karnataka,Sangrur,2021,76,1621,4506,259047,10,24,27,Medium
+Karnataka,Nagaur,2015,46,1692,1535,264453,39,66,30,Medium
+Telangana,Nagaur,2019,41,724,3601,167152,35,34,18,Medium
+Rajasthan,Nagaur,2021,86,1284,2230,185063,26,71,56,Medium
+Karnataka,Warangal,2016,8,1437,2916,94384,25,74,37,Low
+Punjab,Bidar,2017,105,1088,2972,62634,44,30,65,High
+Maharashtra,Sangrur,2015,5,834,4462,34011,11,83,34,Low
+Andhra Pradesh,Warangal,2020,77,889,2039,280463,23,6,10,Medium
+Andhra Pradesh,Bidar,2019,5,951,2861,297413,36,88,1,Low
+Andhra Pradesh,Yavatmal,2020,69,510,4985,243893,49,27,23,Medium
+Telangana,Sangrur,2016,78,1420,4022,79699,49,59,64,Medium
+Andhra Pradesh,Yavatmal,2021,5,1147,1598,38997,20,82,29,Low
+Punjab,Kurnool,2016,160,468,3728,222150,11,7,58,High
+Punjab,Bidar,2015,146,569,2203,138255,10,14,71,High
+Rajasthan,Warangal,2019,108,425,4003,171385,46,55,64,High
+Karnataka,Nagaur,2017,148,583,2744,222319,6,40,71,High
+Karnataka,Warangal,2020,24,746,1985,293136,15,78,25,Low
+Punjab,Kurnool,2020,112,340,1428,140957,37,21,57,High
+Karnataka,Warangal,2020,61,1283,4720,176768,21,54,40,Medium
+Andhra Pradesh,Kurnool,2016,52,994,1924,193991,14,21,18,Medium
+Telangana,Kurnool,2019,14,1405,2552,81272,18,53,29,Low
+Maharashtra,Sangrur,2018,181,1699,4959,183706,48,13,77,High
+Punjab,Warangal,2019,46,546,1530,109795,30,30,26,Medium
+Telangana,Bidar,2016,54,1454,3497,41049,23,21,33,Medium
+Karnataka,Sangrur,2017,71,1372,1566,251849,39,76,52,Medium
+Andhra Pradesh,Nagaur,2021,124,1369,3349,200851,20,28,61,High
+Karnataka,Bidar,2016,5,1441,3511,95679,12,33,6,Low
+Telangana,Bidar,2020,110,1110,3713,206326,37,30,45,High
+Punjab,Warangal,2018,29,758,2537,288667,34,53,12,Low
+Karnataka,Kurnool,2020,94,1193,3657,187977,25,32,48,High
+Maharashtra,Yavatmal,2015,44,386,2102,213500,27,85,48,Medium
+Telangana,Warangal,2017,132,857,1898,256486,16,44,66,High
+Rajasthan,Sangrur,2016,69,537,2157,294140,40,26,18,Medium
+Telangana,Sangrur,2020,27,1696,4122,231798,36,52,19,Low
+Telangana,Sangrur,2019,25,918,3404,90038,9,15,15,Low
+Maharashtra,Kurnool,2021,5,1616,2032,219826,33,74,17,Low
+Andhra Pradesh,Bidar,2017,5,721,4911,64409,28,39,14,Low
+Maharashtra,Warangal,2020,136,663,3166,75689,21,21,67,High
+Karnataka,Warangal,2021,5,815,3985,153745,46,89,4,Low
+Andhra Pradesh,Sangrur,2016,132,1335,2104,211089,10,12,51,High
+Karnataka,Warangal,2015,16,1325,3567,106411,40,14,8,Low
+Andhra Pradesh,Yavatmal,2018,114,552,2549,219167,25,25,50,High
+Telangana,Bidar,2015,133,709,2445,191323,26,48,74,High
+Karnataka,Sangrur,2016,5,1617,1919,133986,14,76,21,Low
+Andhra Pradesh,Bidar,2020,106,338,3007,219216,22,60,57,High
+Telangana,Yavatmal,2017,74,409,2016,274255,46,30,25,Medium
+Maharashtra,Bidar,2018,122,531,2917,255756,35,68,71,High
+Karnataka,Kurnool,2016,80,829,3734,53777,24,39,51,Medium
+Andhra Pradesh,Nagaur,2016,90,921,4837,167799,34,48,53,Medium
+Telangana,Bidar,2017,119,493,4257,141776,17,44,68,High
+Punjab,Yavatmal,2019,120,1161,4346,235753,27,58,65,High
+Maharashtra,Kurnool,2015,91,356,3159,79156,30,34,54,Medium
+Punjab,Kurnool,2017,163,389,3663,90282,16,6,75,High
+Telangana,Yavatmal,2019,50,784,4029,43569,41,11,26,Medium
+Rajasthan,Warangal,2015,35,843,3830,35636,15,78,52,Low
+Karnataka,Kurnool,2020,20,1501,1654,84633,11,44,28,Low
+Telangana,Kurnool,2020,99,876,1899,222537,41,27,40,High
+Punjab,Nagaur,2019,77,554,1067,86116,46,29,44,Medium
+Maharashtra,Kurnool,2022,168,1307,3400,187403,13,16,69,High
+Rajasthan,Warangal,2022,75,398,1196,188177,38,81,58,Medium
+Punjab,Yavatmal,2020,100,1135,2204,112464,11,60,72,High
+Punjab,Yavatmal,2017,130,676,1654,118741,19,9,54,High
+Maharashtra,Warangal,2020,141,303,3910,136471,40,29,76,High
+Telangana,Kurnool,2017,109,872,2332,135386,39,67,78,High
+Andhra Pradesh,Bidar,2021,172,728,1433,289278,32,46,76,High
+Andhra Pradesh,Yavatmal,2016,110,1490,3911,291849,21,39,46,High
+Rajasthan,Yavatmal,2015,99,1769,3341,55494,26,8,49,High
+Telangana,Yavatmal,2015,82,771,4815,163501,35,35,40,Medium
+Punjab,Sangrur,2016,67,988,3427,196991,17,19,27,Medium
+Rajasthan,Warangal,2020,117,1743,1706,127493,26,53,76,High
+Telangana,Yavatmal,2021,38,1569,4155,222718,27,32,16,Low
+Andhra Pradesh,Bidar,2016,47,336,1332,242369,18,66,36,Medium
+Telangana,Warangal,2017,11,664,4371,123944,48,72,34,Low
+Andhra Pradesh,Yavatmal,2022,143,341,2320,145140,14,14,60,High
+Andhra Pradesh,Bidar,2018,107,1180,4814,229757,25,34,49,High
+Karnataka,Kurnool,2016,111,996,4645,295660,44,42,43,High
+Telangana,Yavatmal,2015,5,1315,3656,33626,40,14,6,Low
+Maharashtra,Sangrur,2019,103,391,1126,126055,27,24,54,High
+Andhra Pradesh,Yavatmal,2021,5,1380,2628,189762,37,69,3,Low
+Andhra Pradesh,Sangrur,2015,70,851,4394,121288,49,59,52,Medium
+Andhra Pradesh,Yavatmal,2019,81,1507,2391,52486,10,81,73,Medium
+Andhra Pradesh,Yavatmal,2017,101,510,1503,103606,46,46,59,High
+Karnataka,Bidar,2017,151,1242,1257,192403,23,21,69,High
+Maharashtra,Kurnool,2020,85,1062,2104,232278,40,44,45,Medium
+Rajasthan,Bidar,2019,182,503,3243,278003,28,18,69,High
+Maharashtra,Bidar,2017,5,1079,2233,38720,34,79,23,Low
+Karnataka,Warangal,2015,172,570,2947,211143,39,31,76,High
+Karnataka,Kurnool,2015,10,408,3688,179001,36,66,18,Low
+Rajasthan,Sangrur,2018,34,829,1678,59777,48,76,54,Low
+Telangana,Yavatmal,2018,57,1361,2978,196280,13,76,51,Medium
+Maharashtra,Kurnool,2020,29,457,2027,232918,24,68,25,Low
+Maharashtra,Sangrur,2020,98,1473,4230,188998,24,42,55,High
+Karnataka,Bidar,2021,60,1674,3187,176025,9,54,42,Medium
+Telangana,Warangal,2021,126,957,3497,75641,19,21,68,High
+Rajasthan,Bidar,2021,87,1575,3042,63477,42,49,58,Medium
+Rajasthan,Yavatmal,2018,5,1401,1325,172692,36,71,3,Low
+Punjab,Sangrur,2019,49,631,4164,219103,21,11,13,Medium
+Telangana,Yavatmal,2021,76,899,2552,133475,10,87,69,Medium
+Karnataka,Sangrur,2019,79,1022,1276,237383,42,8,24,Medium
+Punjab,Warangal,2015,74,1168,2191,260063,39,60,40,Medium
+Telangana,Nagaur,2020,5,1464,1666,43731,44,85,2,Low
+Telangana,Yavatmal,2018,100,1671,1170,124202,30,26,55,High
+Punjab,Warangal,2016,29,695,1727,241027,43,43,13,Low
+Karnataka,Kurnool,2019,81,1591,2548,285095,14,61,40,Medium
+Andhra Pradesh,Sangrur,2017,6,816,3777,236717,11,60,10,Low
+Telangana,Yavatmal,2017,116,842,4658,242204,11,70,70,High
+Telangana,Bidar,2016,19,763,4992,134843,11,43,17,Low
+Punjab,Nagaur,2019,118,1414,1749,211413,6,88,79,High
+Andhra Pradesh,Kurnool,2015,63,1375,2312,76705,9,22,38,Medium
+Rajasthan,Sangrur,2021,5,1131,3697,45994,48,86,16,Low
+Punjab,Yavatmal,2018,94,813,3397,262911,9,57,45,High
+Andhra Pradesh,Sangrur,2020,60,1637,3540,87241,11,46,47,Medium
+Andhra Pradesh,Warangal,2016,44,523,3201,208735,35,23,9,Medium
+Telangana,Nagaur,2017,91,1315,3111,65187,15,62,75,Medium
+Andhra Pradesh,Nagaur,2020,108,365,3650,296186,22,69,63,High
+Punjab,Warangal,2021,106,1196,1280,217877,24,71,63,High
+Maharashtra,Yavatmal,2020,104,791,4580,235380,13,6,34,High
+Andhra Pradesh,Yavatmal,2016,140,1399,3723,243493,25,53,70,High
+Karnataka,Sangrur,2016,128,1712,2005,101356,25,30,72,High
+Rajasthan,Sangrur,2022,68,1580,4727,142036,7,56,47,Medium
+Punjab,Kurnool,2016,5,737,3202,142313,42,50,11,Low
+Karnataka,Kurnool,2021,134,1131,1485,137967,24,12,58,High
+Maharashtra,Bidar,2019,101,1594,4677,265161,14,33,36,High
+Andhra Pradesh,Nagaur,2019,8,1665,1838,158406,45,84,28,Low
+Rajasthan,Nagaur,2019,5,524,4576,51576,31,81,29,Low
+Karnataka,Sangrur,2018,17,1543,3887,252428,9,46,7,Low
+Telangana,Bidar,2017,5,1381,4885,147569,29,77,27,Low
+Maharashtra,Yavatmal,2018,106,964,2717,120748,10,57,66,High
+Maharashtra,Warangal,2020,57,1104,3451,127382,28,88,65,Medium
+Karnataka,Sangrur,2015,83,416,1627,296285,15,68,45,Medium
+Karnataka,Yavatmal,2017,146,839,2507,210175,44,20,59,High
+Punjab,Nagaur,2021,107,1211,2294,273466,5,83,68,High
+Andhra Pradesh,Sangrur,2019,67,693,2098,84225,38,45,50,Medium
+Punjab,Sangrur,2018,113,306,3096,81360,41,52,79,High
+Karnataka,Warangal,2018,149,797,4700,186323,36,32,77,High
+Telangana,Sangrur,2022,107,1633,3083,228360,20,62,65,High
+Punjab,Nagaur,2022,47,918,2132,199331,41,57,36,Medium
+Telangana,Warangal,2019,155,1789,3481,283608,22,26,66,High
+Telangana,Kurnool,2020,110,901,2620,125419,35,77,78,High
+Andhra Pradesh,Yavatmal,2018,59,475,1237,51602,43,62,51,Medium
+Maharashtra,Sangrur,2015,29,510,2146,201236,22,20,4,Low
+Andhra Pradesh,Nagaur,2021,156,1335,2890,221824,46,36,74,High
+Karnataka,Kurnool,2019,34,661,4720,157904,40,22,9,Low
+Rajasthan,Bidar,2021,156,689,1631,224716,19,8,57,High
+Telangana,Sangrur,2020,91,925,1061,75929,42,49,58,Medium
+Maharashtra,Bidar,2015,50,1297,1460,176115,18,56,37,Medium
+Telangana,Yavatmal,2018,65,1697,2604,121038,49,13,32,Medium
+Rajasthan,Sangrur,2020,35,413,3251,192434,30,61,30,Low
+Maharashtra,Yavatmal,2020,5,814,1429,182131,29,55,13,Low
+Telangana,Sangrur,2021,87,770,2416,31468,45,48,64,Medium
+Maharashtra,Yavatmal,2019,73,357,2129,277113,47,38,30,Medium
+Rajasthan,Nagaur,2021,128,696,2538,228681,28,57,70,High
+Telangana,Yavatmal,2015,5,1109,3763,261408,40,70,11,Low
+Maharashtra,Yavatmal,2016,138,896,3147,259991,48,26,53,High
+Punjab,Kurnool,2018,55,841,2287,105361,13,24,25,Medium
+Andhra Pradesh,Sangrur,2021,89,627,3258,288970,44,30,27,Medium
+Maharashtra,Yavatmal,2019,5,466,4771,247256,37,87,16,Low
+Maharashtra,Warangal,2022,73,405,3779,196862,17,32,33,Medium
+Karnataka,Sangrur,2016,74,416,1797,271356,43,37,26,Medium
+Karnataka,Bidar,2020,67,1692,3693,188253,42,22,27,Medium
+Telangana,Yavatmal,2015,28,745,2948,232821,18,26,6,Low
+Telangana,Sangrur,2020,26,1601,2586,125335,29,17,10,Low
+Telangana,Yavatmal,2015,139,1080,1225,288789,7,63,70,High
+Karnataka,Sangrur,2017,170,1533,1614,226936,16,9,67,High
+Karnataka,Nagaur,2018,9,1264,1128,86017,16,81,41,Low
+Andhra Pradesh,Kurnool,2022,14,1243,4095,124346,33,39,15,Low
+Karnataka,Sangrur,2022,120,1515,2695,105839,6,28,66,High
+Punjab,Yavatmal,2019,113,1518,1505,219773,29,52,65,High
+Rajasthan,Yavatmal,2016,52,1716,3853,124968,5,25,27,Medium
+Punjab,Nagaur,2021,186,1323,1555,229294,44,7,76,High
+Telangana,Yavatmal,2022,39,601,3773,180685,9,13,11,Low
+Punjab,Sangrur,2015,11,1261,3775,66445,41,64,31,Low
+Karnataka,Yavatmal,2022,104,916,1538,98322,6,25,58,High
+Telangana,Kurnool,2019,49,1160,2043,160364,42,24,25,Medium
+Karnataka,Yavatmal,2020,50,1646,3784,144176,9,17,19,Medium
+Karnataka,Bidar,2017,157,1614,3379,126516,38,26,77,High
+Rajasthan,Sangrur,2018,153,1120,3515,195278,9,37,72,High
+Telangana,Warangal,2022,77,1183,1331,118780,49,43,46,Medium
+Telangana,Bidar,2022,77,770,4455,90091,36,19,36,Medium
+Andhra Pradesh,Nagaur,2022,5,468,4401,119367,22,53,18,Low
+Telangana,Yavatmal,2019,25,359,4382,251711,39,86,29,Low
+Karnataka,Bidar,2015,12,700,4350,188698,21,62,14,Low
+Rajasthan,Sangrur,2019,41,1682,2463,229121,27,66,33,Medium
+Maharashtra,Bidar,2015,59,316,2554,270346,10,38,25,Medium
+Maharashtra,Yavatmal,2022,5,1158,2423,184841,34,84,7,Low
+Punjab,Yavatmal,2022,57,1747,3045,163922,25,54,43,Medium
+Karnataka,Bidar,2020,139,1606,3451,259016,6,13,53,High
+Punjab,Warangal,2020,27,402,1992,100400,41,74,45,Low
+Andhra Pradesh,Yavatmal,2015,23,805,4253,147369,35,63,29,Low
+Karnataka,Nagaur,2022,24,1743,3815,164585,28,67,25,Low
+Maharashtra,Nagaur,2016,102,1360,2817,87480,39,68,72,High
+Rajasthan,Yavatmal,2020,5,1790,1925,82066,47,67,11,Low
+Telangana,Nagaur,2021,135,702,1395,59086,47,41,79,High
+Punjab,Yavatmal,2018,68,1453,1083,190014,8,54,38,Medium
+Punjab,Warangal,2022,5,422,4719,147174,18,78,9,Low
+Punjab,Warangal,2018,52,1234,2101,202106,43,29,21,Medium
+Punjab,Sangrur,2022,5,1409,2172,33771,48,54,23,Low
+Andhra Pradesh,Warangal,2018,154,1145,2991,284472,39,25,58,High
+Karnataka,Sangrur,2015,155,811,3896,89946,35,10,78,High
+Telangana,Warangal,2018,19,1560,2857,178878,27,33,7,Low
+Telangana,Nagaur,2015,5,1739,4053,57909,31,86,24,Low
+Maharashtra,Sangrur,2020,139,1057,4095,177776,22,48,76,High
+Telangana,Warangal,2021,108,1793,1745,158041,32,86,78,High
+Telangana,Yavatmal,2020,87,1560,3356,37642,40,9,49,Medium
+Rajasthan,Yavatmal,2015,113,1616,1737,180534,44,43,62,High
+Telangana,Nagaur,2019,22,1053,1485,212225,48,29,7,Low
+Telangana,Kurnool,2017,5,1175,4806,207129,24,87,11,Low
+Punjab,Kurnool,2021,17,665,2313,281753,23,62,9,Low
+Punjab,Yavatmal,2015,31,1115,3220,275993,29,82,25,Low
+Punjab,Yavatmal,2021,29,623,4058,194052,18,37,10,Low
+Rajasthan,Nagaur,2017,36,404,2489,68346,6,80,54,Low
+Punjab,Sangrur,2022,5,1544,1378,164365,6,77,2,Low
+Maharashtra,Yavatmal,2018,67,482,1711,248980,37,10,19,Medium
+Punjab,Warangal,2015,13,809,2575,97359,9,21,8,Low
+Maharashtra,Bidar,2022,102,386,4490,211446,19,57,54,High
+Maharashtra,Bidar,2017,5,1063,1701,54502,28,50,22,Low
+Punjab,Sangrur,2015,78,1625,1037,252343,41,44,34,Medium
+Telangana,Bidar,2015,90,607,2397,159999,33,13,33,Medium
+Andhra Pradesh,Kurnool,2019,130,1152,2220,41017,10,17,65,High
+Karnataka,Nagaur,2022,23,1268,1368,65010,15,16,10,Low
+Karnataka,Bidar,2017,141,1769,1629,230867,43,57,78,High
+Karnataka,Nagaur,2018,43,1576,1797,129083,39,81,52,Medium
+Punjab,Warangal,2018,89,1403,4718,137338,37,62,64,Medium
+Telangana,Sangrur,2021,81,530,1873,57197,30,77,77,Medium
+Karnataka,Warangal,2015,123,429,3188,155342,33,32,60,High
+Karnataka,Warangal,2016,5,1463,3404,88008,17,89,31,Low
+Maharashtra,Sangrur,2020,111,1712,4724,128971,47,51,71,High
+Punjab,Nagaur,2019,42,1442,4057,169861,12,85,52,Medium
+Rajasthan,Bidar,2016,70,1527,4951,188957,31,12,23,Medium
+Andhra Pradesh,Bidar,2022,42,934,1253,115468,24,20,17,Medium
+Punjab,Nagaur,2020,74,1504,3908,100248,40,35,44,Medium
+Karnataka,Bidar,2021,159,987,1395,142223,29,22,79,High
+Maharashtra,Warangal,2017,102,415,4234,210449,42,58,62,High
+Maharashtra,Bidar,2022,116,1193,2881,88453,35,14,56,High
+Andhra Pradesh,Warangal,2020,66,432,3838,197610,33,84,54,Medium
+Rajasthan,Sangrur,2018,73,990,2357,296278,41,54,34,Medium
+Rajasthan,Bidar,2021,16,1377,2963,166225,11,66,23,Low
+Rajasthan,Bidar,2019,150,1318,4283,270491,34,21,59,High
+Punjab,Warangal,2022,37,344,4179,208394,40,67,32,Low
+Punjab,Nagaur,2020,136,1702,1488,243678,38,21,54,High
+Andhra Pradesh,Sangrur,2017,5,893,3228,102178,23,51,6,Low
+Maharashtra,Warangal,2022,165,982,2318,171707,49,14,71,High
+Karnataka,Bidar,2018,136,1088,1292,75591,29,11,71,High
+Maharashtra,Sangrur,2015,5,1335,1034,67310,8,61,13,Low
+Maharashtra,Kurnool,2021,127,643,2103,252603,38,75,75,High
+Maharashtra,Bidar,2017,82,495,2866,111948,6,20,39,Medium
+Andhra Pradesh,Bidar,2019,175,1239,2659,197442,11,12,77,High
+Maharashtra,Bidar,2020,119,1014,4031,271605,30,75,70,High
+Andhra Pradesh,Sangrur,2021,27,623,2721,181152,41,65,30,Low
+Karnataka,Bidar,2015,146,1450,1192,147265,14,15,65,High
+Andhra Pradesh,Warangal,2015,8,1375,4778,114433,45,82,31,Low
+Rajasthan,Kurnool,2018,8,1296,3969,198756,21,29,2,Low
+Telangana,Warangal,2020,131,799,2684,276476,41,30,55,High
+Telangana,Bidar,2020,73,1379,1227,194909,20,20,29,Medium
+Punjab,Bidar,2017,27,652,4137,293246,26,78,22,Low
+Karnataka,Sangrur,2019,141,1612,2924,124937,17,31,78,High
+Punjab,Bidar,2020,51,1294,2583,51182,18,16,28,Medium
+Andhra Pradesh,Sangrur,2015,72,1107,3224,164484,27,88,64,Medium
+Karnataka,Bidar,2016,45,501,2353,188058,10,80,43,Medium
+Andhra Pradesh,Nagaur,2015,84,689,1433,266668,19,76,51,Medium
+Rajasthan,Kurnool,2020,74,1569,1738,268697,5,64,46,Medium
+Maharashtra,Warangal,2020,5,1078,3315,65825,43,75,11,Low
+Telangana,Bidar,2019,5,1469,4496,56751,35,59,10,Low
+Rajasthan,Sangrur,2017,38,714,1197,211303,15,19,10,Low
+Karnataka,Yavatmal,2016,86,370,1910,50369,22,6,43,Medium
+Rajasthan,Nagaur,2016,35,432,4466,137584,38,5,2,Low
+Andhra Pradesh,Kurnool,2022,5,1647,4966,126651,26,24,1,Low
+Rajasthan,Warangal,2019,9,323,4003,218726,17,84,24,Low
+Rajasthan,Yavatmal,2016,55,1659,1421,203805,5,79,51,Medium
+Punjab,Kurnool,2019,18,1148,4769,43877,43,46,28,Low
+Punjab,Warangal,2016,44,1510,3025,61629,16,51,42,Medium
+Maharashtra,Sangrur,2015,73,355,4324,118697,46,6,30,Medium
+Telangana,Sangrur,2015,51,1101,1109,125872,13,88,53,Medium
+Telangana,Warangal,2022,42,856,4523,157880,45,26,18,Medium
+Maharashtra,Sangrur,2021,94,945,3770,176479,11,84,69,High
+Karnataka,Sangrur,2019,51,786,4282,56613,41,85,64,Medium
+Andhra Pradesh,Kurnool,2015,5,1097,1238,193347,22,78,24,Low
+Andhra Pradesh,Warangal,2019,39,1725,3812,87175,6,52,33,Low
+Karnataka,Warangal,2017,69,1316,3022,283564,14,69,42,Medium
+Telangana,Sangrur,2015,7,1217,3367,166262,27,29,6,Low
+Karnataka,Warangal,2019,34,524,2842,114667,10,41,31,Low
+Karnataka,Nagaur,2019,51,1765,1013,90148,19,12,26,Medium
+Andhra Pradesh,Warangal,2018,70,745,4279,279301,16,84,51,Medium
+Rajasthan,Yavatmal,2019,5,938,1849,68409,46,43,1,Low
+Andhra Pradesh,Bidar,2021,58,1199,3235,52419,14,38,48,Medium
+Maharashtra,Kurnool,2016,5,1388,1332,109360,9,84,15,Low
+Telangana,Kurnool,2017,123,1692,4937,271435,46,65,64,High
+Karnataka,Yavatmal,2022,51,1216,1716,298602,9,74,30,Medium
+Punjab,Warangal,2022,116,1268,4201,123476,5,8,54,High
+Karnataka,Nagaur,2021,5,1783,4529,30801,47,78,22,Low
+Maharashtra,Yavatmal,2020,88,1429,3959,191792,12,52,50,Medium
+Andhra Pradesh,Warangal,2022,21,1653,4629,207476,23,42,11,Low
+Telangana,Warangal,2019,87,1149,4896,295033,38,30,30,Medium
+Rajasthan,Sangrur,2021,117,1058,4139,299756,10,82,68,High
+Karnataka,Sangrur,2019,43,1502,3800,154746,20,34,25,Medium
+Punjab,Yavatmal,2022,106,1668,1530,185049,45,27,47,High
+Karnataka,Yavatmal,2016,157,443,4656,285564,39,45,77,High
+Punjab,Bidar,2022,76,1553,4167,180453,44,32,37,Medium
+Karnataka,Bidar,2016,136,738,2155,171154,14,51,75,High
+Rajasthan,Warangal,2019,47,1212,3511,268922,45,71,29,Medium
+Telangana,Nagaur,2016,51,1633,4102,229783,46,62,30,Medium
+Telangana,Sangrur,2017,40,1559,1853,125696,40,21,14,Low
+Karnataka,Nagaur,2020,79,1216,4748,43450,24,39,53,Medium
+Rajasthan,Sangrur,2018,106,947,4075,226701,48,52,52,High
+Telangana,Warangal,2017,118,504,3428,181043,16,77,77,High
+Maharashtra,Nagaur,2016,43,850,4547,86176,17,81,58,Medium
+Maharashtra,Nagaur,2020,88,1016,4641,178348,24,19,33,Medium
+Rajasthan,Nagaur,2019,38,1257,1762,202687,6,85,43,Low
+Telangana,Sangrur,2019,67,1591,1595,160381,20,63,49,Medium
+Karnataka,Sangrur,2020,142,1612,2821,117566,22,27,78,High
+Andhra Pradesh,Nagaur,2021,70,1522,2294,38749,42,50,56,Medium
+Punjab,Kurnool,2021,88,1284,2587,42213,28,61,66,Medium
+Karnataka,Bidar,2020,139,372,2889,209000,27,9,55,High
+Rajasthan,Kurnool,2018,115,1640,2806,57328,26,7,54,High
+Telangana,Yavatmal,2021,84,1684,1337,197984,43,69,57,Medium
+Karnataka,Kurnool,2021,28,382,3104,198206,39,80,30,Low
+Andhra Pradesh,Sangrur,2015,60,421,1040,76246,30,6,23,Medium
+Karnataka,Kurnool,2018,115,1222,2842,103535,21,42,65,High
+Punjab,Bidar,2019,18,920,4790,158938,48,72,33,Low
+Punjab,Bidar,2016,5,1679,1147,138541,45,79,12,Low
+Rajasthan,Warangal,2022,75,528,2598,246915,29,16,21,Medium
+Karnataka,Nagaur,2016,5,1412,4426,155555,36,53,14,Low
+Karnataka,Bidar,2017,56,1136,1388,291602,23,27,9,Medium
+Karnataka,Yavatmal,2020,197,556,4417,277481,29,20,79,High
+Telangana,Nagaur,2019,58,1475,3670,51686,19,87,72,Medium
+Maharashtra,Sangrur,2016,167,654,2750,276256,12,27,68,High
+Andhra Pradesh,Yavatmal,2019,58,1644,1323,32431,36,85,64,Medium
+Andhra Pradesh,Warangal,2016,154,1703,2426,235463,49,15,59,High
+Maharashtra,Bidar,2017,5,1255,1584,55651,32,69,17,Low
+Maharashtra,Kurnool,2020,134,1288,4281,266974,42,74,76,High
+Telangana,Yavatmal,2020,96,1599,4406,193944,14,14,39,High
+Punjab,Yavatmal,2017,115,1786,2748,150627,41,60,76,High
+Karnataka,Yavatmal,2019,59,391,4862,259484,44,48,24,Medium
+Maharashtra,Yavatmal,2020,106,972,2551,217965,47,86,71,High
+Maharashtra,Nagaur,2020,5,658,2942,88601,47,61,9,Low
+Karnataka,Kurnool,2016,37,430,3850,54544,25,68,52,Low
+Karnataka,Sangrur,2021,25,1419,1773,206637,49,89,32,Low
+Punjab,Bidar,2018,5,1034,4028,177937,19,82,19,Low
+Rajasthan,Nagaur,2018,25,884,3916,42755,38,42,26,Low
+Telangana,Kurnool,2021,81,1396,3015,229988,10,82,58,Medium
+Punjab,Warangal,2017,83,1086,1148,102914,28,30,45,Medium
+Maharashtra,Warangal,2018,77,1224,2296,39795,48,65,68,Medium
+Karnataka,Sangrur,2021,142,1069,3040,180616,10,30,72,High
+Punjab,Bidar,2016,59,556,2212,110770,8,45,37,Medium
+Rajasthan,Yavatmal,2017,24,867,4033,289405,45,87,30,Low
+Punjab,Warangal,2016,23,1042,4543,73013,42,45,27,Low
+Andhra Pradesh,Bidar,2015,32,543,1326,129290,19,17,11,Low
+Maharashtra,Nagaur,2018,5,1544,3120,46105,8,50,18,Low
+Karnataka,Kurnool,2021,132,423,4081,264824,35,32,60,High
+Rajasthan,Nagaur,2016,36,1540,1910,80893,11,28,27,Low
+Rajasthan,Nagaur,2017,98,466,4006,291401,5,8,29,High
+Punjab,Yavatmal,2020,122,694,2097,234986,21,40,56,High
+Maharashtra,Kurnool,2019,58,1588,1138,165797,10,81,56,Medium
+Punjab,Yavatmal,2018,19,1273,1639,92894,9,62,36,Low
+Maharashtra,Yavatmal,2016,43,1148,3973,258748,5,69,33,Medium
+Karnataka,Yavatmal,2019,117,1287,2440,159380,45,34,57,High
+Karnataka,Bidar,2018,14,368,2751,215221,29,69,25,Low
+Maharashtra,Yavatmal,2017,99,348,2682,206443,47,33,50,High
+Karnataka,Bidar,2018,118,1689,1419,52076,21,53,76,High
+Maharashtra,Sangrur,2017,86,356,4633,243968,41,50,42,Medium
+Karnataka,Sangrur,2021,125,1471,1229,235591,20,69,73,High
+Karnataka,Nagaur,2015,65,1799,4644,103309,31,78,61,Medium
+Rajasthan,Bidar,2017,5,536,4810,289252,25,78,7,Low
+Punjab,Warangal,2021,103,772,4742,238851,40,58,54,High
+Andhra Pradesh,Sangrur,2020,54,1729,1116,207946,41,50,35,Medium
+Andhra Pradesh,Yavatmal,2015,59,446,1121,275840,49,30,22,Medium
+Telangana,Warangal,2017,111,1744,2345,169152,44,42,61,High
+Andhra Pradesh,Sangrur,2019,52,763,1911,68314,46,81,57,Medium
+Punjab,Nagaur,2018,94,952,2298,196866,49,58,61,High
+Maharashtra,Yavatmal,2017,93,1785,4151,185146,37,11,31,High
+Rajasthan,Nagaur,2021,111,1799,2972,128066,21,10,49,High
+Maharashtra,Bidar,2021,32,322,1565,159789,9,63,36,Low
+Maharashtra,Bidar,2015,5,1234,2113,298227,49,80,1,Low
+Andhra Pradesh,Warangal,2016,26,1494,4138,226604,48,36,10,Low
+Andhra Pradesh,Warangal,2016,5,327,2972,226211,8,83,17,Low
+Punjab,Yavatmal,2021,107,1301,3231,294320,39,68,58,High
+Karnataka,Sangrur,2017,6,766,3332,289488,40,65,4,Low
+Rajasthan,Yavatmal,2017,9,716,4989,296626,27,89,23,Low
+Andhra Pradesh,Kurnool,2017,5,512,4353,91480,39,42,11,Low
+Andhra Pradesh,Warangal,2017,101,1772,2779,254757,23,50,49,High
+Karnataka,Bidar,2017,5,1465,3091,165311,37,81,12,Low
+Rajasthan,Bidar,2015,18,1096,3372,175093,35,84,31,Low
+Rajasthan,Bidar,2019,17,771,3121,33770,38,53,28,Low
+Andhra Pradesh,Kurnool,2015,135,1293,3295,177522,11,28,63,High
+Andhra Pradesh,Nagaur,2018,109,611,3356,92576,32,76,79,High
+Telangana,Yavatmal,2019,5,1228,3168,125428,42,30,1,Low
+Rajasthan,Yavatmal,2015,89,588,3247,89155,20,25,45,Medium
+Rajasthan,Warangal,2016,120,311,1832,132395,30,13,51,High
+Maharashtra,Nagaur,2019,5,686,2249,237328,28,77,13,Low
+Andhra Pradesh,Sangrur,2015,147,1114,1917,236271,25,43,72,High
+Andhra Pradesh,Bidar,2015,179,772,1992,285233,23,24,70,High
+Telangana,Bidar,2020,115,1007,3397,204166,22,30,56,High
+Karnataka,Kurnool,2019,107,932,1992,83251,26,41,71,High
+Andhra Pradesh,Warangal,2017,5,643,4911,105320,42,64,19,Low
+Telangana,Nagaur,2015,132,1333,4663,261615,8,47,59,High
+Karnataka,Sangrur,2019,111,1601,4336,210680,31,21,44,High
+Maharashtra,Kurnool,2017,78,1356,2536,99835,10,45,55,Medium
+Punjab,Yavatmal,2015,53,1149,1832,80613,12,7,25,Medium
+Punjab,Yavatmal,2016,5,1184,4166,85918,22,61,16,Low
+Rajasthan,Bidar,2021,57,1046,3484,64622,29,36,38,Medium
+Telangana,Kurnool,2022,135,887,1656,74772,31,17,72,High
+Telangana,Bidar,2017,106,332,1376,115205,48,13,50,High
+Punjab,Warangal,2019,5,1340,4127,114193,7,73,14,Low
+Rajasthan,Yavatmal,2019,5,1256,3966,252345,29,81,16,Low
+Maharashtra,Kurnool,2019,157,897,1767,275456,27,53,73,High
+Maharashtra,Yavatmal,2019,131,422,3389,294012,12,63,65,High
+Telangana,Warangal,2019,124,394,2148,265560,11,73,69,High
+Rajasthan,Bidar,2020,66,388,2938,271876,6,14,16,Medium
+Andhra Pradesh,Kurnool,2022,50,1304,3094,133021,12,47,36,Medium
+Karnataka,Kurnool,2019,123,1400,1768,297751,7,71,71,High
+Punjab,Sangrur,2019,39,841,1358,168570,47,64,40,Low
+Andhra Pradesh,Yavatmal,2018,5,1188,4038,132658,40,47,15,Low
+Karnataka,Sangrur,2017,5,1688,1089,34576,24,81,33,Low
+Andhra Pradesh,Nagaur,2017,64,1081,3151,74518,23,51,54,Medium
+Rajasthan,Sangrur,2021,57,522,4080,153980,18,64,46,Medium
+Andhra Pradesh,Sangrur,2020,63,1541,2985,50156,17,55,50,Medium
+Karnataka,Nagaur,2022,87,1288,3497,272735,15,85,55,Medium
+Punjab,Warangal,2022,197,1409,2859,275191,13,6,70,High
+Telangana,Nagaur,2022,61,923,2835,227687,30,55,32,Medium
+Karnataka,Yavatmal,2015,135,1183,3539,293356,6,46,65,High
+Karnataka,Warangal,2015,60,1487,4816,186926,32,42,33,Medium
+Andhra Pradesh,Nagaur,2020,5,644,3492,67905,10,86,15,Low
+Andhra Pradesh,Sangrur,2018,54,1320,2592,180214,21,54,32,Medium
+Karnataka,Kurnool,2021,121,386,3877,63205,33,26,65,High
+Andhra Pradesh,Yavatmal,2017,98,766,2124,158140,14,70,70,High
+Telangana,Bidar,2018,51,1127,1430,235863,11,50,23,Medium
+Rajasthan,Nagaur,2019,5,1576,1532,47152,23,64,33,Low
+Maharashtra,Sangrur,2017,80,1631,3786,217163,10,74,55,Medium
+Rajasthan,Bidar,2022,38,323,4012,123608,46,81,47,Low
+Andhra Pradesh,Kurnool,2021,139,1671,1797,210378,39,30,60,High
+Karnataka,Bidar,2022,32,330,2892,288492,47,67,18,Low
+Maharashtra,Yavatmal,2020,24,1568,3018,203917,16,39,11,Low
+Karnataka,Warangal,2015,108,1755,1159,184195,35,8,38,High
+Karnataka,Sangrur,2019,81,1409,4645,237167,21,82,62,Medium
+Maharashtra,Kurnool,2017,42,1197,4694,243708,20,22,7,Medium
+Telangana,Bidar,2020,5,597,1232,49515,44,87,37,Low
+Maharashtra,Kurnool,2022,64,790,4690,178345,35,84,56,Medium
+Karnataka,Nagaur,2018,77,1099,3411,37025,22,72,73,Medium
+Maharashtra,Sangrur,2021,37,340,4367,116928,6,83,52,Low
+Karnataka,Warangal,2020,170,465,2049,295232,28,35,77,High
+Punjab,Yavatmal,2021,94,400,1879,231533,45,31,35,High
+Andhra Pradesh,Nagaur,2017,151,1607,4430,44716,42,13,76,High
+Andhra Pradesh,Warangal,2017,18,1301,3656,169596,48,69,25,Low
+Punjab,Nagaur,2017,133,494,2550,194486,5,53,73,High
+Punjab,Kurnool,2018,5,695,2374,128384,40,71,1,Low
+Punjab,Kurnool,2021,5,767,2165,175763,9,83,6,Low
+Punjab,Kurnool,2019,70,744,1965,238590,20,28,23,Medium
+Maharashtra,Nagaur,2015,70,1756,1912,292640,48,49,30,Medium
+Rajasthan,Yavatmal,2021,24,1726,2692,146481,40,23,7,Low
+Rajasthan,Sangrur,2020,44,554,1207,188145,35,75,43,Medium
+Telangana,Kurnool,2022,148,1055,2446,199564,48,9,55,High
+Maharashtra,Kurnool,2017,132,1033,4186,287972,34,7,43,High
+Andhra Pradesh,Bidar,2015,89,596,3409,89980,19,58,69,Medium
+Punjab,Sangrur,2022,125,843,3515,124527,14,17,63,High
+Andhra Pradesh,Nagaur,2022,5,1096,2118,168709,25,80,11,Low
+Maharashtra,Bidar,2016,15,781,4970,230015,8,88,25,Low
+Maharashtra,Sangrur,2019,75,572,2177,132391,27,60,52,Medium
+Telangana,Kurnool,2016,5,1411,4870,194762,6,82,4,Low
+Andhra Pradesh,Warangal,2017,5,1559,2013,255407,12,70,6,Low
+Telangana,Kurnool,2016,138,1013,3838,80818,36,24,74,High
+Telangana,Sangrur,2020,115,461,3916,254083,12,75,70,High
+Telangana,Yavatmal,2017,5,1544,1472,251716,7,86,10,Low
+Karnataka,Bidar,2022,123,1061,4185,210249,19,37,62,High
+Punjab,Bidar,2022,13,1190,2525,46978,29,61,32,Low
+Andhra Pradesh,Warangal,2015,51,1758,2861,275720,26,43,23,Medium
+Telangana,Warangal,2020,100,474,3810,281831,45,70,59,High
+Karnataka,Bidar,2018,61,1061,4926,211601,15,38,33,Medium
+Andhra Pradesh,Bidar,2020,113,997,4937,199737,19,46,57,High
+Telangana,Bidar,2016,123,591,1968,222608,35,74,74,High
+Telangana,Nagaur,2020,88,1400,1207,234541,33,10,26,Medium
+Andhra Pradesh,Sangrur,2018,155,373,2660,282862,5,56,76,High
+Karnataka,Sangrur,2018,87,754,2929,272802,40,70,50,Medium
+Maharashtra,Nagaur,2017,16,341,1464,297885,26,72,19,Low
+Karnataka,Warangal,2017,5,708,3159,110522,43,72,25,Low
+Punjab,Yavatmal,2015,5,1384,2635,207505,13,80,2,Low
+Andhra Pradesh,Nagaur,2019,86,1503,2023,284084,8,13,22,Medium
+Maharashtra,Kurnool,2016,94,606,1265,190389,9,74,63,High
+Karnataka,Sangrur,2017,66,1320,3179,128938,36,55,52,Medium
+Maharashtra,Yavatmal,2018,90,881,3218,195229,20,63,53,Medium
+Maharashtra,Bidar,2021,124,1180,4368,158614,35,23,62,High
+Andhra Pradesh,Sangrur,2015,121,879,4611,198217,44,23,55,High
+Karnataka,Bidar,2017,69,790,1340,50951,29,51,55,Medium
+Punjab,Kurnool,2019,5,1717,1823,113211,37,75,17,Low
+Telangana,Nagaur,2015,78,1629,4876,80385,30,84,72,Medium
+Andhra Pradesh,Sangrur,2022,108,1201,1890,273234,37,22,37,High
+Maharashtra,Kurnool,2016,62,1689,3000,286216,38,14,7,Medium
+Andhra Pradesh,Kurnool,2018,46,1335,1400,265311,24,30,12,Medium
+Andhra Pradesh,Yavatmal,2019,159,845,3822,280220,39,19,65,High
+Karnataka,Yavatmal,2017,144,1574,2870,231466,10,56,79,High
+Karnataka,Kurnool,2019,74,555,1765,98447,36,57,59,Medium
+Rajasthan,Warangal,2020,128,1085,2250,85063,6,17,62,High
+Andhra Pradesh,Sangrur,2019,24,592,1484,55378,27,32,18,Low
+Telangana,Bidar,2022,27,1477,3863,121782,12,60,31,Low
+Telangana,Sangrur,2021,62,885,1166,131732,45,75,54,Medium
+Punjab,Kurnool,2016,87,1416,3888,282771,14,87,56,Medium
+Karnataka,Kurnool,2015,82,1229,1940,266503,13,11,16,Medium
+Rajasthan,Yavatmal,2017,23,438,4708,88105,46,17,12,Low
+Telangana,Yavatmal,2018,86,391,4671,158068,41,16,40,Medium
+Maharashtra,Bidar,2019,16,436,3237,281519,26,51,5,Low
+Karnataka,Warangal,2020,27,542,2810,37887,35,71,42,Low
+Maharashtra,Kurnool,2016,152,445,1322,240171,27,7,55,High
+Punjab,Warangal,2021,100,1796,1381,158279,12,13,37,High
+Andhra Pradesh,Warangal,2019,5,339,2382,171294,10,73,14,Low
+Maharashtra,Yavatmal,2019,9,810,2283,235383,28,79,17,Low
+Andhra Pradesh,Bidar,2016,32,918,1815,226523,49,84,33,Low
+Rajasthan,Warangal,2022,93,1138,1417,93083,18,20,43,High
+Karnataka,Yavatmal,2022,63,1404,3827,45487,10,23,41,Medium
+Punjab,Bidar,2015,5,1347,2496,36277,41,89,4,Low
+Telangana,Nagaur,2015,141,647,3896,288445,11,55,65,High
+Rajasthan,Bidar,2021,89,765,1098,290705,46,15,27,Medium
+Punjab,Yavatmal,2019,43,1368,2495,167046,16,53,31,Medium
+Telangana,Kurnool,2015,101,1687,1178,278966,49,10,24,High
+Punjab,Warangal,2017,36,1435,4834,136147,42,44,24,Low
+Andhra Pradesh,Kurnool,2020,27,1493,3422,262409,18,33,6,Low
+Andhra Pradesh,Kurnool,2016,83,791,4621,276514,48,51,35,Medium
+Telangana,Sangrur,2022,88,1236,3178,250868,24,18,26,Medium
+Rajasthan,Sangrur,2016,43,783,3727,276834,9,81,32,Medium
+Karnataka,Kurnool,2021,37,310,1948,74440,44,36,28,Low
+Andhra Pradesh,Sangrur,2018,37,939,2790,189950,31,49,25,Low
+Andhra Pradesh,Warangal,2020,5,1036,1941,156599,18,69,7,Low
+Karnataka,Sangrur,2021,59,1464,2480,61159,19,61,58,Medium
+Karnataka,Kurnool,2021,53,851,2520,263229,34,57,27,Medium
+Punjab,Nagaur,2021,78,1292,3347,191171,49,68,59,Medium
+Maharashtra,Kurnool,2021,57,602,1540,90204,17,13,24,Medium
+Telangana,Kurnool,2017,113,471,2892,254582,12,82,76,High
+Telangana,Kurnool,2022,100,1276,4495,224941,31,5,34,High
+Andhra Pradesh,Bidar,2021,137,1772,1258,263451,19,58,74,High
+Andhra Pradesh,Bidar,2019,123,1729,3455,210786,15,60,71,High
+Andhra Pradesh,Warangal,2022,130,680,3104,207043,19,73,77,High
+Telangana,Nagaur,2021,5,1792,3596,92085,11,30,8,Low
+Punjab,Warangal,2019,72,448,2511,76104,43,19,35,Medium
+Punjab,Bidar,2019,5,1508,3601,214750,32,65,14,Low
+Andhra Pradesh,Warangal,2016,24,375,3912,187591,24,73,30,Low
+Telangana,Nagaur,2022,5,1375,4726,53446,16,48,15,Low
+Punjab,Nagaur,2015,5,1600,3318,171609,48,84,15,Low
+Telangana,Sangrur,2021,5,392,3664,108004,47,47,7,Low
+Telangana,Kurnool,2019,5,1270,3302,53259,20,45,4,Low
+Rajasthan,Sangrur,2016,78,448,2733,143259,9,13,28,Medium
+Punjab,Sangrur,2015,80,911,1255,231264,21,67,55,Medium
+Karnataka,Bidar,2019,73,314,2710,86731,7,8,31,Medium
+Punjab,Kurnool,2017,112,630,3212,55792,13,21,65,High
+Maharashtra,Kurnool,2021,5,1353,4337,40567,48,68,22,Low
+Punjab,Bidar,2022,92,1316,1329,235459,45,51,53,Medium
+Maharashtra,Yavatmal,2017,78,761,2607,253717,16,30,27,Medium
+Rajasthan,Kurnool,2019,85,684,1059,154786,22,56,60,Medium
+Andhra Pradesh,Bidar,2018,62,530,1967,138654,46,26,33,Medium
+Andhra Pradesh,Nagaur,2017,29,918,4199,110722,14,19,11,Low
+Maharashtra,Sangrur,2022,189,1656,4295,270740,8,17,73,High
+Maharashtra,Kurnool,2022,24,1324,3619,134697,16,25,11,Low
+Punjab,Yavatmal,2018,26,1367,4149,193041,38,29,4,Low
+Maharashtra,Yavatmal,2019,132,1005,2058,140034,10,23,59,High
+Punjab,Nagaur,2016,33,1262,4749,141126,22,50,28,Low
+Telangana,Yavatmal,2017,47,1458,1054,76665,23,32,28,Medium
+Andhra Pradesh,Warangal,2019,140,632,2578,231610,19,21,54,High
+Telangana,Sangrur,2018,97,1281,2910,243092,43,38,44,High
+Karnataka,Warangal,2016,65,1318,2179,100729,26,85,67,Medium
+Telangana,Warangal,2018,133,1038,1976,219787,45,14,57,High
+Rajasthan,Warangal,2019,91,1272,2626,120815,19,44,60,Medium
+Maharashtra,Kurnool,2017,60,1173,3962,76023,43,37,44,Medium
+Karnataka,Warangal,2015,101,1216,3945,49659,48,16,51,High
+Telangana,Yavatmal,2018,87,1206,1012,63370,12,78,72,Medium
+Karnataka,Nagaur,2018,106,1453,3936,253274,12,17,35,High
+Rajasthan,Yavatmal,2019,91,1438,1459,163624,40,71,69,Medium
+Karnataka,Sangrur,2016,53,1495,4007,289125,14,71,36,Medium
+Karnataka,Nagaur,2022,40,858,1221,174542,30,26,21,Low
+Andhra Pradesh,Kurnool,2019,72,857,3952,131422,25,63,54,Medium
+Rajasthan,Kurnool,2022,116,1157,2284,235384,44,18,44,High
+Rajasthan,Warangal,2018,110,837,4636,210076,33,23,47,High
+Andhra Pradesh,Yavatmal,2017,95,608,4810,288308,20,21,32,High
+Maharashtra,Warangal,2018,173,931,4777,271262,22,5,58,High
+Telangana,Nagaur,2018,35,914,1561,188069,12,24,14,Low
+Karnataka,Yavatmal,2018,120,1531,4884,227190,31,82,78,High
+Karnataka,Bidar,2018,29,1312,3926,145871,7,43,24,Low
+Rajasthan,Nagaur,2016,109,1147,4274,223823,49,65,70,High
+Andhra Pradesh,Sangrur,2018,141,995,1026,294509,22,68,77,High
+Rajasthan,Kurnool,2015,110,1492,4699,74387,34,29,66,High
+Maharashtra,Kurnool,2017,93,1085,1253,139599,25,14,37,High
+Rajasthan,Kurnool,2021,5,1588,3135,140507,18,50,8,Low
+Punjab,Warangal,2020,52,1044,2629,51446,30,50,46,Medium
+Rajasthan,Kurnool,2021,70,1139,1002,104779,33,22,35,Medium
+Telangana,Yavatmal,2019,5,1573,1570,104442,46,51,13,Low
+Karnataka,Kurnool,2016,98,1100,3144,177278,20,48,58,High
+Rajasthan,Warangal,2015,127,1722,4331,264295,8,38,56,High
+Telangana,Bidar,2021,107,1523,3893,117638,25,59,76,High
+Andhra Pradesh,Nagaur,2017,24,1757,3418,202109,34,33,8,Low
+Karnataka,Nagaur,2016,134,1581,2846,106215,18,10,61,High
+Karnataka,Kurnool,2017,89,900,3142,195912,20,42,43,Medium
+Maharashtra,Nagaur,2020,7,1284,4862,85786,16,17,6,Low
+Maharashtra,Nagaur,2018,36,339,3823,37904,38,83,60,Low
+Rajasthan,Nagaur,2021,69,1363,2196,219878,26,9,13,Medium
+Karnataka,Nagaur,2019,70,642,4351,229521,11,42,37,Medium
+Maharashtra,Yavatmal,2020,186,944,1447,299289,27,19,73,High
+Maharashtra,Kurnool,2015,108,900,3172,228768,25,13,38,High
+Karnataka,Warangal,2019,94,1082,3368,274533,34,24,33,High
+Telangana,Warangal,2018,123,1400,2670,264907,49,77,74,High
+Telangana,Warangal,2021,5,734,4755,33679,21,39,1,Low
+Andhra Pradesh,Warangal,2021,98,1083,3366,188539,25,21,40,High
+Telangana,Yavatmal,2022,117,759,3108,48800,19,38,70,High
+Karnataka,Bidar,2018,17,1268,4386,286160,42,82,17,Low
+Karnataka,Bidar,2019,60,1777,3746,297104,34,27,10,Medium
+Punjab,Sangrur,2018,94,1410,4139,178051,23,46,57,High
+Telangana,Nagaur,2020,80,1586,1111,110636,11,54,52,Medium
+Karnataka,Kurnool,2018,8,1429,3796,236641,20,85,22,Low
+Telangana,Yavatmal,2015,163,1225,3311,242628,26,22,66,High
+Telangana,Bidar,2017,67,1349,2492,162957,32,30,34,Medium
+Maharashtra,Sangrur,2016,38,865,1461,57278,21,22,23,Low
+Punjab,Kurnool,2022,115,1003,3523,278399,20,74,66,High
+Telangana,Sangrur,2015,83,746,3337,32460,41,47,64,Medium
+Maharashtra,Warangal,2021,122,1578,4424,187048,17,49,65,High
+Maharashtra,Kurnool,2019,5,676,1972,83365,9,64,21,Low
+Andhra Pradesh,Nagaur,2016,80,963,3407,186270,25,64,57,Medium
+Maharashtra,Nagaur,2018,5,1674,3146,89030,10,84,2,Low
+Andhra Pradesh,Bidar,2020,128,880,2656,292390,33,16,47,High
+Karnataka,Sangrur,2022,5,1155,3109,165467,23,63,8,Low
+Maharashtra,Kurnool,2020,55,777,2392,232668,36,69,38,Medium
+Punjab,Yavatmal,2022,5,1766,1857,125798,24,85,17,Low
+Andhra Pradesh,Warangal,2021,70,729,3355,294603,37,47,26,Medium
+Andhra Pradesh,Sangrur,2016,95,1683,4131,65577,46,73,74,High
+Andhra Pradesh,Nagaur,2017,179,906,2469,286872,41,6,66,High
+Karnataka,Yavatmal,2018,46,461,1553,186844,48,79,42,Medium
+Andhra Pradesh,Bidar,2015,5,1447,1804,203217,13,74,18,Low
+Punjab,Nagaur,2022,77,1596,2723,144780,46,85,72,Medium
+Andhra Pradesh,Kurnool,2018,27,1347,3587,84333,47,21,20,Low
+Andhra Pradesh,Yavatmal,2021,5,606,3479,99767,17,52,3,Low
+Karnataka,Bidar,2020,26,965,1208,75704,17,73,41,Low
+Karnataka,Bidar,2022,5,346,1771,108563,14,32,6,Low
+Rajasthan,Warangal,2022,8,985,1585,79294,11,40,14,Low
+Rajasthan,Sangrur,2015,147,800,4693,120481,7,23,76,High
+Maharashtra,Bidar,2015,5,696,3943,145042,36,79,24,Low
+Punjab,Nagaur,2022,13,1249,1620,87771,46,72,33,Low
+Telangana,Nagaur,2017,5,958,3986,131131,15,74,12,Low
+Karnataka,Yavatmal,2017,49,1326,1083,103366,7,46,40,Medium
+Telangana,Sangrur,2022,82,1703,1666,128580,48,17,35,Medium
+Rajasthan,Warangal,2019,58,957,1158,291051,41,25,14,Medium
+Telangana,Warangal,2021,55,778,1110,298718,34,88,38,Medium
+Punjab,Bidar,2022,5,671,2238,211980,19,63,3,Low
+Karnataka,Sangrur,2017,42,624,4391,236329,18,54,26,Medium
+Andhra Pradesh,Nagaur,2019,44,867,4688,294323,40,52,17,Medium
+Telangana,Nagaur,2022,70,1672,3531,208725,41,66,48,Medium
+Karnataka,Warangal,2019,137,1785,2027,275289,40,17,46,High
+Karnataka,Kurnool,2022,91,1146,1501,132840,9,74,67,Medium
+Telangana,Warangal,2015,16,1740,4230,196471,41,66,26,Low
+Telangana,Nagaur,2015,5,562,2642,132979,41,42,11,Low
+Karnataka,Yavatmal,2018,55,1219,1692,96896,12,63,45,Medium
+Maharashtra,Sangrur,2020,189,571,4905,244020,22,7,70,High
+Maharashtra,Nagaur,2020,42,506,4694,187998,37,47,29,Medium
+Andhra Pradesh,Kurnool,2022,29,1767,4188,121205,6,74,43,Low
+Andhra Pradesh,Sangrur,2015,171,1460,1503,286687,47,5,57,High
+Punjab,Sangrur,2016,95,915,4966,203620,13,64,59,High
+Rajasthan,Yavatmal,2015,62,1222,3982,244738,29,42,24,Medium
+Maharashtra,Yavatmal,2020,70,864,2951,132063,43,44,42,Medium
+Andhra Pradesh,Warangal,2022,57,581,4979,57690,31,86,63,Medium
+Punjab,Sangrur,2015,5,802,4750,103414,30,75,7,Low
+Punjab,Kurnool,2016,18,1266,4284,97764,41,61,27,Low
+Telangana,Sangrur,2016,33,1070,2947,210926,21,35,10,Low
+Rajasthan,Nagaur,2020,5,1632,2878,158344,24,53,7,Low
+Andhra Pradesh,Kurnool,2017,124,1069,1015,187029,10,49,71,High
+Maharashtra,Bidar,2019,103,713,1024,51050,25,32,58,High
+Maharashtra,Kurnool,2016,59,743,4046,167912,15,58,45,Medium
+Telangana,Warangal,2020,133,1115,3159,211101,10,38,63,High
+Rajasthan,Warangal,2019,5,602,2579,75215,30,57,14,Low
+Karnataka,Warangal,2022,70,1491,4285,76229,20,64,60,Medium
+Karnataka,Kurnool,2017,82,588,4614,227105,46,25,36,Medium
+Telangana,Warangal,2016,5,1455,3032,235320,34,49,4,Low
+Andhra Pradesh,Kurnool,2021,5,315,4605,150623,37,64,5,Low
+Punjab,Bidar,2015,36,1661,4372,231081,7,28,10,Low
+Andhra Pradesh,Sangrur,2020,102,1666,2390,99072,11,20,53,High
+Telangana,Warangal,2022,44,1562,3628,117340,10,73,49,Medium
+Rajasthan,Yavatmal,2017,44,1618,2141,87748,44,86,54,Medium
+Rajasthan,Warangal,2015,203,464,3925,256597,19,11,78,High
+Karnataka,Nagaur,2017,118,1168,1811,242650,17,52,61,High
+Telangana,Yavatmal,2019,95,1627,1993,102144,46,17,44,High
+Punjab,Nagaur,2019,146,1159,2612,235355,32,6,57,High
+Maharashtra,Nagaur,2018,117,792,1668,237791,37,79,73,High
+Karnataka,Sangrur,2019,73,1278,2187,39695,11,48,60,Medium
+Rajasthan,Yavatmal,2016,50,1143,4879,265994,22,54,30,Medium
+Andhra Pradesh,Kurnool,2015,143,725,2491,193249,25,62,79,High
+Karnataka,Warangal,2019,97,1047,2497,36553,30,44,65,High
+Maharashtra,Bidar,2017,9,1378,2793,134512,35,48,16,Low
+Maharashtra,Bidar,2020,5,1333,3786,261609,25,84,6,Low
+Karnataka,Sangrur,2019,111,326,2013,285043,26,28,40,High
+Maharashtra,Yavatmal,2022,61,1585,2391,274497,21,34,21,Medium
+Punjab,Kurnool,2018,119,1332,3243,188502,28,38,61,High
+Andhra Pradesh,Yavatmal,2018,51,863,1633,223529,12,49,28,Medium
+Punjab,Bidar,2016,47,1148,2380,169325,42,30,24,Medium
+Telangana,Kurnool,2020,62,1754,2138,68575,17,7,32,Medium
+Punjab,Nagaur,2022,121,1281,2360,111219,49,23,64,High
+Maharashtra,Yavatmal,2017,141,757,2602,151284,7,42,77,High
+Punjab,Yavatmal,2017,5,579,3391,60921,6,48,23,Low
+Maharashtra,Kurnool,2021,43,334,2392,265572,41,27,8,Medium
+Rajasthan,Yavatmal,2021,62,416,1279,34841,43,71,66,Medium
+Andhra Pradesh,Bidar,2016,36,1359,4578,162994,45,82,42,Low
+Telangana,Sangrur,2015,43,1793,3652,194434,17,30,21,Medium
+Maharashtra,Warangal,2020,64,1394,2427,297825,35,27,13,Medium
+Telangana,Bidar,2020,98,575,1891,120073,30,86,78,High
+Punjab,Bidar,2016,138,540,1546,273725,7,17,47,High
+Rajasthan,Kurnool,2016,5,302,3738,168691,40,55,1,Low
+Karnataka,Kurnool,2018,85,1375,4447,53946,31,18,46,Medium
+Karnataka,Nagaur,2016,51,963,1572,179485,22,13,17,Medium
+Maharashtra,Kurnool,2016,5,1168,2029,67170,40,75,25,Low
+Telangana,Nagaur,2019,77,584,1329,93471,9,76,69,Medium
+Karnataka,Yavatmal,2020,5,1467,2083,241811,16,79,3,Low
+Rajasthan,Kurnool,2020,116,574,2553,129919,27,47,73,High
+Rajasthan,Nagaur,2018,57,1527,2195,188964,20,67,42,Medium
+Andhra Pradesh,Bidar,2021,116,631,2188,186547,6,48,67,High
+Rajasthan,Warangal,2017,106,757,1829,98879,13,57,73,High
+Telangana,Bidar,2021,164,630,4338,295735,36,10,53,High
+Punjab,Yavatmal,2015,23,1430,3337,145316,23,75,31,Low
+Rajasthan,Warangal,2019,5,1167,2232,73923,49,54,20,Low
+Telangana,Kurnool,2017,102,1267,1799,171056,21,13,45,High
+Andhra Pradesh,Bidar,2020,140,465,3363,236084,39,40,65,High
+Karnataka,Nagaur,2022,9,943,1625,160509,29,72,25,Low
+Punjab,Yavatmal,2019,148,1007,2521,117594,40,18,72,High
+Andhra Pradesh,Warangal,2015,101,389,2795,155801,40,83,74,High
+Punjab,Kurnool,2018,155,1758,4601,203497,48,20,65,High
+Maharashtra,Warangal,2015,158,816,3665,203333,40,17,65,High
+Karnataka,Nagaur,2022,97,1355,1335,110974,46,67,76,High
+Andhra Pradesh,Bidar,2015,38,996,4057,241912,26,30,12,Low
+Rajasthan,Nagaur,2019,24,1209,4201,170926,49,74,33,Low
+Rajasthan,Warangal,2016,76,681,2126,118552,41,18,37,Medium
+Andhra Pradesh,Kurnool,2022,44,406,3907,158824,23,42,32,Medium
+Telangana,Kurnool,2021,152,1604,3779,257257,15,37,66,High
+Maharashtra,Nagaur,2021,77,624,4879,118754,20,17,31,Medium
+Andhra Pradesh,Warangal,2020,60,1085,1410,179787,22,84,52,Medium
+Andhra Pradesh,Yavatmal,2019,137,1684,3124,266028,40,13,47,High
+Punjab,Warangal,2019,80,421,1184,140623,42,71,57,Medium
+Rajasthan,Warangal,2022,32,1379,1790,286463,42,76,30,Low
+Rajasthan,Nagaur,2018,20,1596,3811,34090,19,52,32,Low
+Andhra Pradesh,Bidar,2022,76,1164,4324,246249,31,20,28,Medium
+Karnataka,Bidar,2022,5,1226,4491,149968,37,86,23,Low
+Maharashtra,Nagaur,2015,5,856,1079,54815,49,82,12,Low
+Andhra Pradesh,Warangal,2021,92,611,2076,168307,38,32,50,Medium
+Karnataka,Nagaur,2016,97,1502,4118,184473,32,88,75,High
+Andhra Pradesh,Kurnool,2015,174,1631,4794,226945,31,10,74,High
+Rajasthan,Warangal,2018,94,1261,3364,125149,9,79,74,High
+Punjab,Yavatmal,2021,56,1554,4688,99284,11,24,35,Medium
+Andhra Pradesh,Nagaur,2021,12,1194,1470,132339,28,88,39,Low
+Karnataka,Sangrur,2020,46,974,2439,264989,43,39,17,Medium
+Andhra Pradesh,Nagaur,2018,53,1084,3000,235719,41,65,39,Medium
+Maharashtra,Kurnool,2022,164,1337,4994,294826,23,35,73,High
+Karnataka,Sangrur,2018,74,1345,2155,75520,12,50,59,Medium
+Punjab,Sangrur,2022,53,545,1567,91477,25,14,26,Medium
+Telangana,Yavatmal,2017,5,810,1911,169148,27,80,22,Low
+Punjab,Yavatmal,2019,11,1093,2243,186228,37,88,30,Low
+Rajasthan,Kurnool,2015,56,407,2344,215922,30,76,43,Medium
+Andhra Pradesh,Sangrur,2021,57,606,4075,211880,20,81,51,Medium
+Andhra Pradesh,Warangal,2022,5,1487,4361,220191,38,87,17,Low
+Karnataka,Yavatmal,2018,27,482,2844,90721,12,83,45,Low
+Rajasthan,Warangal,2019,35,1343,3625,79966,23,49,37,Low
+Rajasthan,Warangal,2020,68,1054,3486,282646,40,38,27,Medium
+Punjab,Bidar,2016,47,1557,4407,178430,28,19,14,Medium
+Rajasthan,Nagaur,2015,20,573,3323,201955,36,77,27,Low
+Telangana,Bidar,2021,168,1397,1446,245888,22,27,72,High
+Karnataka,Nagaur,2020,124,1471,4413,194334,27,39,67,High
+Karnataka,Nagaur,2015,64,1240,4730,250026,18,70,39,Medium
+Maharashtra,Nagaur,2017,5,1227,3324,72407,32,31,2,Low
+Rajasthan,Sangrur,2021,40,1050,1524,244209,18,60,28,Low
+Maharashtra,Bidar,2021,183,340,2507,218499,35,11,77,High
+Andhra Pradesh,Warangal,2019,79,1160,3835,173949,36,64,50,Medium
+Telangana,Kurnool,2016,8,594,2806,116067,28,76,28,Low
+Telangana,Nagaur,2022,5,846,2424,105976,39,56,12,Low
+Rajasthan,Sangrur,2022,154,1500,2075,215153,12,29,66,High
+Karnataka,Bidar,2019,98,497,4165,52222,19,54,71,High
+Rajasthan,Yavatmal,2017,41,1362,3505,176663,43,72,35,Medium
+Telangana,Bidar,2015,90,1469,2940,30064,40,12,48,Medium
+Telangana,Kurnool,2019,93,896,4226,225346,27,54,51,High
+Punjab,Warangal,2017,32,1685,1111,32631,15,84,52,Low
+Rajasthan,Yavatmal,2020,40,1400,1061,47878,33,42,33,Low
+Maharashtra,Sangrur,2019,5,1075,4925,44568,49,69,20,Low
+Andhra Pradesh,Kurnool,2022,122,1094,3222,52650,39,10,60,High
+Telangana,Sangrur,2019,48,931,3112,185418,11,48,29,Medium
+Punjab,Warangal,2017,5,1585,4992,36408,24,78,37,Low
+Karnataka,Yavatmal,2016,5,1292,4863,199259,46,64,9,Low
+Rajasthan,Nagaur,2020,150,1014,1758,104474,21,17,71,High
+Karnataka,Kurnool,2015,12,950,4397,282051,39,67,12,Low
+Punjab,Kurnool,2016,5,1172,1666,81993,31,53,21,Low
+Rajasthan,Warangal,2022,76,1317,1569,270310,21,30,25,Medium
+Karnataka,Bidar,2022,53,1136,3821,135494,34,82,54,Medium
+Rajasthan,Sangrur,2019,40,1322,4851,97573,6,57,36,Low
+Telangana,Warangal,2020,34,570,2759,252858,28,71,30,Low
+Maharashtra,Yavatmal,2019,48,1620,3385,170594,48,17,12,Medium
+Karnataka,Bidar,2019,160,860,4892,216807,44,28,72,High
+Andhra Pradesh,Bidar,2021,26,1144,3613,87805,18,84,49,Low
+Maharashtra,Warangal,2021,44,645,1192,158376,19,25,18,Medium
+Rajasthan,Yavatmal,2017,205,410,1619,273761,18,10,76,High
+Rajasthan,Nagaur,2020,29,613,3653,63064,34,61,36,Low
+Maharashtra,Nagaur,2016,86,371,1269,99918,6,72,65,Medium
+Punjab,Nagaur,2022,75,1732,1507,244117,30,44,38,Medium
+Telangana,Nagaur,2020,56,419,2938,123926,39,37,33,Medium
+Rajasthan,Yavatmal,2015,112,761,1611,180619,37,10,41,High
+Telangana,Sangrur,2017,34,858,1098,259901,6,33,4,Low
+Telangana,Yavatmal,2015,23,1323,2545,131096,47,25,15,Low
+Rajasthan,Kurnool,2019,163,1536,3747,95195,36,9,73,High
+Andhra Pradesh,Warangal,2018,42,1549,3633,164962,45,28,24,Medium
+Rajasthan,Warangal,2015,5,803,4312,112762,35,86,23,Low
+Maharashtra,Bidar,2021,88,1298,4603,142076,49,69,68,Medium
+Telangana,Kurnool,2016,105,1477,2046,249854,40,10,35,High
+Rajasthan,Sangrur,2018,77,1525,2373,292120,42,63,43,Medium
+Maharashtra,Warangal,2019,11,367,2763,212394,49,84,25,Low
+Punjab,Kurnool,2016,74,1537,2933,295591,28,63,39,Medium
+Telangana,Kurnool,2022,126,933,2253,137578,36,10,56,High
+Rajasthan,Sangrur,2021,39,1222,3520,156888,19,29,18,Low
+Punjab,Kurnool,2021,46,1668,4337,256273,17,58,29,Medium
+Karnataka,Kurnool,2015,98,490,2996,178388,18,77,72,High
+Rajasthan,Sangrur,2021,10,1434,1743,284624,36,75,19,Low
+Rajasthan,Yavatmal,2020,82,474,1301,115687,23,55,54,Medium
+Rajasthan,Warangal,2017,6,1094,3479,236994,37,55,7,Low
+Andhra Pradesh,Nagaur,2015,59,1174,4959,272217,17,30,18,Medium
+Punjab,Warangal,2015,38,1023,4727,171668,7,83,45,Low
+Punjab,Nagaur,2015,106,1135,1754,76901,45,27,60,High
+Andhra Pradesh,Bidar,2020,80,1019,4134,52838,29,30,49,Medium
+Karnataka,Bidar,2015,72,308,1235,245963,49,30,28,Medium
+Rajasthan,Sangrur,2020,5,1519,2226,216175,34,86,3,Low
+Punjab,Kurnool,2020,36,1361,2876,51797,44,19,18,Low
+Andhra Pradesh,Nagaur,2018,14,1344,4216,32024,22,61,37,Low
+Telangana,Sangrur,2022,5,767,3760,118377,7,67,21,Low
+Rajasthan,Sangrur,2019,23,1122,4582,93853,23,66,39,Low
+Telangana,Sangrur,2020,20,1101,1800,186894,36,54,20,Low
+Punjab,Yavatmal,2021,152,1281,3476,179544,13,13,63,High
+Andhra Pradesh,Nagaur,2022,5,843,2473,188169,18,42,8,Low
+Andhra Pradesh,Nagaur,2017,15,345,2259,256351,10,88,31,Low
+Telangana,Bidar,2016,5,1212,4123,182363,21,42,6,Low
+Punjab,Kurnool,2017,13,997,2976,250172,26,34,2,Low
+Andhra Pradesh,Yavatmal,2016,81,1004,2356,141153,19,36,43,Medium
+Rajasthan,Nagaur,2022,105,1736,1942,224110,23,13,37,High
+Telangana,Warangal,2015,130,1027,2051,154451,22,39,68,High
+Maharashtra,Warangal,2021,5,1586,2529,138304,26,68,12,Low
+Rajasthan,Kurnool,2022,29,1581,2919,179747,32,58,27,Low
+Telangana,Sangrur,2015,5,1117,3268,241087,32,86,22,Low
+Telangana,Sangrur,2015,5,1136,2018,212177,43,78,7,Low
+Telangana,Warangal,2018,68,1018,1233,228012,30,14,17,Medium
+Maharashtra,Kurnool,2017,173,1525,2271,265637,13,27,71,High
+Karnataka,Sangrur,2022,79,1404,4667,156951,11,87,63,Medium
+Telangana,Nagaur,2015,73,1300,2082,188566,44,85,62,Medium
+Karnataka,Kurnool,2016,171,555,3875,212075,46,6,66,High
+Andhra Pradesh,Kurnool,2022,119,1079,4807,244838,32,8,36,High
+Punjab,Bidar,2015,80,1129,4119,78786,43,38,49,Medium
+Maharashtra,Sangrur,2015,153,529,3417,271496,30,60,78,High
+Rajasthan,Bidar,2018,107,1199,2774,239870,36,86,78,High
+Maharashtra,Kurnool,2018,114,1397,4081,168874,28,38,61,High
+Karnataka,Bidar,2018,94,882,4720,256710,47,61,51,High
+Punjab,Warangal,2017,155,312,2725,294531,37,12,56,High
+Punjab,Nagaur,2018,78,1767,1358,103071,45,25,42,Medium
+Maharashtra,Warangal,2019,112,763,1448,166080,34,30,53,High
+Punjab,Kurnool,2019,91,1596,4501,90263,25,57,64,Medium
+Karnataka,Sangrur,2018,24,1404,1704,227156,10,30,2,Low
+Rajasthan,Kurnool,2019,183,1098,4275,263614,20,24,77,High
+Maharashtra,Nagaur,2021,11,363,3460,205112,15,79,25,Low
+Maharashtra,Nagaur,2015,106,383,1058,245196,13,65,64,High
+Punjab,Bidar,2019,62,1429,4904,202349,43,64,46,Medium
+Karnataka,Nagaur,2016,105,1248,4141,250319,15,14,39,High
+Telangana,Sangrur,2018,55,1659,2445,284232,39,39,22,Medium
+Rajasthan,Sangrur,2022,76,782,2246,200951,24,8,18,Medium
+Telangana,Warangal,2016,128,948,1591,119241,42,29,68,High
+Punjab,Kurnool,2015,38,1440,2810,289853,25,19,3,Low
+Andhra Pradesh,Yavatmal,2020,5,827,3445,39966,11,18,6,Low
+Telangana,Yavatmal,2022,16,1452,1863,154125,26,24,7,Low
+Maharashtra,Yavatmal,2016,31,1626,2805,197198,45,18,5,Low
+Andhra Pradesh,Kurnool,2017,5,1072,4184,166031,40,83,19,Low
+Karnataka,Warangal,2015,114,316,4785,219432,22,22,45,High
+Maharashtra,Yavatmal,2016,5,1531,2534,95488,11,80,10,Low
+Andhra Pradesh,Sangrur,2017,36,920,2067,82165,18,8,18,Low
+Telangana,Nagaur,2022,118,1471,4543,281442,23,72,66,High
+Rajasthan,Yavatmal,2019,29,457,4681,89314,28,52,33,Low
+Karnataka,Yavatmal,2022,21,1149,2810,117110,23,83,41,Low
+Telangana,Warangal,2018,136,1328,3344,259995,27,65,75,High
+Andhra Pradesh,Nagaur,2018,5,1604,2534,58669,22,48,10,Low
+Telangana,Yavatmal,2018,39,1465,2806,33599,6,34,30,Low
+Telangana,Kurnool,2018,43,476,3417,34642,27,65,55,Medium
+Punjab,Kurnool,2021,60,1581,3900,172063,46,40,32,Medium
+Maharashtra,Kurnool,2020,5,1782,3646,159354,6,71,11,Low
+Punjab,Sangrur,2016,38,1210,4306,199290,35,66,28,Low
+Telangana,Bidar,2017,20,1790,4931,55530,9,78,42,Low
+Maharashtra,Warangal,2016,119,829,3892,160436,24,70,75,High
+Rajasthan,Nagaur,2021,20,839,1329,161605,47,87,36,Low
+Punjab,Warangal,2018,37,1223,3381,35539,10,13,21,Low
+Andhra Pradesh,Yavatmal,2020,105,1418,2319,224202,29,73,70,High
+Punjab,Sangrur,2022,179,1588,1782,211731,45,11,72,High
+Punjab,Kurnool,2017,120,510,2336,88704,46,23,63,High
+Maharashtra,Sangrur,2021,50,878,1061,161458,22,29,20,Medium
+Karnataka,Yavatmal,2019,26,1570,2277,53027,33,14,13,Low
+Maharashtra,Warangal,2018,5,1436,3299,185586,25,57,2,Low
+Karnataka,Bidar,2015,43,497,4718,168923,5,43,26,Medium
+Telangana,Nagaur,2019,83,1543,2421,44507,24,42,59,Medium
+Telangana,Kurnool,2022,112,404,3721,96600,48,41,65,High
+Karnataka,Yavatmal,2019,45,651,2568,213505,14,40,23,Medium
+Andhra Pradesh,Yavatmal,2022,14,1468,3398,81782,21,26,15,Low
+Maharashtra,Yavatmal,2015,14,352,1148,136998,42,70,32,Low
+Telangana,Sangrur,2016,91,1541,1737,271421,19,24,34,Medium
+Punjab,Bidar,2021,194,1286,1958,251163,39,17,79,High
+Karnataka,Kurnool,2021,55,1359,1372,125719,7,23,28,Medium
+Karnataka,Kurnool,2021,5,1576,2165,178269,19,71,15,Low
+Telangana,Nagaur,2022,5,1392,4773,109538,8,82,16,Low
+Rajasthan,Bidar,2021,77,782,3254,145266,15,7,28,Medium
+Maharashtra,Bidar,2022,85,1659,3938,88249,37,71,69,Medium
+Karnataka,Warangal,2019,85,963,4499,297064,36,20,21,Medium
+Telangana,Sangrur,2019,102,1383,1434,241325,10,77,65,High
+Maharashtra,Nagaur,2020,5,1665,4361,36402,46,66,6,Low
+Telangana,Kurnool,2016,140,1029,4550,44425,36,14,70,High
+Rajasthan,Nagaur,2019,9,1378,4551,89696,38,48,22,Low
+Karnataka,Kurnool,2022,115,598,1171,79777,23,52,79,High
+Punjab,Kurnool,2016,117,1624,3755,217150,48,71,74,High
+Rajasthan,Nagaur,2020,79,1148,4796,185647,19,69,55,Medium
+Maharashtra,Nagaur,2016,21,1621,3291,31532,35,15,16,Low
+Rajasthan,Sangrur,2021,80,1268,3531,236260,43,12,24,Medium
+Punjab,Nagaur,2016,5,385,4126,158633,48,52,4,Low
+Karnataka,Warangal,2020,108,346,2763,65572,15,9,50,High
+Maharashtra,Warangal,2018,37,1584,1285,185136,26,86,46,Low
+Rajasthan,Sangrur,2022,119,1284,2372,154798,32,20,54,High
+Telangana,Yavatmal,2016,53,736,1703,227270,49,31,17,Medium
+Andhra Pradesh,Yavatmal,2022,63,681,4294,166450,21,65,50,Medium
+Telangana,Nagaur,2016,127,1523,1402,204682,5,33,59,High
+Punjab,Sangrur,2021,175,1168,4967,289711,39,10,67,High
+Karnataka,Warangal,2022,86,510,4035,198922,17,42,43,Medium
+Rajasthan,Nagaur,2015,5,532,1244,65575,43,75,30,Low
+Karnataka,Sangrur,2015,113,1203,3628,73634,12,23,59,High
+Telangana,Warangal,2017,41,1400,4661,269204,34,43,13,Medium
+Telangana,Sangrur,2019,13,1064,3422,121426,19,32,7,Low
+Rajasthan,Yavatmal,2017,20,601,4347,127375,42,65,32,Low
+Telangana,Yavatmal,2016,48,1530,3611,126917,25,70,43,Medium
+Andhra Pradesh,Bidar,2015,43,1180,4718,191704,5,6,4,Medium
+Telangana,Yavatmal,2022,5,1566,2215,104893,24,53,8,Low
+Andhra Pradesh,Kurnool,2022,69,1429,1282,78231,45,22,35,Medium
+Telangana,Kurnool,2017,66,1404,2639,45169,35,65,64,Medium
+Karnataka,Bidar,2016,171,1357,2266,169322,7,21,78,High
+Rajasthan,Nagaur,2017,117,1196,3045,69023,33,8,61,High
+Karnataka,Warangal,2016,5,317,4422,50239,14,80,22,Low
+Telangana,Sangrur,2018,5,940,3330,115186,16,34,9,Low
+Karnataka,Yavatmal,2015,89,890,2714,252682,35,76,58,Medium
+Maharashtra,Warangal,2021,47,1558,3837,161458,19,51,38,Medium
+Rajasthan,Bidar,2019,73,540,2049,48383,42,14,42,Medium
+Maharashtra,Warangal,2018,41,767,3096,206173,39,33,12,Medium
+Maharashtra,Warangal,2016,20,1254,3320,161666,5,65,31,Low
+Punjab,Kurnool,2018,17,1781,1094,110636,26,27,15,Low
+Telangana,Kurnool,2019,103,851,4192,244135,12,22,41,High
+Punjab,Warangal,2021,136,336,2721,282134,13,11,41,High
+Maharashtra,Nagaur,2016,104,1135,4301,66375,18,45,65,High
+Andhra Pradesh,Sangrur,2021,5,628,1362,225961,16,89,3,Low
+Andhra Pradesh,Yavatmal,2015,98,607,1261,138417,33,44,61,High
+Punjab,Warangal,2019,140,1552,2725,257131,24,45,65,High
+Maharashtra,Warangal,2020,73,336,4647,209541,9,38,39,Medium
+Karnataka,Nagaur,2022,127,1475,3946,168604,11,71,79,High
+Andhra Pradesh,Yavatmal,2022,171,1410,4622,220856,41,18,68,High
+Telangana,Nagaur,2018,118,1037,3124,124176,43,32,64,High
+Telangana,Yavatmal,2021,5,316,1116,69244,14,84,6,Low
+Punjab,Yavatmal,2018,66,1262,4291,137772,45,83,60,Medium
+Maharashtra,Warangal,2022,39,1176,4024,166774,32,17,15,Low
+Telangana,Nagaur,2019,5,630,3103,64142,8,56,10,Low
+Telangana,Kurnool,2016,5,1480,1150,109544,25,47,10,Low
+Telangana,Nagaur,2019,67,1630,1160,53424,47,19,36,Medium
+Rajasthan,Nagaur,2022,41,485,4245,191017,45,43,23,Medium
+Maharashtra,Yavatmal,2020,36,1310,1924,226339,7,75,36,Low
+Karnataka,Yavatmal,2018,88,1794,4884,182079,35,38,50,Medium
+Maharashtra,Yavatmal,2020,10,1043,1426,148576,21,48,10,Low
+Rajasthan,Kurnool,2016,56,1035,3738,291609,8,43,24,Medium
+Maharashtra,Yavatmal,2021,134,1335,4712,62664,20,9,68,High
+Maharashtra,Bidar,2021,141,1506,3470,258360,49,18,55,High
+Andhra Pradesh,Yavatmal,2021,99,1151,1071,56296,45,23,58,High
+Telangana,Sangrur,2019,74,341,1770,187110,19,51,46,Medium
+Karnataka,Sangrur,2021,40,1575,4714,184525,39,61,29,Low
+Rajasthan,Warangal,2020,103,1230,1155,214249,34,11,39,High
+Punjab,Yavatmal,2021,83,1706,4123,145341,40,28,40,Medium
+Rajasthan,Bidar,2019,68,1439,1703,254842,22,46,30,Medium
+Rajasthan,Kurnool,2022,5,410,3919,46490,38,31,13,Low
+Punjab,Bidar,2019,77,1566,1597,175250,10,36,42,Medium
+Rajasthan,Bidar,2022,18,1166,3133,96775,43,68,30,Low
+Karnataka,Bidar,2018,147,963,3142,221929,43,50,77,High
+Maharashtra,Bidar,2018,150,711,3447,89919,22,12,75,High
+Karnataka,Nagaur,2019,131,808,4531,293672,42,49,58,High
+Karnataka,Nagaur,2022,33,1507,1190,160775,14,78,36,Low
+Punjab,Bidar,2016,36,638,3285,130956,8,54,29,Low
+Maharashtra,Sangrur,2019,94,1556,3958,221134,25,64,58,High
+Rajasthan,Kurnool,2018,88,1093,1613,251746,40,56,51,Medium
+Andhra Pradesh,Nagaur,2015,39,504,4048,296496,21,54,14,Low
+Punjab,Yavatmal,2022,78,900,4708,272625,38,13,21,Medium
+Maharashtra,Warangal,2015,98,692,2126,100333,48,30,57,High
+Andhra Pradesh,Warangal,2022,59,1093,4603,110520,27,33,31,Medium
+Telangana,Sangrur,2017,154,1161,2876,140704,11,26,74,High
+Rajasthan,Yavatmal,2019,30,807,2667,157441,27,38,17,Low
+Maharashtra,Sangrur,2015,129,1016,4168,169830,6,41,68,High
+Maharashtra,Yavatmal,2019,76,1799,4394,44281,22,57,63,Medium
+Karnataka,Nagaur,2017,5,461,4558,56558,25,89,18,Low
+Telangana,Kurnool,2016,15,1439,2436,104264,17,67,27,Low
+Karnataka,Bidar,2020,118,1150,2971,206660,26,19,50,High
+Karnataka,Warangal,2018,115,1112,3847,270003,5,75,73,High
+Maharashtra,Nagaur,2021,17,474,4205,215409,13,72,23,Low
+Andhra Pradesh,Sangrur,2017,39,1651,4942,104319,39,21,18,Low
+Telangana,Bidar,2017,74,1648,1847,44990,46,38,48,Medium
+Maharashtra,Nagaur,2019,158,1183,4247,296100,30,27,62,High
+Karnataka,Bidar,2018,81,1323,4675,173979,41,28,33,Medium
+Telangana,Nagaur,2018,53,628,2900,188352,40,18,19,Medium
+Punjab,Sangrur,2015,189,1227,4950,265018,46,6,68,High
+Karnataka,Warangal,2020,87,1747,3518,58887,33,8,38,Medium
+Punjab,Kurnool,2022,76,783,2954,169333,27,50,44,Medium
+Telangana,Yavatmal,2019,111,723,4832,183812,35,52,61,High
+Telangana,Nagaur,2017,76,411,4158,79334,25,17,37,Medium
+Maharashtra,Nagaur,2021,60,833,4750,215046,34,22,18,Medium
+Maharashtra,Nagaur,2016,56,1138,1518,134493,22,17,25,Medium
+Maharashtra,Bidar,2020,5,634,2870,92072,44,88,15,Low
+Rajasthan,Nagaur,2015,76,618,4463,86959,36,49,52,Medium
+Maharashtra,Kurnool,2022,5,1491,3317,299629,29,65,1,Low
+Rajasthan,Kurnool,2015,78,331,2847,283786,8,27,29,Medium
+Andhra Pradesh,Nagaur,2016,66,447,1655,197856,41,62,44,Medium
+Punjab,Bidar,2015,45,698,2151,144000,38,85,52,Medium
+Telangana,Warangal,2019,5,806,3568,86790,37,37,4,Low
+Rajasthan,Yavatmal,2016,5,1798,4924,192495,29,59,9,Low
+Andhra Pradesh,Warangal,2019,83,430,2475,213786,32,11,26,Medium
+Punjab,Yavatmal,2019,119,1080,4708,162841,43,23,51,High
+Telangana,Warangal,2020,160,1242,4044,209357,16,25,75,High
+Rajasthan,Yavatmal,2016,109,1431,2210,172298,41,52,63,High
+Maharashtra,Nagaur,2019,120,1169,3134,239944,8,17,42,High
+Rajasthan,Yavatmal,2017,52,516,1720,164815,28,11,13,Medium
+Andhra Pradesh,Warangal,2016,159,1365,2388,236494,14,30,76,High
+Andhra Pradesh,Kurnool,2020,142,351,4987,242328,44,63,77,High
+Telangana,Kurnool,2020,146,1789,2327,115666,38,7,68,High
+Maharashtra,Warangal,2019,43,1675,2822,263931,31,73,37,Medium
+Telangana,Sangrur,2022,64,1536,2623,61147,35,53,53,Medium
+Karnataka,Bidar,2016,142,1773,3654,181171,15,21,66,High
+Karnataka,Kurnool,2018,5,968,4156,98040,32,76,20,Low
+Rajasthan,Kurnool,2019,118,1223,1470,249589,7,73,73,High
+Telangana,Warangal,2021,44,1206,2148,252143,38,17,7,Medium
+Rajasthan,Yavatmal,2020,99,1220,4227,70565,24,43,67,High
+Karnataka,Yavatmal,2017,112,467,1376,156440,46,73,77,High
+Karnataka,Nagaur,2020,50,1530,2177,187743,13,5,9,Medium
+Andhra Pradesh,Yavatmal,2016,5,697,1293,106625,20,79,6,Low
+Rajasthan,Warangal,2016,5,779,1862,95994,26,71,31,Low
+Rajasthan,Bidar,2018,123,454,3533,147771,7,34,66,High
+Maharashtra,Kurnool,2021,5,1238,1938,33970,36,47,3,Low
+Andhra Pradesh,Yavatmal,2017,100,1170,1701,187833,13,50,55,High
+Punjab,Warangal,2015,20,1295,1793,162633,26,73,35,Low
+Punjab,Bidar,2017,34,350,2392,189402,16,7,7,Low
+Rajasthan,Yavatmal,2019,59,926,3726,269026,13,27,12,Medium
+Rajasthan,Yavatmal,2022,5,1652,2868,289111,46,85,7,Low
+Rajasthan,Yavatmal,2022,35,557,2506,155019,23,37,21,Low
+Andhra Pradesh,Nagaur,2019,15,1073,2842,203602,22,57,19,Low
+Karnataka,Sangrur,2016,5,1359,4545,46148,22,64,18,Low
+Rajasthan,Yavatmal,2017,8,890,1443,119379,5,89,42,Low
+Telangana,Nagaur,2021,73,399,3086,43944,49,78,72,Medium
+Rajasthan,Nagaur,2017,135,543,3933,231290,10,25,62,High
+Punjab,Yavatmal,2017,40,1129,2386,291092,23,57,24,Low
+Rajasthan,Warangal,2015,112,821,2601,155191,37,42,62,High
+Andhra Pradesh,Bidar,2016,65,1390,2928,241588,46,14,12,Medium
+Maharashtra,Kurnool,2019,84,1772,2154,288116,29,68,49,Medium
+Karnataka,Bidar,2022,57,881,4696,88900,11,11,27,Medium
+Karnataka,Warangal,2021,107,493,4014,297310,22,14,33,High
+Punjab,Nagaur,2018,5,1113,1060,105276,20,84,5,Low
+Karnataka,Nagaur,2020,117,1757,1037,127847,45,63,77,High
+Punjab,Yavatmal,2021,112,866,3614,102832,12,8,53,High
+Karnataka,Sangrur,2017,10,428,3076,158544,45,27,5,Low
+Karnataka,Yavatmal,2020,5,988,3581,242208,17,80,4,Low
+Andhra Pradesh,Kurnool,2022,101,856,4289,285623,44,9,28,High
+Karnataka,Kurnool,2015,64,1709,4646,117007,35,11,30,Medium
+Punjab,Sangrur,2022,159,372,1009,275741,30,5,57,High
+Rajasthan,Bidar,2020,49,1661,4773,240103,7,21,8,Medium
+Karnataka,Bidar,2020,5,1207,4036,93960,40,58,11,Low
+Rajasthan,Nagaur,2020,61,1267,2315,243065,11,20,14,Medium
+Karnataka,Bidar,2018,134,1224,2150,107952,43,5,63,High
+Karnataka,Bidar,2021,5,1600,3028,45583,37,52,22,Low
+Telangana,Warangal,2015,60,695,4280,166692,19,78,52,Medium
+Karnataka,Bidar,2016,70,1213,4374,232049,12,26,26,Medium
+Andhra Pradesh,Warangal,2021,111,1430,2413,44071,18,37,71,High
+Punjab,Sangrur,2016,17,1466,4490,269139,32,43,4,Low
+Rajasthan,Bidar,2020,5,398,3288,116217,36,71,15,Low
+Punjab,Yavatmal,2017,49,1655,4927,186100,28,52,30,Medium
+Punjab,Nagaur,2021,115,727,4937,109711,8,9,53,High
+Rajasthan,Yavatmal,2021,184,1113,2565,263597,41,20,79,High
+Punjab,Kurnool,2016,35,1328,2942,297800,12,25,2,Low
+Telangana,Nagaur,2017,93,939,4414,242916,33,56,47,High
+Rajasthan,Warangal,2015,25,1714,4186,144688,43,43,19,Low
+Karnataka,Kurnool,2021,127,1534,2984,255440,37,36,59,High
+Karnataka,Warangal,2015,103,541,4446,99770,37,23,54,High
+Maharashtra,Warangal,2016,5,1611,2161,150424,12,79,20,Low
+Karnataka,Warangal,2021,5,525,4031,131216,45,67,21,Low
+Andhra Pradesh,Sangrur,2019,40,751,4440,207071,20,66,35,Low
+Karnataka,Kurnool,2022,5,794,2062,60881,46,19,6,Low
+Karnataka,Warangal,2015,56,839,3403,116675,12,69,51,Medium
+Karnataka,Bidar,2016,69,1783,4496,68079,16,85,69,Medium
+Maharashtra,Kurnool,2015,5,1442,1576,118378,40,83,19,Low
+Maharashtra,Kurnool,2017,117,1430,3086,118075,23,51,76,High
+Rajasthan,Warangal,2016,15,1308,2842,154202,38,53,18,Low
+Andhra Pradesh,Bidar,2022,58,520,2983,44629,37,14,37,Medium
+Maharashtra,Nagaur,2017,103,387,3502,152388,24,14,47,High
+Telangana,Yavatmal,2020,36,1201,1740,159401,8,27,13,Low
+Karnataka,Yavatmal,2018,49,666,3827,219668,24,70,36,Medium
+Rajasthan,Nagaur,2018,131,1512,4249,95555,40,19,62,High
+Rajasthan,Sangrur,2019,137,1446,2463,198862,26,39,71,High
+Maharashtra,Nagaur,2015,27,1022,2798,292051,16,88,25,Low
+Karnataka,Sangrur,2020,99,1260,3344,164266,19,58,64,High
+Maharashtra,Nagaur,2016,122,429,3339,278719,7,34,55,High
+Punjab,Yavatmal,2015,111,1064,2220,260099,38,60,55,High
+Maharashtra,Bidar,2018,113,452,2588,203453,48,47,62,High
+Telangana,Kurnool,2021,128,1581,1949,291046,34,47,61,High
+Andhra Pradesh,Nagaur,2017,116,1749,2303,276130,34,41,53,High
+Punjab,Nagaur,2021,73,1184,3383,148833,25,59,55,Medium
+Karnataka,Nagaur,2019,124,1434,2357,271630,49,22,44,High
+Rajasthan,Bidar,2018,141,1776,4624,142858,20,34,77,High
+Andhra Pradesh,Kurnool,2019,35,1171,4070,197596,19,88,45,Low
+Rajasthan,Nagaur,2018,35,649,3329,282196,17,73,25,Low
+Telangana,Warangal,2015,95,704,2138,94467,19,30,54,High
+Punjab,Kurnool,2015,5,1704,1522,88906,34,87,34,Low
+Andhra Pradesh,Kurnool,2015,90,686,1962,250979,34,62,54,Medium
+Karnataka,Nagaur,2020,5,953,3744,129770,12,76,19,Low
+Punjab,Kurnool,2019,68,1478,3551,149058,30,57,51,Medium
+Karnataka,Warangal,2022,5,1503,4253,287282,36,73,8,Low
+Punjab,Kurnool,2017,99,990,3217,58830,30,22,57,High
+Rajasthan,Warangal,2015,58,803,1626,298159,7,8,4,Medium
+Karnataka,Sangrur,2015,5,1465,1789,207587,31,47,3,Low
+Rajasthan,Bidar,2018,60,1736,1935,197157,5,25,24,Medium
+Telangana,Warangal,2020,140,564,4731,220690,40,40,73,High
+Andhra Pradesh,Bidar,2019,81,1553,1722,59767,46,17,43,Medium
+Andhra Pradesh,Nagaur,2016,76,522,3840,107015,43,25,41,Medium
+Maharashtra,Yavatmal,2016,15,1519,4975,235407,18,81,21,Low
+Maharashtra,Kurnool,2022,7,1643,2945,179816,37,56,18,Low
+Telangana,Sangrur,2015,35,1034,1777,159774,38,71,39,Low
+Andhra Pradesh,Sangrur,2019,5,1473,2491,129248,33,85,31,Low
+Rajasthan,Bidar,2019,129,1711,2789,129969,16,39,70,High
+Andhra Pradesh,Kurnool,2016,47,462,3607,251582,11,19,6,Medium
+Karnataka,Warangal,2020,5,1355,2146,156618,19,48,9,Low
+Telangana,Bidar,2021,5,1257,3860,79875,12,62,19,Low
+Punjab,Yavatmal,2022,64,373,1253,98625,39,47,50,Medium
+Punjab,Sangrur,2018,95,875,4653,80317,11,78,79,High
+Rajasthan,Bidar,2017,7,862,4356,199451,19,80,25,Low
+Andhra Pradesh,Warangal,2018,76,539,1360,207182,7,71,50,Medium
+Telangana,Yavatmal,2016,43,643,4786,251538,27,36,19,Medium
+Telangana,Sangrur,2016,46,826,3551,212506,31,11,6,Medium
+Andhra Pradesh,Bidar,2016,57,1177,4625,68237,12,44,46,Medium
+Rajasthan,Warangal,2015,110,1658,4678,81524,9,21,53,High
+Rajasthan,Yavatmal,2019,101,691,4809,296404,33,73,53,High
+Punjab,Warangal,2018,5,428,2158,172049,47,75,17,Low
+Andhra Pradesh,Nagaur,2020,22,1633,3922,158476,46,73,30,Low
+Andhra Pradesh,Warangal,2021,112,1007,1916,144944,19,21,51,High
+Punjab,Sangrur,2016,5,935,4873,41628,10,73,7,Low
+Andhra Pradesh,Sangrur,2020,118,696,3730,234674,29,21,45,High
+Andhra Pradesh,Yavatmal,2022,11,514,4322,101895,33,58,27,Low
+Andhra Pradesh,Kurnool,2016,33,1154,2566,190444,41,71,36,Low
+Rajasthan,Warangal,2015,56,1329,1378,230073,36,27,17,Medium
+Telangana,Warangal,2015,100,1722,4243,276765,26,54,52,High
+Telangana,Yavatmal,2021,94,1751,3668,230146,49,48,52,High
+Telangana,Sangrur,2020,35,1085,1154,252716,14,53,15,Low
+Karnataka,Warangal,2021,149,478,2071,239991,5,11,53,High
+Telangana,Nagaur,2015,5,550,2542,102795,7,67,6,Low
+Punjab,Nagaur,2017,5,1217,4644,49575,30,44,8,Low
+Andhra Pradesh,Sangrur,2021,34,546,1410,142666,13,61,33,Low
+Punjab,Kurnool,2015,5,511,4147,51134,38,84,4,Low
+Maharashtra,Nagaur,2015,130,762,3075,230065,21,62,74,High
+Maharashtra,Nagaur,2017,81,1430,2481,69222,32,54,65,Medium
+Telangana,Yavatmal,2019,104,1666,3765,167166,14,13,44,High
+Andhra Pradesh,Bidar,2022,146,533,2656,264815,12,56,76,High
+Maharashtra,Yavatmal,2015,5,1129,4417,151822,23,42,6,Low
+Andhra Pradesh,Kurnool,2020,5,1456,1845,118116,6,66,23,Low
+Telangana,Nagaur,2017,52,1027,3899,273758,31,56,24,Medium
+Karnataka,Nagaur,2022,73,1442,3782,106794,32,60,59,Medium
+Rajasthan,Warangal,2016,97,1267,2404,171019,16,29,44,High
+Telangana,Bidar,2017,10,608,2057,208810,17,74,21,Low
+Telangana,Bidar,2017,40,434,4161,104134,42,83,53,Low
+Andhra Pradesh,Yavatmal,2018,5,1113,4073,139398,34,67,3,Low
+Andhra Pradesh,Bidar,2015,55,1172,4605,297759,32,89,45,Medium
+Rajasthan,Bidar,2019,92,1060,4331,258464,34,35,34,Medium
+Telangana,Nagaur,2017,84,787,4453,82494,42,27,52,Medium
+Karnataka,Bidar,2021,64,479,4051,35833,18,18,33,Medium
+Karnataka,Yavatmal,2017,137,1583,4747,36732,36,13,67,High
+Telangana,Yavatmal,2022,21,549,3493,38469,7,79,48,Low
+Karnataka,Kurnool,2017,12,1097,1268,115227,25,45,19,Low
+Rajasthan,Warangal,2022,63,1616,3045,194894,14,22,20,Medium
+Punjab,Nagaur,2017,85,855,2105,225647,38,69,55,Medium
+Andhra Pradesh,Bidar,2022,5,1233,1230,43448,35,75,17,Low
+Andhra Pradesh,Warangal,2016,5,1356,1259,56547,13,68,30,Low
+Andhra Pradesh,Warangal,2021,87,1452,2294,51673,30,65,67,Medium
+Telangana,Warangal,2021,68,1383,1550,31658,40,25,41,Medium
+Maharashtra,Kurnool,2018,74,963,2919,298520,30,25,18,Medium
+Rajasthan,Sangrur,2021,46,327,1135,41164,25,85,58,Medium
+Telangana,Kurnool,2021,116,1626,3081,170289,46,71,72,High
+Telangana,Yavatmal,2017,126,1669,1347,191101,18,7,50,High
+Karnataka,Warangal,2020,57,633,2043,200188,31,64,45,Medium
+Karnataka,Kurnool,2022,80,667,1535,283297,6,88,54,Medium
+Karnataka,Kurnool,2016,104,428,2470,77717,39,55,71,High
+Andhra Pradesh,Bidar,2015,140,825,1348,165673,7,28,65,High
+Maharashtra,Kurnool,2018,107,1524,4213,142265,44,27,55,High
+Maharashtra,Sangrur,2016,5,1146,4400,64022,22,83,18,Low
+Andhra Pradesh,Nagaur,2022,174,1541,4143,262413,38,6,69,High
+Rajasthan,Warangal,2020,5,1282,4052,91330,47,76,13,Low
+Rajasthan,Nagaur,2017,152,378,2971,270509,38,52,79,High
+Telangana,Warangal,2019,5,316,2758,166485,14,58,6,Low
+Telangana,Warangal,2015,74,1435,3743,38039,11,55,58,Medium
+Andhra Pradesh,Kurnool,2021,184,1610,2627,274841,17,22,75,High
+Punjab,Kurnool,2022,46,356,1381,228453,9,39,19,Medium
+Andhra Pradesh,Warangal,2020,5,617,1533,35704,44,30,5,Low
+Punjab,Warangal,2020,94,953,2454,163005,47,79,73,High
+Telangana,Kurnool,2020,5,1388,1792,113187,19,85,3,Low
+Andhra Pradesh,Bidar,2021,5,1704,2648,290851,42,67,1,Low
+Maharashtra,Sangrur,2018,19,1697,2693,276797,17,88,27,Low
+Karnataka,Warangal,2016,5,1329,1241,75217,45,87,6,Low
+Karnataka,Warangal,2019,23,1333,1137,116728,32,28,19,Low
+Telangana,Sangrur,2016,94,695,2937,51637,38,46,66,High
+Punjab,Yavatmal,2016,136,1491,4415,164556,40,54,76,High
+Karnataka,Kurnool,2017,117,1625,3093,69952,6,9,54,High
+Karnataka,Nagaur,2017,11,690,3439,101519,47,86,38,Low
+Telangana,Nagaur,2016,50,1251,2502,83619,13,12,19,Medium
+Maharashtra,Bidar,2018,27,330,1613,71770,33,14,12,Low
+Rajasthan,Nagaur,2018,82,1277,4799,78671,13,51,63,Medium
+Punjab,Yavatmal,2016,5,1231,2659,79948,42,81,5,Low
+Rajasthan,Kurnool,2020,73,435,2327,175804,28,83,65,Medium
+Maharashtra,Sangrur,2022,85,683,1374,232957,45,76,55,Medium
+Maharashtra,Kurnool,2016,52,1124,2176,100949,26,65,47,Medium
+Telangana,Warangal,2020,5,1544,4242,93805,40,89,4,Low
+Rajasthan,Yavatmal,2022,93,1566,3945,104888,49,22,48,High
+Karnataka,Sangrur,2015,111,1029,4068,105561,39,42,67,High
+Punjab,Yavatmal,2022,142,1779,2614,158658,44,21,65,High
+Andhra Pradesh,Yavatmal,2019,123,1635,2135,244697,10,73,75,High
+Rajasthan,Bidar,2015,5,307,4243,89321,44,71,13,Low
+Maharashtra,Bidar,2022,92,655,3897,202097,17,63,53,Medium
+Karnataka,Bidar,2020,32,1727,1772,91201,15,49,28,Low
+Maharashtra,Warangal,2018,66,632,2047,176149,44,52,45,Medium
+Maharashtra,Bidar,2016,44,476,4335,141118,45,21,23,Medium
+Rajasthan,Kurnool,2017,25,1744,4376,46447,46,78,44,Low
+Punjab,Kurnool,2018,88,743,3543,227057,38,75,64,Medium
+Telangana,Kurnool,2018,67,692,1841,147136,44,43,41,Medium
+Telangana,Warangal,2018,49,1615,4958,138024,38,51,39,Medium
+Telangana,Sangrur,2015,5,1191,2492,143389,40,73,1,Low
+Andhra Pradesh,Yavatmal,2015,75,544,3298,73130,9,45,51,Medium
+Andhra Pradesh,Warangal,2019,61,1389,4898,243827,31,14,13,Medium
+Maharashtra,Yavatmal,2021,91,1764,4721,119831,29,83,77,Medium
+Andhra Pradesh,Kurnool,2020,77,1433,3400,247789,13,49,35,Medium
+Maharashtra,Kurnool,2017,5,1521,4005,38951,43,89,18,Low
+Maharashtra,Yavatmal,2019,155,343,3079,168235,43,36,77,High
+Maharashtra,Nagaur,2021,103,971,3279,259216,44,12,35,High
+Rajasthan,Sangrur,2021,50,1657,3196,215751,21,22,12,Medium
+Telangana,Bidar,2016,5,473,2866,184014,29,78,24,Low
+Andhra Pradesh,Kurnool,2015,74,1479,4747,39297,10,70,67,Medium
+Punjab,Yavatmal,2020,129,889,1066,242143,5,48,63,High
+Punjab,Nagaur,2022,34,1652,1070,170350,45,11,9,Low
+Karnataka,Bidar,2018,103,1210,2151,182770,6,60,68,High
+Rajasthan,Kurnool,2016,55,1229,1253,119147,43,48,36,Medium
+Punjab,Kurnool,2018,5,1540,2758,210122,38,76,19,Low
+Maharashtra,Warangal,2022,5,1647,4294,161151,14,52,10,Low
+Karnataka,Warangal,2017,58,1726,3623,64171,23,80,62,Medium
+Karnataka,Warangal,2015,5,810,1041,67748,43,34,5,Low
+Maharashtra,Sangrur,2021,93,1600,2237,39958,10,54,66,High
+Karnataka,Bidar,2020,5,1253,4946,53731,41,52,1,Low
+Rajasthan,Sangrur,2016,114,1379,1740,222144,32,86,79,High
+Punjab,Kurnool,2022,5,1639,4948,203211,14,88,25,Low
+Rajasthan,Kurnool,2016,148,663,4914,191680,22,11,56,High
+Rajasthan,Sangrur,2018,152,1125,4343,256074,15,20,60,High
+Punjab,Sangrur,2016,106,1063,1357,156895,28,88,78,High
+Maharashtra,Bidar,2018,86,589,2320,183256,15,27,38,Medium
+Punjab,Nagaur,2018,25,1097,4038,178310,5,45,20,Low
+Punjab,Sangrur,2018,6,1416,4834,246585,33,42,1,Low
+Karnataka,Nagaur,2015,9,1002,4488,53694,49,35,21,Low
+Rajasthan,Yavatmal,2017,77,1492,3490,199143,49,63,50,Medium
+Telangana,Kurnool,2018,55,588,2235,96535,25,64,52,Medium
+Karnataka,Bidar,2017,180,1173,1959,253129,11,11,72,High
+Telangana,Nagaur,2015,60,1070,4765,127812,35,52,47,Medium
+Telangana,Kurnool,2021,60,827,4273,229530,30,9,11,Medium
+Rajasthan,Sangrur,2018,112,1383,4323,171035,20,23,49,High
+Telangana,Kurnool,2016,7,1244,4948,43155,33,64,29,Low
+Punjab,Sangrur,2021,22,604,3741,107932,8,82,42,Low
+Punjab,Warangal,2016,110,1221,2430,66680,41,12,53,High
+Karnataka,Sangrur,2020,22,1212,2521,134533,30,62,28,Low
+Rajasthan,Bidar,2017,51,965,2153,276602,21,38,19,Medium
+Maharashtra,Kurnool,2019,11,834,4449,155015,33,76,26,Low
+Karnataka,Bidar,2018,39,1641,4630,228989,46,63,31,Low
+Rajasthan,Bidar,2019,5,1616,2358,90046,47,73,11,Low
+Rajasthan,Yavatmal,2021,17,762,3902,80094,44,34,16,Low
+Telangana,Nagaur,2019,15,820,4392,294250,42,68,8,Low
+Maharashtra,Sangrur,2016,68,1675,4641,185312,36,52,45,Medium
+Telangana,Kurnool,2020,89,779,3462,224724,20,50,46,Medium
+Karnataka,Bidar,2019,52,1113,1178,79314,21,46,45,Medium
+Punjab,Nagaur,2022,43,1517,3474,162001,27,65,37,Medium
+Karnataka,Yavatmal,2020,20,727,4775,251580,28,32,1,Low
+Maharashtra,Yavatmal,2021,96,487,1384,147926,19,37,53,High
+Maharashtra,Bidar,2015,49,817,4102,199668,44,44,30,Medium
+Telangana,Kurnool,2019,170,1308,1003,284697,7,16,65,High
+Maharashtra,Kurnool,2015,38,1523,3591,73442,21,38,35,Low
+Rajasthan,Yavatmal,2022,31,993,2169,124769,43,37,27,Low
+Andhra Pradesh,Sangrur,2015,45,1077,1222,142363,29,88,57,Medium
+Telangana,Kurnool,2016,28,1575,2011,58273,6,38,25,Low
+Rajasthan,Warangal,2020,82,1716,1761,219807,47,42,42,Medium
+Punjab,Yavatmal,2022,35,1161,3664,243391,35,62,28,Low
+Maharashtra,Sangrur,2019,11,1341,1814,202959,34,40,9,Low
+Andhra Pradesh,Warangal,2019,93,875,4950,110570,39,32,55,High
+Rajasthan,Bidar,2021,23,1767,3728,94557,5,46,23,Low
+Punjab,Bidar,2022,139,1278,1599,299432,7,64,76,High
+Karnataka,Yavatmal,2022,57,1074,4794,172207,9,62,40,Medium
+Punjab,Bidar,2021,71,1138,3212,207878,15,78,55,Medium
+Karnataka,Warangal,2015,116,467,4042,299283,31,23,43,High
+Andhra Pradesh,Yavatmal,2022,152,1570,4431,224444,33,9,58,High
+Punjab,Kurnool,2020,95,403,3190,112124,5,42,53,High
+Karnataka,Sangrur,2016,59,1046,2663,84203,48,10,28,Medium
+Andhra Pradesh,Yavatmal,2020,160,411,4051,83520,42,13,74,High
+Rajasthan,Nagaur,2016,49,1544,3416,78061,31,29,36,Medium
+Karnataka,Sangrur,2021,103,1435,4001,133313,45,48,59,High
+Andhra Pradesh,Kurnool,2019,92,679,2625,202263,7,6,25,Medium
+Maharashtra,Sangrur,2015,117,489,4674,186597,49,53,69,High
+Telangana,Bidar,2020,41,1248,3260,274335,35,26,11,Medium
+Karnataka,Yavatmal,2019,23,949,1485,67855,35,41,28,Low
+Rajasthan,Yavatmal,2021,47,571,2048,56534,6,42,41,Medium
+Maharashtra,Sangrur,2022,101,534,1831,197011,20,86,77,High
+Punjab,Yavatmal,2017,135,1520,1273,161661,17,36,71,High
+Maharashtra,Warangal,2015,20,1403,2258,109134,31,64,33,Low
+Karnataka,Nagaur,2015,42,1086,4540,214616,25,46,23,Medium
+Karnataka,Warangal,2015,76,1413,1615,239843,16,36,33,Medium
+Telangana,Sangrur,2020,47,1414,2732,128884,22,39,34,Medium
+Maharashtra,Bidar,2017,97,1221,3281,116496,47,82,74,High
+Andhra Pradesh,Yavatmal,2021,5,1284,2158,259766,12,82,1,Low
+Punjab,Kurnool,2018,99,1233,2970,187795,7,68,68,High
+Maharashtra,Yavatmal,2015,14,309,3311,127547,7,54,23,Low
+Maharashtra,Bidar,2020,29,1057,3134,36220,16,22,21,Low
+Maharashtra,Bidar,2019,146,977,4368,87326,13,27,78,High
+Maharashtra,Nagaur,2016,53,729,2637,217460,9,65,38,Medium
+Rajasthan,Bidar,2020,49,1484,3793,237746,9,87,42,Medium
+Karnataka,Nagaur,2015,100,743,4908,237977,38,29,42,High
+Rajasthan,Sangrur,2021,110,815,3796,299861,24,27,37,High
+Karnataka,Kurnool,2022,35,1624,2632,40886,26,9,15,Low
+Maharashtra,Nagaur,2016,115,1117,3107,220076,23,11,40,High
+Punjab,Yavatmal,2022,38,1684,2846,81039,44,57,44,Low
+Andhra Pradesh,Yavatmal,2015,42,1247,3547,105400,39,24,18,Medium
+Rajasthan,Bidar,2022,50,1283,1722,192013,30,48,29,Medium
+Telangana,Kurnool,2015,46,1200,2627,175919,28,85,50,Medium
+Telangana,Nagaur,2017,178,1591,2420,131824,13,6,78,High
+Maharashtra,Warangal,2018,108,689,2366,141364,7,14,43,High
+Rajasthan,Kurnool,2018,103,1110,1027,143812,40,28,54,High
+Karnataka,Nagaur,2017,17,1368,4573,79993,15,65,38,Low
+Karnataka,Sangrur,2021,88,1102,4620,232222,40,27,36,Medium
+Maharashtra,Bidar,2015,52,570,2956,142364,8,26,22,Medium
+Rajasthan,Nagaur,2015,5,627,2633,55437,26,84,38,Low
+Punjab,Nagaur,2018,109,1277,4461,48201,41,45,75,High
+Rajasthan,Sangrur,2017,56,1248,3702,107160,35,87,57,Medium
+Maharashtra,Bidar,2021,153,1199,2801,194936,23,19,63,High
+Karnataka,Warangal,2022,62,1600,1673,37312,22,85,66,Medium
+Karnataka,Sangrur,2015,106,592,1687,108711,9,60,76,High
+Rajasthan,Sangrur,2015,102,1047,2497,256959,17,57,56,High
+Karnataka,Warangal,2018,72,1622,4623,98745,34,11,36,Medium
+Telangana,Kurnool,2018,72,907,3618,150550,30,30,36,Medium
+Rajasthan,Sangrur,2017,82,1678,4275,188563,18,49,45,Medium
+Karnataka,Warangal,2020,154,577,1662,158345,18,16,68,High
+Punjab,Kurnool,2019,5,1122,2873,43162,32,48,19,Low
+Punjab,Nagaur,2020,87,302,2746,95560,15,60,61,Medium
+Punjab,Nagaur,2017,34,1362,4768,203762,38,45,22,Low
+Punjab,Kurnool,2015,5,1610,1154,64980,6,58,9,Low
+Maharashtra,Warangal,2016,19,486,4111,277605,49,43,7,Low
+Telangana,Nagaur,2018,62,1652,1930,84471,11,72,58,Medium
+Punjab,Nagaur,2021,48,580,2963,237074,29,80,40,Medium
+Telangana,Nagaur,2018,5,1205,2345,285980,29,75,11,Low
+Karnataka,Sangrur,2021,7,1574,3026,30415,30,26,13,Low
+Karnataka,Bidar,2018,35,1721,2274,45935,47,62,41,Low
+Telangana,Warangal,2017,5,300,1552,50140,28,83,13,Low
+Karnataka,Warangal,2021,58,1249,1686,139910,30,5,14,Medium
+Maharashtra,Bidar,2019,5,1390,3480,39529,31,61,18,Low
+Maharashtra,Kurnool,2019,121,1403,4527,209498,12,58,74,High
+Telangana,Bidar,2019,161,859,2041,216845,36,15,62,High
+Punjab,Warangal,2018,61,373,4863,132012,38,33,36,Medium
+Punjab,Nagaur,2020,5,956,2199,46375,28,58,1,Low
+Punjab,Nagaur,2020,195,994,3597,231632,42,12,79,High
+Telangana,Sangrur,2017,30,1039,1087,297041,40,65,16,Low
+Maharashtra,Nagaur,2022,57,1110,3386,147952,39,73,50,Medium
+Telangana,Kurnool,2017,59,746,3760,79584,40,58,47,Medium
+Punjab,Warangal,2019,45,971,1957,125140,36,42,30,Medium
+Maharashtra,Sangrur,2017,14,1766,1915,57410,44,11,5,Low
+Maharashtra,Bidar,2021,114,310,3248,238680,7,44,51,High
+Telangana,Warangal,2015,168,408,4362,245147,28,44,77,High
+Telangana,Kurnool,2018,29,364,3621,77361,10,79,43,Low
+Karnataka,Warangal,2020,37,635,3110,95471,16,45,29,Low
+Andhra Pradesh,Sangrur,2022,147,600,4161,46533,14,11,73,High
+Andhra Pradesh,Yavatmal,2020,142,1536,2366,37899,42,16,77,High
+Maharashtra,Nagaur,2021,82,1015,4494,60066,18,34,48,Medium
+Punjab,Yavatmal,2017,59,964,1707,242465,17,67,42,Medium
+Punjab,Yavatmal,2022,22,995,3406,218302,36,53,21,Low
+Rajasthan,Sangrur,2021,69,567,3644,258339,6,9,9,Medium
+Rajasthan,Yavatmal,2019,14,1281,2351,112504,11,34,16,Low
+Andhra Pradesh,Kurnool,2017,82,681,4093,30973,23,39,60,Medium
+Telangana,Yavatmal,2017,83,1485,3348,120417,6,19,37,Medium
+Telangana,Kurnool,2022,87,1293,4807,264481,27,41,41,Medium
+Karnataka,Bidar,2015,133,1433,1548,294743,25,50,60,High
+Rajasthan,Yavatmal,2017,69,1158,2416,196872,30,23,30,Medium
+Maharashtra,Kurnool,2021,5,1454,3526,140599,5,66,7,Low
+Punjab,Bidar,2017,144,1690,4560,290784,15,45,62,High
+Telangana,Yavatmal,2018,5,1159,2760,144506,7,44,5,Low
+Andhra Pradesh,Nagaur,2020,142,1488,4323,183354,48,57,77,High
+Andhra Pradesh,Sangrur,2019,5,1415,2781,139322,15,89,7,Low
+Rajasthan,Bidar,2017,58,1528,1448,209848,17,41,30,Medium
+Andhra Pradesh,Kurnool,2021,77,1321,3182,143917,10,38,46,Medium
+Punjab,Warangal,2022,33,300,4361,103480,16,14,10,Low
+Telangana,Nagaur,2020,89,1243,1982,163271,25,62,64,Medium
+Maharashtra,Warangal,2017,67,788,4943,59272,10,69,60,Medium
+Telangana,Kurnool,2020,6,775,1255,200110,12,67,13,Low
+Maharashtra,Kurnool,2020,128,438,1102,223652,26,21,51,High
+Maharashtra,Bidar,2019,5,1457,3161,241594,49,78,11,Low
+Telangana,Yavatmal,2017,138,1216,3368,265612,28,34,57,High
+Karnataka,Bidar,2017,128,363,1767,283206,10,34,55,High
+Maharashtra,Nagaur,2017,44,1421,2291,248171,49,31,12,Medium
+Rajasthan,Kurnool,2019,140,462,1059,175138,6,37,72,High
+Karnataka,Sangrur,2022,5,800,1176,30799,42,83,13,Low
+Andhra Pradesh,Yavatmal,2020,129,918,3395,251325,21,28,58,High
+Punjab,Nagaur,2016,63,499,3452,132820,11,17,30,Medium
+Karnataka,Nagaur,2022,126,1314,1427,258644,18,20,43,High
+Telangana,Warangal,2016,97,620,3786,94555,24,74,74,High
+Punjab,Bidar,2022,5,1167,1773,44418,35,70,18,Low
+Telangana,Warangal,2018,35,748,4310,149097,6,56,36,Low
+Maharashtra,Sangrur,2016,142,1068,2098,44679,14,18,78,High
+Punjab,Nagaur,2018,129,527,1410,264162,23,66,71,High
+Punjab,Kurnool,2022,68,1512,3403,169334,11,54,46,Medium
+Maharashtra,Warangal,2016,102,441,2608,279957,34,73,65,High
+Karnataka,Nagaur,2018,94,1564,4786,222811,7,74,62,High
+Andhra Pradesh,Kurnool,2017,48,1779,4036,171985,28,50,32,Medium
+Maharashtra,Kurnool,2021,172,1371,3031,244241,20,29,72,High
+Rajasthan,Bidar,2016,73,1346,3977,265101,38,36,29,Medium
+Maharashtra,Bidar,2021,48,946,4693,193935,22,86,49,Medium
+Andhra Pradesh,Kurnool,2016,5,431,4115,70058,12,59,19,Low
+Punjab,Bidar,2020,12,355,4664,260119,48,63,15,Low
+Rajasthan,Nagaur,2019,5,379,3521,32966,17,51,17,Low
+Rajasthan,Kurnool,2017,54,1234,3018,123005,35,70,52,Medium
+Andhra Pradesh,Nagaur,2015,48,1642,2222,59400,32,6,17,Medium
+Telangana,Kurnool,2016,140,1198,4442,164308,37,28,72,High
+Maharashtra,Bidar,2018,69,1153,4532,276921,21,66,43,Medium
+Karnataka,Sangrur,2015,94,632,3235,248174,27,34,43,High
+Andhra Pradesh,Sangrur,2015,127,1458,1271,149318,27,35,69,High
+Punjab,Bidar,2017,50,1223,2169,284935,17,14,7,Medium
+Andhra Pradesh,Nagaur,2022,56,1027,1627,34213,18,15,34,Medium
+Andhra Pradesh,Warangal,2018,79,1747,4855,153441,32,72,60,Medium
+Andhra Pradesh,Nagaur,2015,5,1487,4133,98947,30,60,22,Low
+Andhra Pradesh,Bidar,2015,58,653,1513,114963,17,24,30,Medium
+Maharashtra,Sangrur,2017,128,1773,1495,249831,19,21,52,High
+Andhra Pradesh,Yavatmal,2015,63,609,2596,165362,47,68,50,Medium
+Rajasthan,Sangrur,2020,25,816,1656,215128,32,85,35,Low
+Rajasthan,Kurnool,2022,54,352,2884,223545,22,84,49,Medium
+Rajasthan,Sangrur,2021,78,1020,4092,294952,32,43,33,Medium
+Punjab,Kurnool,2018,33,810,4913,97703,37,29,25,Low
+Telangana,Bidar,2021,51,1093,2870,147574,36,80,52,Medium
+Rajasthan,Kurnool,2022,42,1191,3987,195202,34,20,12,Medium
+Maharashtra,Yavatmal,2019,70,1416,4863,106133,16,64,60,Medium
+Karnataka,Sangrur,2021,54,467,3239,287057,37,72,30,Medium
+Rajasthan,Warangal,2016,98,1658,4654,241270,33,27,34,High
+Karnataka,Kurnool,2015,5,1643,1211,46568,17,41,7,Low
+Rajasthan,Warangal,2019,103,1305,3249,173573,34,84,75,High
+Rajasthan,Yavatmal,2020,16,760,3754,124877,22,58,21,Low
+Telangana,Warangal,2017,37,1634,2294,139119,5,20,20,Low
+Karnataka,Kurnool,2020,71,463,3653,149828,25,10,24,Medium
+Andhra Pradesh,Sangrur,2020,10,1321,3507,162475,16,60,15,Low
+Telangana,Bidar,2019,73,1264,4333,77830,7,37,43,Medium
+Karnataka,Bidar,2019,103,363,3685,201481,17,17,38,High
+Rajasthan,Nagaur,2019,101,993,4390,176371,37,80,73,High
+Andhra Pradesh,Bidar,2015,5,659,3587,211034,37,50,1,Low
+Andhra Pradesh,Sangrur,2020,78,590,2481,240121,38,28,28,Medium
+Andhra Pradesh,Warangal,2018,67,1129,3646,252274,31,87,57,Medium
+Andhra Pradesh,Bidar,2015,64,1438,3834,148179,10,19,24,Medium
+Punjab,Bidar,2021,131,972,2064,226334,33,35,65,High
+Maharashtra,Yavatmal,2020,34,735,4623,215024,46,72,32,Low
+Punjab,Kurnool,2015,86,1768,3186,72850,31,72,74,Medium
+Karnataka,Sangrur,2020,33,563,3992,207047,43,37,19,Low
+Punjab,Sangrur,2015,117,1237,1316,171186,26,39,66,High
+Telangana,Sangrur,2021,56,866,3915,136747,25,55,46,Medium
+Telangana,Yavatmal,2018,138,1430,4471,188918,6,5,58,High
+Rajasthan,Sangrur,2021,86,1520,4675,212545,28,36,45,Medium
+Maharashtra,Bidar,2015,58,1228,3528,110667,27,57,44,Medium
+Rajasthan,Yavatmal,2020,5,658,4107,30420,45,29,8,Low
+Rajasthan,Warangal,2020,76,1725,2859,45535,40,74,67,Medium
+Maharashtra,Sangrur,2020,76,929,1793,152580,28,19,32,Medium
+Andhra Pradesh,Nagaur,2017,27,1554,3348,47400,39,30,23,Low
+Maharashtra,Sangrur,2019,10,749,3367,191947,27,40,6,Low
+Rajasthan,Nagaur,2016,107,1134,1875,131345,26,33,60,High
+Maharashtra,Yavatmal,2019,187,564,1381,293380,17,14,75,High
+Maharashtra,Nagaur,2020,136,1546,4440,198482,43,37,72,High
+Rajasthan,Nagaur,2016,21,691,4826,168822,17,58,21,Low
+Punjab,Yavatmal,2020,53,1069,3529,210587,21,82,48,Medium
+Karnataka,Kurnool,2018,112,1489,3046,75201,30,41,70,High
+Maharashtra,Bidar,2019,5,1669,1498,127739,45,51,14,Low
+Karnataka,Bidar,2021,5,1376,1117,75420,35,66,8,Low
+Maharashtra,Kurnool,2016,44,702,1204,269939,23,54,25,Medium
+Punjab,Bidar,2021,5,463,3371,127847,43,67,7,Low
+Punjab,Kurnool,2021,5,1103,4295,33159,29,49,19,Low
+Telangana,Yavatmal,2015,5,1389,4663,51094,5,67,3,Low
+Rajasthan,Kurnool,2015,117,1481,1727,102575,49,40,72,High
+Maharashtra,Sangrur,2021,113,1096,1442,163704,25,71,76,High
+Telangana,Sangrur,2015,66,965,3612,125373,20,14,31,Medium
+Maharashtra,Yavatmal,2018,5,680,1555,204141,13,83,9,Low
+Maharashtra,Warangal,2018,64,1663,4959,151359,33,36,35,Medium
+Andhra Pradesh,Warangal,2017,154,1555,2235,244649,39,46,77,High
+Rajasthan,Kurnool,2019,83,984,1993,148222,19,18,39,Medium
+Telangana,Bidar,2016,103,1563,2488,186778,20,42,53,High
+Karnataka,Kurnool,2019,66,473,3401,156170,19,63,50,Medium
+Maharashtra,Sangrur,2018,42,858,3052,292537,20,67,25,Medium
+Karnataka,Nagaur,2020,5,1153,4754,250691,39,83,11,Low
+Karnataka,Nagaur,2015,145,455,2073,296718,40,59,73,High
+Andhra Pradesh,Yavatmal,2016,70,1162,2500,82330,47,15,33,Medium
+Andhra Pradesh,Nagaur,2015,5,1129,4519,126342,13,60,1,Low
+Karnataka,Sangrur,2016,108,1055,4875,212957,9,33,47,High
+Telangana,Bidar,2015,35,1260,4524,157976,24,73,36,Low
+Maharashtra,Yavatmal,2022,5,1709,4279,242078,47,85,4,Low
+Telangana,Sangrur,2015,109,972,3381,248904,32,11,36,High
+Karnataka,Warangal,2021,57,829,3288,234933,32,11,12,Medium
+Maharashtra,Yavatmal,2015,127,1248,2568,111238,13,10,62,High
+Rajasthan,Bidar,2017,59,1211,1472,218398,33,59,40,Medium
+Punjab,Warangal,2017,40,1465,2012,120214,11,76,42,Low
+Punjab,Yavatmal,2021,35,492,4369,203708,46,48,24,Low
+Rajasthan,Bidar,2018,94,930,3198,297337,19,27,36,High
+Punjab,Nagaur,2015,102,333,4566,175384,44,33,48,High
+Andhra Pradesh,Bidar,2015,147,949,3450,38002,40,8,75,High
+Karnataka,Warangal,2022,143,1275,3056,239610,10,53,76,High
+Andhra Pradesh,Kurnool,2015,5,1788,1695,214884,44,78,18,Low
+Telangana,Kurnool,2017,128,1769,1073,289970,26,31,55,High
+Karnataka,Yavatmal,2017,5,473,1329,163878,37,62,7,Low
+Maharashtra,Sangrur,2022,5,326,4317,177078,5,78,21,Low
+Rajasthan,Nagaur,2022,5,771,4410,159282,19,40,6,Low
+Maharashtra,Yavatmal,2020,143,796,2329,202492,43,16,59,High
+Telangana,Warangal,2018,101,797,3863,125117,21,53,67,High
+Andhra Pradesh,Bidar,2019,98,1020,4855,260066,20,61,52,High
+Rajasthan,Nagaur,2018,98,977,4667,141151,45,63,67,High
+Telangana,Yavatmal,2017,98,1483,2719,69177,44,21,58,High
+Rajasthan,Yavatmal,2015,31,644,3782,40011,44,69,44,Low
+Andhra Pradesh,Yavatmal,2021,79,1162,4825,80368,21,20,37,Medium
+Andhra Pradesh,Yavatmal,2016,78,855,1862,171749,38,55,52,Medium
+Telangana,Warangal,2017,61,824,2448,155451,44,61,50,Medium
+Maharashtra,Bidar,2018,151,1443,4825,53358,12,7,73,High
+Karnataka,Bidar,2018,106,1303,3621,131494,49,12,45,High
+Karnataka,Bidar,2020,30,1726,4138,37213,34,14,18,Low
+Karnataka,Nagaur,2017,19,1140,3165,124135,28,59,25,Low
+Karnataka,Warangal,2017,17,412,3213,279048,40,54,9,Low
+Telangana,Sangrur,2019,58,1149,1621,264466,21,57,28,Medium
+Punjab,Warangal,2020,5,346,4782,242243,41,79,2,Low
+Telangana,Kurnool,2022,51,1586,2989,90693,14,50,40,Medium
+Rajasthan,Warangal,2018,23,386,3850,137904,33,13,9,Low
+Maharashtra,Nagaur,2021,109,696,2504,43714,19,37,74,High
+Telangana,Warangal,2017,5,1032,2040,128115,33,59,7,Low
+Andhra Pradesh,Kurnool,2018,5,781,3036,35560,32,50,10,Low
+Punjab,Bidar,2021,61,1670,4533,237932,42,36,23,Medium
+Andhra Pradesh,Sangrur,2017,28,1336,4233,97008,16,12,9,Low
+Telangana,Sangrur,2016,18,753,3720,70024,17,58,36,Low
+Andhra Pradesh,Yavatmal,2022,5,1423,1144,217401,27,48,2,Low
+Rajasthan,Bidar,2021,10,1492,3689,30530,20,5,2,Low
+Punjab,Yavatmal,2016,6,1033,1946,297401,23,84,13,Low
+Maharashtra,Yavatmal,2021,114,472,1472,111850,43,25,55,High
+Rajasthan,Bidar,2019,176,860,3475,222930,31,9,71,High
+Maharashtra,Sangrur,2015,121,1245,3018,152636,15,23,56,High
+Telangana,Warangal,2015,48,1377,1036,113748,18,48,42,Medium
+Telangana,Warangal,2015,5,999,3065,184226,43,86,6,Low
+Andhra Pradesh,Warangal,2015,116,432,1448,118327,43,47,73,High
+Telangana,Warangal,2019,93,1196,1861,295388,5,7,22,High
+Maharashtra,Bidar,2022,5,383,4742,288845,20,70,10,Low
+Punjab,Yavatmal,2017,33,543,4962,174776,21,13,9,Low
+Punjab,Bidar,2020,106,1133,1265,187871,17,63,67,High
+Punjab,Nagaur,2015,79,1148,1962,246879,28,22,27,Medium
+Andhra Pradesh,Sangrur,2017,52,1741,3679,109072,22,7,24,Medium
+Rajasthan,Sangrur,2020,36,1694,2706,37034,12,73,52,Low
+Andhra Pradesh,Warangal,2020,5,1455,4191,52231,12,65,17,Low
+Telangana,Yavatmal,2016,96,1622,2545,41357,34,29,57,High
+Punjab,Bidar,2021,66,383,3256,279070,44,40,26,Medium
+Maharashtra,Nagaur,2022,70,1634,3906,142312,19,49,50,Medium
+Andhra Pradesh,Nagaur,2020,54,1033,2891,64407,19,18,31,Medium
+Telangana,Sangrur,2016,5,890,4287,155496,20,79,8,Low
+Punjab,Nagaur,2015,105,1774,3467,68872,40,15,51,High
+Rajasthan,Bidar,2020,5,469,4351,181343,24,74,7,Low
+Punjab,Warangal,2020,29,432,3948,86467,19,34,24,Low
+Punjab,Yavatmal,2018,5,1243,4910,170813,33,54,10,Low
+Karnataka,Sangrur,2021,32,1675,1667,278134,20,30,8,Low
+Karnataka,Warangal,2016,5,422,4960,85810,12,63,2,Low
+Karnataka,Kurnool,2018,29,1608,3704,216185,45,26,6,Low
+Maharashtra,Nagaur,2021,50,1591,3059,174574,20,29,22,Medium
+Andhra Pradesh,Yavatmal,2019,44,1434,1079,120947,16,53,33,Medium
+Rajasthan,Bidar,2017,120,1045,3002,221309,29,38,60,High
+Telangana,Sangrur,2018,5,515,4491,149492,43,74,4,Low
+Telangana,Bidar,2019,178,979,1486,279380,7,35,77,High
+Punjab,Sangrur,2018,44,1312,3572,208583,45,7,10,Medium
+Karnataka,Warangal,2016,5,1528,3125,68368,6,70,31,Low
+Maharashtra,Sangrur,2016,83,1524,1535,266328,14,55,42,Medium
+Rajasthan,Bidar,2018,61,407,4387,278945,43,9,6,Medium
+Rajasthan,Nagaur,2020,5,1463,4133,95035,12,78,16,Low
+Maharashtra,Bidar,2019,6,1151,2744,72898,21,69,29,Low
+Karnataka,Kurnool,2019,63,781,4290,45904,33,41,46,Medium
+Andhra Pradesh,Kurnool,2019,53,1181,3654,130539,13,32,26,Medium
+Telangana,Yavatmal,2018,52,1576,1671,37004,22,75,65,Medium
+Maharashtra,Warangal,2021,5,1151,2908,144163,40,32,3,Low
+Andhra Pradesh,Kurnool,2018,68,945,1023,199252,49,55,45,Medium
+Andhra Pradesh,Bidar,2016,5,1614,3614,166344,31,49,12,Low
+Maharashtra,Yavatmal,2017,84,956,1968,148336,22,57,57,Medium
+Maharashtra,Sangrur,2018,87,1307,1994,90692,17,46,54,Medium
+Rajasthan,Nagaur,2016,68,1041,1165,274405,17,81,47,Medium
+Andhra Pradesh,Sangrur,2015,126,1223,4192,256562,22,30,54,High
+Maharashtra,Warangal,2016,7,519,3267,234381,25,48,2,Low
+Punjab,Nagaur,2016,16,827,3963,227273,20,74,23,Low
+Andhra Pradesh,Nagaur,2019,73,1439,1149,62261,36,21,38,Medium
+Andhra Pradesh,Bidar,2019,5,1500,2084,136911,26,67,7,Low
+Andhra Pradesh,Nagaur,2022,21,1716,2070,146189,46,46,23,Low
+Karnataka,Sangrur,2015,5,1040,2862,252947,7,59,4,Low
+Rajasthan,Kurnool,2022,103,330,1884,222702,6,35,47,High
+Rajasthan,Yavatmal,2018,138,1369,4160,235174,5,29,61,High
+Karnataka,Nagaur,2019,115,1400,2534,191446,6,36,58,High
+Rajasthan,Bidar,2017,51,989,2397,289830,42,7,5,Medium
+Telangana,Warangal,2022,56,1628,1289,183807,40,11,18,Medium
+Maharashtra,Warangal,2021,7,1101,3866,285848,33,72,14,Low
+Karnataka,Sangrur,2017,5,822,3707,32998,40,86,14,Low
+Karnataka,Yavatmal,2015,17,1683,2600,164144,25,64,25,Low
+Maharashtra,Warangal,2018,120,331,1544,298999,46,30,42,High
+Andhra Pradesh,Bidar,2015,35,1453,4938,117393,10,35,23,Low
+Rajasthan,Sangrur,2018,60,446,2739,53178,48,63,59,Medium
+Karnataka,Sangrur,2019,160,1109,2443,266424,16,14,59,High
+Andhra Pradesh,Bidar,2019,25,891,2214,138644,41,33,18,Low
+Andhra Pradesh,Yavatmal,2022,76,1191,4625,153950,35,66,56,Medium
+Maharashtra,Warangal,2017,56,638,2976,178250,24,7,16,Medium
+Telangana,Kurnool,2021,65,1609,2447,206246,5,33,30,Medium
+Rajasthan,Yavatmal,2017,55,862,4463,259810,40,59,35,Medium
+Telangana,Bidar,2018,12,1256,3365,214307,49,85,25,Low
+Telangana,Bidar,2015,114,1034,2093,204847,8,24,54,High
+Andhra Pradesh,Yavatmal,2016,5,1758,2648,97949,31,47,10,Low
+Maharashtra,Bidar,2020,165,1678,1620,260305,21,25,67,High
+Rajasthan,Yavatmal,2022,60,1076,3680,272975,15,38,18,Medium
+Rajasthan,Yavatmal,2019,99,381,1523,173363,47,31,51,High
+Rajasthan,Kurnool,2021,5,1685,3615,102920,8,48,15,Low
+Punjab,Bidar,2017,5,1517,4052,210537,30,76,21,Low
+Karnataka,Nagaur,2016,19,1543,4077,247838,27,62,17,Low
+Telangana,Nagaur,2017,56,991,4705,177525,48,77,52,Medium
+Andhra Pradesh,Sangrur,2016,27,1587,1905,268143,46,47,9,Low
+Andhra Pradesh,Sangrur,2015,5,779,3179,42402,37,89,1,Low
+Punjab,Bidar,2020,5,1254,2660,145455,11,70,15,Low
+Rajasthan,Warangal,2015,68,389,3855,223532,46,55,35,Medium
+Rajasthan,Bidar,2015,137,423,3104,44570,36,12,74,High
+Telangana,Nagaur,2020,5,788,4926,164868,10,85,24,Low
+Karnataka,Nagaur,2016,102,1029,4282,191941,11,8,38,High
+Telangana,Nagaur,2015,48,607,4323,213582,30,40,26,Medium
+Punjab,Yavatmal,2016,124,808,4424,214324,41,26,52,High
+Karnataka,Sangrur,2019,33,344,3750,276393,32,63,21,Low
+Karnataka,Kurnool,2016,64,1724,4779,142885,11,44,40,Medium
+Karnataka,Sangrur,2017,55,1780,3582,259982,36,35,17,Medium
+Maharashtra,Nagaur,2017,5,1353,2215,163556,44,41,6,Low
+Karnataka,Sangrur,2019,167,1642,3277,131477,6,9,75,High
+Rajasthan,Kurnool,2020,74,403,4182,153307,39,89,69,Medium
+Maharashtra,Kurnool,2020,141,860,2273,168721,15,40,75,High
+Rajasthan,Yavatmal,2016,5,410,3911,104635,49,36,4,Low
+Karnataka,Sangrur,2022,5,406,4336,69137,43,55,20,Low
+Karnataka,Warangal,2019,102,334,3454,272479,43,62,57,High
+Telangana,Nagaur,2017,70,668,2391,87172,30,55,50,Medium
+Telangana,Warangal,2016,5,1612,4450,220563,8,77,8,Low
+Andhra Pradesh,Nagaur,2021,38,1295,2021,275869,25,26,9,Low
+Punjab,Bidar,2016,81,1452,4555,38299,9,45,63,Medium
+Maharashtra,Kurnool,2022,73,620,3766,64623,28,72,63,Medium
+Karnataka,Yavatmal,2019,62,1781,2918,96224,26,33,35,Medium
+Telangana,Nagaur,2018,128,969,4539,173686,46,54,71,High
+Rajasthan,Warangal,2015,53,1290,2873,160177,37,79,54,Medium
+Telangana,Bidar,2019,57,1139,4506,241168,30,41,30,Medium
+Punjab,Kurnool,2015,102,944,1065,201966,22,29,44,High
+Andhra Pradesh,Sangrur,2022,19,479,3881,37691,15,72,43,Low
+Maharashtra,Sangrur,2020,5,1338,4113,32590,26,57,6,Low
+Andhra Pradesh,Kurnool,2018,101,993,2719,68131,34,25,55,High
+Telangana,Nagaur,2019,53,543,3107,173463,15,51,31,Medium
+Andhra Pradesh,Yavatmal,2020,9,1507,2680,66389,29,36,15,Low
+Maharashtra,Yavatmal,2016,5,566,1780,227553,41,42,1,Low
+Punjab,Warangal,2022,10,459,3984,147278,10,56,22,Low
+Karnataka,Nagaur,2017,193,1164,4802,186587,13,9,79,High
+Karnataka,Kurnool,2018,18,1528,3071,122154,14,46,22,Low
+Telangana,Nagaur,2021,84,1322,4748,274307,14,78,53,Medium
+Telangana,Warangal,2020,5,1375,1651,179010,36,79,2,Low
+Telangana,Kurnool,2021,161,1622,1969,162624,38,28,74,High
+Rajasthan,Sangrur,2017,5,528,4842,120139,48,82,11,Low
+Andhra Pradesh,Warangal,2021,5,1627,4454,273206,44,75,6,Low
+Telangana,Sangrur,2015,78,673,3482,289258,10,55,38,Medium
+Telangana,Kurnool,2018,154,325,2071,207338,16,27,72,High
+Maharashtra,Bidar,2022,92,906,2048,65344,46,33,60,Medium
+Andhra Pradesh,Bidar,2022,5,1593,3809,104383,22,79,20,Low
+Andhra Pradesh,Kurnool,2018,86,694,2649,256283,22,43,44,Medium
+Rajasthan,Warangal,2016,132,1498,3206,64018,43,42,79,High
+Rajasthan,Nagaur,2015,5,549,2036,87940,49,47,4,Low
+Telangana,Warangal,2017,56,1272,1437,153947,20,10,14,Medium
+Punjab,Yavatmal,2021,85,784,1168,192679,39,14,30,Medium
+Maharashtra,Sangrur,2021,68,1303,3389,285654,46,58,30,Medium
+Rajasthan,Kurnool,2016,5,1668,1598,38922,46,41,7,Low
+Punjab,Yavatmal,2022,5,995,4784,181293,26,81,11,Low
+Punjab,Nagaur,2015,5,1565,1855,85210,44,26,3,Low
+Maharashtra,Kurnool,2022,127,1307,2317,299024,46,10,41,High
+Karnataka,Yavatmal,2017,101,1296,1296,157430,26,52,63,High
+Maharashtra,Kurnool,2020,48,1772,2249,184042,18,40,27,Medium
+Rajasthan,Bidar,2019,114,406,3491,290131,25,31,41,High
+Punjab,Warangal,2022,18,1560,2938,70376,25,37,23,Low
+Rajasthan,Sangrur,2017,9,452,4088,74379,15,78,39,Low
+Karnataka,Bidar,2015,56,1103,1354,269173,20,49,26,Medium
+Telangana,Bidar,2021,25,670,1322,209751,45,85,38,Low
+Telangana,Sangrur,2018,161,1380,4393,224512,34,14,61,High
+Telangana,Nagaur,2015,15,1277,1003,201317,31,68,22,Low
+Karnataka,Bidar,2017,110,484,4509,82299,20,20,55,High
+Andhra Pradesh,Sangrur,2019,120,1045,2734,205369,8,47,63,High
+Punjab,Yavatmal,2016,118,606,2773,238554,28,38,59,High
+Maharashtra,Yavatmal,2021,50,954,3677,189435,47,21,14,Medium
+Telangana,Sangrur,2022,38,322,3661,271569,44,75,33,Low
+Punjab,Warangal,2021,172,573,1451,134554,24,15,79,High
+Karnataka,Yavatmal,2016,53,1271,1361,153311,39,12,22,Medium
+Rajasthan,Bidar,2019,5,569,4608,52499,40,7,5,Low
+Rajasthan,Sangrur,2015,84,1289,3507,40633,38,20,46,Medium
+Punjab,Warangal,2016,143,713,2378,178936,22,23,68,High
+Punjab,Bidar,2022,5,1275,4146,64851,27,67,26,Low
+Rajasthan,Nagaur,2020,93,324,3555,236091,26,13,29,High
+Andhra Pradesh,Kurnool,2017,128,354,4204,287075,49,17,42,High
+Maharashtra,Yavatmal,2016,125,1154,2642,97562,8,51,75,High
+Maharashtra,Warangal,2019,34,948,2338,116700,42,74,43,Low
+Andhra Pradesh,Kurnool,2016,48,955,4006,58082,45,36,38,Medium
+Rajasthan,Kurnool,2015,42,1106,1040,120577,32,81,50,Medium
+Karnataka,Kurnool,2016,18,1342,4041,43882,8,71,41,Low
+Telangana,Yavatmal,2021,93,1306,2274,230317,23,60,52,High
+Telangana,Bidar,2017,88,942,3070,117193,47,22,46,Medium
+Andhra Pradesh,Bidar,2020,70,462,4152,144491,16,67,52,Medium
+Andhra Pradesh,Yavatmal,2016,121,841,1156,238358,14,43,55,High
+Karnataka,Nagaur,2016,87,508,3634,95088,21,50,60,Medium
+Andhra Pradesh,Warangal,2018,104,1582,2970,254903,10,63,61,High
+Andhra Pradesh,Kurnool,2018,80,948,2640,218944,48,36,35,Medium
+Karnataka,Nagaur,2022,66,384,4595,155179,28,12,21,Medium
+Telangana,Yavatmal,2018,5,954,1643,175614,40,66,4,Low
+Karnataka,Sangrur,2021,143,1607,4428,74078,13,6,67,High
+Andhra Pradesh,Yavatmal,2018,48,634,3573,180061,27,17,16,Medium
+Rajasthan,Bidar,2020,70,1660,4810,168480,28,52,49,Medium
+Karnataka,Nagaur,2021,38,676,3290,293136,21,35,10,Low
+Karnataka,Nagaur,2019,26,1481,3721,192352,31,62,27,Low
+Andhra Pradesh,Sangrur,2021,120,450,2382,65183,48,51,79,High
+Maharashtra,Sangrur,2017,118,1223,4711,212414,20,51,63,High
+Punjab,Warangal,2019,106,1372,4970,214943,9,64,66,High
+Telangana,Yavatmal,2019,29,346,2611,61657,35,26,17,Low
+Telangana,Sangrur,2022,5,1306,1353,82788,32,81,29,Low
+Punjab,Kurnool,2016,5,1156,1176,47813,49,65,21,Low
+Andhra Pradesh,Warangal,2018,129,451,4231,196746,36,63,75,High
+Maharashtra,Kurnool,2022,5,1462,3293,37882,46,85,10,Low
+Telangana,Sangrur,2016,67,1326,2594,205234,42,6,17,Medium
+Telangana,Nagaur,2021,97,1314,2633,207367,13,6,34,High
+Rajasthan,Warangal,2020,135,397,1278,216283,46,69,79,High
+Karnataka,Kurnool,2019,64,994,2262,280105,11,89,50,Medium
+Telangana,Bidar,2016,77,1559,4362,278870,42,82,55,Medium
+Rajasthan,Warangal,2021,24,1466,1614,195961,6,64,24,Low
+Punjab,Sangrur,2019,141,811,4141,280527,6,63,73,High
+Rajasthan,Sangrur,2017,136,377,4663,285311,38,84,78,High
+Maharashtra,Nagaur,2021,82,397,2006,53238,37,39,52,Medium
+Andhra Pradesh,Bidar,2018,123,651,1043,225895,14,27,48,High
+Maharashtra,Sangrur,2016,83,561,3559,191334,43,16,31,Medium
+Andhra Pradesh,Yavatmal,2015,139,565,3355,212730,18,7,57,High
+Telangana,Nagaur,2016,40,1658,2423,175271,40,31,17,Low
+Maharashtra,Warangal,2020,169,993,3912,182945,40,9,69,High
+Maharashtra,Yavatmal,2021,129,1463,4933,93128,32,47,77,High
+Karnataka,Nagaur,2020,89,573,2562,174199,10,79,69,Medium
+Rajasthan,Sangrur,2021,162,1184,1757,284572,37,5,54,High
+Karnataka,Warangal,2016,67,1620,2799,111823,34,50,52,Medium
+Andhra Pradesh,Bidar,2019,64,1412,4305,179671,43,65,44,Medium
+Rajasthan,Bidar,2018,83,859,4273,228878,48,15,25,Medium
+Rajasthan,Warangal,2019,82,1357,2018,213635,11,66,57,Medium
+Andhra Pradesh,Kurnool,2018,104,1456,3891,166659,41,64,65,High
+Rajasthan,Bidar,2016,83,1384,3505,222460,24,68,57,Medium
+Rajasthan,Bidar,2018,30,784,1076,180018,41,52,19,Low
+Karnataka,Yavatmal,2016,115,1363,3737,51788,46,33,66,High
+Karnataka,Kurnool,2021,104,391,2002,288415,43,64,51,High
+Maharashtra,Nagaur,2016,5,767,2193,106031,47,77,19,Low
+Andhra Pradesh,Yavatmal,2020,119,874,2177,139822,35,39,67,High
+Andhra Pradesh,Kurnool,2020,5,1247,4200,73937,11,79,11,Low
+Telangana,Kurnool,2022,5,1353,3461,156822,41,88,22,Low
+Maharashtra,Kurnool,2019,118,848,3293,229269,39,42,60,High
+Telangana,Sangrur,2019,48,686,3736,154628,42,34,22,Medium
+Telangana,Sangrur,2016,59,851,1678,296842,12,58,27,Medium
+Telangana,Nagaur,2021,45,316,1217,46211,14,23,30,Medium
+Maharashtra,Nagaur,2022,99,1486,2842,159350,31,14,43,High
+Rajasthan,Nagaur,2019,98,1656,4329,37826,42,6,51,High
+Telangana,Nagaur,2021,145,433,3267,181714,15,12,57,High
+Karnataka,Sangrur,2017,126,1795,3047,291360,40,75,69,High
+Rajasthan,Nagaur,2016,156,1247,4329,170401,17,22,76,High
+Rajasthan,Bidar,2020,5,464,3324,60976,8,62,1,Low
+Rajasthan,Bidar,2018,33,1322,4590,211298,7,54,26,Low
+Rajasthan,Yavatmal,2017,66,663,2078,285019,21,42,30,Medium
+Rajasthan,Kurnool,2017,138,917,1358,281197,15,67,79,High
+Andhra Pradesh,Sangrur,2022,19,1363,3815,102076,47,21,15,Low
+Punjab,Sangrur,2019,140,1366,3673,286349,17,34,57,High
+Rajasthan,Yavatmal,2017,5,1261,1093,58370,43,41,3,Low
+Maharashtra,Nagaur,2020,95,825,3239,221157,6,47,53,High
+Karnataka,Yavatmal,2022,5,502,4057,198382,5,83,4,Low
+Telangana,Yavatmal,2017,57,477,2686,129132,7,21,22,Medium
+Punjab,Sangrur,2018,88,1690,1928,172121,6,43,46,Medium
+Punjab,Warangal,2021,155,1074,4436,251481,13,10,57,High
+Rajasthan,Warangal,2020,68,895,2589,211613,31,88,59,Medium
+Rajasthan,Yavatmal,2020,142,693,1305,259905,20,56,69,High
+Andhra Pradesh,Warangal,2021,5,651,3857,89596,17,85,15,Low
+Telangana,Yavatmal,2019,7,1417,3154,102981,14,79,38,Low
+Rajasthan,Kurnool,2021,8,1655,1518,187889,5,66,18,Low
+Punjab,Nagaur,2017,51,534,4140,141201,12,82,55,Medium
+Karnataka,Bidar,2022,57,1437,2111,221595,27,20,16,Medium
+Rajasthan,Nagaur,2021,16,1708,4378,163993,29,50,21,Low
+Rajasthan,Kurnool,2021,108,1079,1836,270125,13,48,52,High
+Punjab,Bidar,2020,23,309,1301,290025,41,56,13,Low
+Maharashtra,Kurnool,2022,175,1227,1010,238976,9,10,74,High
+Rajasthan,Kurnool,2016,38,1404,2946,87858,33,70,49,Low
+Maharashtra,Kurnool,2016,57,1516,1955,244521,8,18,18,Medium
+Karnataka,Kurnool,2020,60,1787,1188,299275,26,74,42,Medium
+Andhra Pradesh,Bidar,2017,129,575,1363,162737,11,53,76,High
+Punjab,Nagaur,2016,5,384,2731,56866,25,53,2,Low
+Punjab,Warangal,2020,61,1284,4709,201361,36,55,42,Medium
+Karnataka,Warangal,2018,97,1499,4435,180279,9,15,42,High
+Punjab,Bidar,2018,46,446,4759,87782,36,50,36,Medium
+Maharashtra,Yavatmal,2018,71,1438,1327,293717,18,6,9,Medium
+Andhra Pradesh,Yavatmal,2017,62,1394,3598,187481,21,67,46,Medium
+Telangana,Warangal,2020,36,1203,2631,51629,23,28,24,Low
+Maharashtra,Warangal,2015,19,1154,2015,250079,22,68,16,Low
+Telangana,Nagaur,2021,101,1347,2084,164966,24,44,58,High
+Maharashtra,Bidar,2019,81,452,3143,193380,14,64,51,Medium
+Karnataka,Warangal,2022,92,1023,4834,226370,19,74,61,Medium
+Rajasthan,Kurnool,2017,144,1651,3651,182834,6,57,78,High
+Andhra Pradesh,Kurnool,2020,96,814,4520,220862,24,38,50,High
+Karnataka,Sangrur,2016,120,1711,2807,114661,37,13,57,High
+Rajasthan,Warangal,2016,35,571,4207,87942,40,7,15,Low
+Karnataka,Yavatmal,2021,146,1558,2154,242637,49,21,58,High
+Karnataka,Nagaur,2016,115,1335,2543,284031,45,38,46,High
+Andhra Pradesh,Kurnool,2018,90,928,2713,201754,17,53,50,Medium
+Telangana,Nagaur,2016,5,1405,4709,45430,14,83,11,Low
+Punjab,Kurnool,2021,26,1757,4320,229336,21,66,25,Low
+Karnataka,Sangrur,2015,7,314,4112,138484,20,64,22,Low
+Andhra Pradesh,Nagaur,2016,179,799,1208,207284,37,9,71,High
+Maharashtra,Nagaur,2016,27,938,2228,123481,15,30,21,Low
+Rajasthan,Sangrur,2018,42,764,1975,77672,46,9,14,Medium
+Telangana,Warangal,2022,43,1539,3734,127083,13,7,9,Medium
+Telangana,Sangrur,2022,5,431,1392,191778,39,78,12,Low
+Rajasthan,Yavatmal,2016,5,451,4968,42366,12,86,16,Low
+Rajasthan,Kurnool,2019,50,1697,2075,248735,11,31,13,Medium
+Karnataka,Warangal,2019,137,560,1742,134992,8,30,68,High
+Andhra Pradesh,Nagaur,2018,81,401,4257,143570,29,76,61,Medium
+Maharashtra,Yavatmal,2015,5,1655,4960,88936,37,67,12,Low
+Andhra Pradesh,Sangrur,2017,123,1171,1834,90656,29,49,74,High
+Punjab,Kurnool,2020,5,913,4021,231961,10,78,6,Low
+Punjab,Bidar,2018,171,1417,4894,265603,41,20,70,High
+Andhra Pradesh,Kurnool,2021,5,702,2409,100793,16,50,19,Low
+Andhra Pradesh,Sangrur,2021,87,761,4884,78500,38,6,44,Medium
+Punjab,Warangal,2018,157,838,4887,209037,11,31,71,High
+Karnataka,Nagaur,2016,103,972,3911,254121,29,18,38,High
+Telangana,Warangal,2020,116,637,1265,31378,44,27,65,High
+Karnataka,Kurnool,2018,67,1252,4274,210940,29,24,25,Medium
+Andhra Pradesh,Bidar,2021,75,1056,4392,240511,32,25,30,Medium
+Maharashtra,Nagaur,2017,49,1352,4330,223209,37,79,45,Medium
+Maharashtra,Yavatmal,2021,19,1663,1307,163823,43,44,13,Low
+Karnataka,Yavatmal,2019,103,793,1958,48405,24,30,59,High
+Andhra Pradesh,Warangal,2016,118,1060,1931,89269,11,35,72,High
+Rajasthan,Kurnool,2015,102,1530,1646,275954,34,82,68,High
+Punjab,Kurnool,2015,5,1334,2753,46705,32,64,10,Low
+Andhra Pradesh,Kurnool,2021,51,391,4877,114256,15,49,44,Medium
+Andhra Pradesh,Bidar,2017,5,773,2934,79421,27,58,8,Low
+Telangana,Warangal,2020,118,1164,1923,51169,42,34,73,High
+Rajasthan,Warangal,2015,111,1319,3479,165915,9,73,78,High
+Andhra Pradesh,Bidar,2017,5,1588,1734,110684,13,63,13,Low
+Telangana,Warangal,2016,38,827,4163,221735,23,10,4,Low
+Rajasthan,Sangrur,2019,18,1360,2416,105324,39,51,21,Low
+Rajasthan,Bidar,2017,73,464,4084,240042,5,53,35,Medium
+Andhra Pradesh,Warangal,2020,154,915,1743,113872,33,20,78,High
+Rajasthan,Kurnool,2018,57,1537,3919,155074,29,71,53,Medium
+Punjab,Yavatmal,2021,115,1670,2193,173361,10,50,66,High
+Karnataka,Yavatmal,2022,106,889,1201,48409,16,53,78,High
+Punjab,Kurnool,2021,112,792,4504,106347,8,45,67,High
+Telangana,Warangal,2016,15,514,3672,159120,40,85,34,Low
+Andhra Pradesh,Sangrur,2018,130,851,4724,273551,15,42,57,High
+Andhra Pradesh,Warangal,2016,98,584,1721,70194,33,60,72,High
+Telangana,Warangal,2015,5,899,4440,153919,21,75,10,Low
+Rajasthan,Nagaur,2020,5,1561,3069,191503,30,80,19,Low
+Maharashtra,Kurnool,2019,89,1408,2570,136500,16,11,41,Medium
+Karnataka,Yavatmal,2020,5,1111,1837,101997,14,77,20,Low
+Punjab,Kurnool,2022,5,627,3285,100775,35,84,28,Low
+Telangana,Sangrur,2016,33,1474,4869,231943,32,83,33,Low
+Maharashtra,Nagaur,2019,91,461,1041,283107,14,55,45,Medium
+Rajasthan,Yavatmal,2019,146,422,3700,209096,25,5,58,High
+Andhra Pradesh,Nagaur,2021,62,1592,4564,159814,25,10,20,Medium
+Karnataka,Yavatmal,2018,152,1718,4699,284559,15,60,79,High
+Punjab,Bidar,2015,38,1678,2682,96024,35,85,50,Low
+Karnataka,Kurnool,2016,50,949,1647,235180,30,38,19,Medium
+Punjab,Bidar,2022,76,708,1791,49374,24,73,67,Medium
+Andhra Pradesh,Yavatmal,2019,5,822,3213,37826,43,21,13,Low
+Maharashtra,Yavatmal,2018,5,664,1224,119059,6,72,16,Low
+Karnataka,Bidar,2015,40,512,4350,279972,6,71,26,Low
+Telangana,Warangal,2015,49,1436,2983,143827,8,27,25,Medium
+Maharashtra,Warangal,2021,117,1415,3516,297418,19,85,69,High
+Karnataka,Bidar,2017,74,1572,4047,52487,28,23,39,Medium
+Punjab,Nagaur,2015,27,1222,2311,130804,48,37,19,Low
+Karnataka,Sangrur,2017,30,1014,3761,212387,9,59,25,Low
+Andhra Pradesh,Yavatmal,2018,37,1283,4559,298210,27,37,8,Low
+Andhra Pradesh,Kurnool,2020,98,596,3377,58941,28,66,75,High
+Rajasthan,Sangrur,2019,136,1376,1495,196835,34,11,54,High
+Telangana,Bidar,2017,125,1261,3714,113026,33,15,55,High
+Telangana,Kurnool,2016,62,753,3314,288554,18,64,36,Medium
+Karnataka,Yavatmal,2015,147,1174,2595,200899,26,8,56,High
+Maharashtra,Bidar,2022,118,969,4147,221506,41,66,68,High
+Telangana,Warangal,2018,76,1185,2014,129772,25,14,30,Medium
+Telangana,Kurnool,2020,152,750,2116,144183,33,14,69,High
+Telangana,Bidar,2016,5,1486,3993,282669,16,89,16,Low
+Andhra Pradesh,Sangrur,2018,80,1708,4264,158789,19,88,67,Medium
+Karnataka,Sangrur,2022,83,815,2056,65500,21,54,63,Medium
+Rajasthan,Warangal,2018,131,1674,2346,174499,17,25,64,High
+Andhra Pradesh,Warangal,2019,106,943,1478,239263,37,41,53,High
+Karnataka,Sangrur,2015,33,1766,2842,260435,19,64,18,Low
+Andhra Pradesh,Yavatmal,2018,55,467,4840,184898,27,30,29,Medium
+Punjab,Nagaur,2022,162,1597,2729,188459,31,10,70,High
+Karnataka,Nagaur,2022,49,737,3004,42011,22,27,36,Medium
+Maharashtra,Kurnool,2018,101,432,4345,238974,39,69,63,High
+Karnataka,Yavatmal,2022,57,1687,4303,191383,34,42,35,Medium
+Rajasthan,Nagaur,2018,117,1616,2108,227292,33,45,56,High
+Telangana,Yavatmal,2020,126,1795,2932,245799,42,35,53,High
+Karnataka,Bidar,2017,66,1336,1875,135812,33,49,46,Medium
+Andhra Pradesh,Nagaur,2016,103,396,3726,74739,39,12,52,High
+Karnataka,Bidar,2021,93,847,3949,81965,26,74,73,High
+Rajasthan,Sangrur,2020,5,573,1523,179301,31,51,1,Low
+Punjab,Kurnool,2015,75,1416,1450,273083,32,43,37,Medium
+Karnataka,Sangrur,2020,5,1352,1088,33468,48,58,19,Low
+Telangana,Warangal,2017,95,400,1106,82136,39,80,76,High
+Telangana,Yavatmal,2016,36,457,1327,33816,17,74,54,Low
+Telangana,Kurnool,2020,34,1430,1240,294626,32,68,21,Low
+Maharashtra,Kurnool,2021,42,868,2654,106964,33,68,48,Medium
+Rajasthan,Warangal,2021,164,524,2283,209586,36,8,65,High
+Andhra Pradesh,Yavatmal,2018,5,1766,1348,46328,35,75,13,Low
+Karnataka,Yavatmal,2021,32,445,3226,189947,47,63,30,Low
+Telangana,Warangal,2021,133,1660,3954,135850,6,27,63,High
+Rajasthan,Kurnool,2016,28,1207,2183,219674,9,75,33,Low
+Rajasthan,Kurnool,2017,151,1483,2855,137809,46,12,66,High
+Andhra Pradesh,Nagaur,2019,57,545,2346,281818,20,77,35,Medium
+Punjab,Nagaur,2016,58,1106,2033,213557,6,42,33,Medium
+Telangana,Kurnool,2017,35,856,2685,247578,8,21,5,Low
+Andhra Pradesh,Nagaur,2016,93,306,4568,215542,31,23,41,High
+Rajasthan,Warangal,2017,122,1542,3565,103836,35,29,66,High
+Maharashtra,Yavatmal,2019,59,513,3115,143398,38,75,50,Medium
+Punjab,Kurnool,2016,117,1715,1987,180651,48,66,76,High
+Punjab,Kurnool,2020,5,1239,3924,125660,33,63,15,Low
+Telangana,Yavatmal,2018,12,383,3424,74344,16,42,17,Low
+Punjab,Yavatmal,2017,23,1773,1949,198151,28,84,31,Low
+Punjab,Bidar,2017,47,1763,1616,45740,18,49,43,Medium
+Rajasthan,Sangrur,2015,12,325,1082,71132,43,49,26,Low
+Punjab,Nagaur,2018,121,1518,1524,262460,17,5,40,High
+Telangana,Bidar,2015,5,1176,4903,66516,18,79,25,Low
+Karnataka,Bidar,2018,5,1237,4886,155811,48,45,3,Low
+Telangana,Yavatmal,2021,43,389,3432,107774,15,11,12,Medium
+Karnataka,Nagaur,2020,117,1518,3921,277860,30,36,45,High
+Andhra Pradesh,Sangrur,2020,44,1568,4220,163915,20,52,28,Medium
+Karnataka,Warangal,2018,5,725,3401,202781,44,74,3,Low
+Karnataka,Warangal,2017,124,1246,2559,233679,39,17,43,High
+Punjab,Warangal,2016,30,367,4930,71787,29,8,17,Low
+Karnataka,Nagaur,2019,40,1441,4723,107093,21,62,40,Low
+Punjab,Kurnool,2019,126,1541,1435,158840,25,64,75,High
+Karnataka,Kurnool,2016,149,914,1335,195432,33,5,59,High
+Karnataka,Nagaur,2016,94,1623,3223,205848,15,19,35,High
+Andhra Pradesh,Warangal,2019,112,333,1677,230043,8,9,40,High
+Andhra Pradesh,Warangal,2017,122,834,3247,96036,15,54,74,High
+Telangana,Warangal,2018,5,1779,1338,295711,25,86,9,Low
+Karnataka,Bidar,2016,20,372,2160,70785,15,17,9,Low
+Telangana,Yavatmal,2021,5,1082,1504,154453,15,56,7,Low
+Andhra Pradesh,Sangrur,2016,27,1088,2435,150973,6,33,18,Low
+Andhra Pradesh,Kurnool,2022,53,1369,2675,280156,36,22,13,Medium
+Rajasthan,Nagaur,2016,156,880,2265,196823,18,32,72,High
+Punjab,Kurnool,2018,125,1384,3662,215736,21,53,63,High
+Rajasthan,Nagaur,2019,5,1188,4596,37907,49,57,17,Low
+Rajasthan,Yavatmal,2017,34,1391,4451,261626,46,76,28,Low
+Karnataka,Nagaur,2015,5,1036,4822,117157,40,88,33,Low
+Punjab,Sangrur,2021,5,1792,2641,70770,18,83,33,Low
+Rajasthan,Bidar,2021,110,1114,1802,254182,16,55,59,High
+Rajasthan,Yavatmal,2022,121,1122,1221,242151,48,53,60,High
+Andhra Pradesh,Nagaur,2020,5,897,3951,48982,7,61,10,Low
+Rajasthan,Nagaur,2020,82,366,3752,172432,23,66,57,Medium
+Telangana,Kurnool,2022,93,1211,3418,230755,24,45,48,High
+Andhra Pradesh,Warangal,2022,48,920,3151,30599,33,50,47,Medium
+Punjab,Bidar,2019,108,394,1268,136276,47,38,55,High
+Andhra Pradesh,Warangal,2020,48,1510,4953,236899,44,23,12,Medium
+Andhra Pradesh,Warangal,2017,143,1018,2167,296220,11,51,67,High
+Karnataka,Kurnool,2018,95,1757,1802,96038,25,59,66,High
+Rajasthan,Warangal,2015,80,1562,1623,136052,28,53,55,Medium
+Karnataka,Warangal,2017,52,1398,4169,152140,40,70,48,Medium
+Karnataka,Bidar,2018,63,814,4152,55960,36,12,30,Medium
+Maharashtra,Sangrur,2015,62,1105,4214,87773,30,82,67,Medium
+Maharashtra,Kurnool,2020,30,1738,2997,92759,14,77,46,Low
+Punjab,Yavatmal,2016,41,1167,1419,224225,44,7,7,Medium
+Rajasthan,Kurnool,2019,160,1582,4164,269394,19,25,62,High
+Telangana,Warangal,2019,103,1464,4022,249058,43,71,58,High
+Maharashtra,Yavatmal,2015,5,310,1256,32991,14,85,30,Low
+Maharashtra,Sangrur,2020,5,1760,3552,268625,36,80,6,Low
+Andhra Pradesh,Nagaur,2017,16,946,4884,198620,25,69,19,Low
+Rajasthan,Kurnool,2017,114,1535,1355,259014,35,55,63,High
+Telangana,Kurnool,2020,54,1650,4616,279699,48,11,2,Medium
+Karnataka,Yavatmal,2020,57,1097,1981,89739,37,30,35,Medium
+Telangana,Bidar,2019,74,660,2310,113394,37,55,58,Medium
+Punjab,Kurnool,2022,93,1104,3623,136898,41,89,78,High
+Andhra Pradesh,Kurnool,2021,5,1171,2725,269948,23,79,2,Low
+Rajasthan,Kurnool,2015,40,1758,4460,227949,34,66,27,Low
+Maharashtra,Warangal,2015,5,1769,3659,256685,20,58,5,Low
+Maharashtra,Yavatmal,2018,66,703,1592,185091,32,89,63,Medium
+Rajasthan,Kurnool,2016,71,497,3306,105440,46,28,44,Medium
+Maharashtra,Sangrur,2020,74,1615,1206,101656,42,48,47,Medium
+Karnataka,Nagaur,2022,49,643,2772,237663,17,26,17,Medium
+Andhra Pradesh,Bidar,2020,120,992,2360,254400,37,43,54,High
+Andhra Pradesh,Warangal,2017,174,1657,2020,264572,31,31,72,High
+Maharashtra,Kurnool,2017,87,1636,4176,200954,35,46,48,Medium
+Karnataka,Warangal,2017,10,1615,3113,59402,21,24,8,Low
+Karnataka,Yavatmal,2016,37,424,2537,60027,36,76,51,Low
+Punjab,Nagaur,2016,57,1114,4101,255335,46,8,11,Medium
+Andhra Pradesh,Yavatmal,2016,127,1207,1532,297204,11,68,68,High
+Rajasthan,Bidar,2018,5,1190,3493,35589,33,77,12,Low
+Karnataka,Bidar,2022,40,1438,3499,211366,33,18,9,Low
+Maharashtra,Bidar,2021,56,444,2091,210923,7,29,21,Medium
+Rajasthan,Bidar,2022,66,300,4756,265437,11,14,15,Medium
+Punjab,Nagaur,2019,73,1154,4212,114688,17,16,29,Medium
+Telangana,Sangrur,2021,37,332,1809,213950,8,69,32,Low
+Rajasthan,Kurnool,2017,5,333,1454,82460,24,57,12,Low
+Rajasthan,Bidar,2022,25,595,1151,205326,8,47,17,Low
+Punjab,Nagaur,2021,76,666,1480,96107,40,81,73,Medium
+Maharashtra,Yavatmal,2016,138,593,1170,297295,11,50,61,High
+Maharashtra,Nagaur,2016,37,1584,3029,281061,26,62,22,Low
+Maharashtra,Nagaur,2015,60,533,2398,130131,35,32,35,Medium
+Rajasthan,Nagaur,2018,99,1278,1636,213761,19,65,65,High
+Karnataka,Warangal,2021,5,341,2509,86492,43,69,22,Low
+Rajasthan,Nagaur,2019,64,1054,1089,282985,17,11,8,Medium
+Punjab,Sangrur,2021,26,1157,2899,148792,42,17,7,Low
+Maharashtra,Bidar,2021,59,989,2782,82290,45,33,37,Medium
+Telangana,Yavatmal,2017,37,1564,3502,64533,10,22,19,Low
+Punjab,Yavatmal,2017,64,537,4317,211808,32,42,28,Medium
+Karnataka,Warangal,2021,173,591,2642,250758,6,14,70,High
+Andhra Pradesh,Kurnool,2021,23,1671,1277,172305,24,37,15,Low
+Maharashtra,Yavatmal,2016,77,890,2572,169322,28,79,63,Medium
+Rajasthan,Nagaur,2021,54,1786,2572,216668,18,47,33,Medium
+Telangana,Sangrur,2017,91,395,4326,285223,42,22,28,Medium
+Telangana,Yavatmal,2017,5,720,3171,78296,49,38,13,Low
+Karnataka,Yavatmal,2021,133,602,2188,206604,48,9,52,High
+Punjab,Nagaur,2022,63,1564,4177,239826,49,53,35,Medium
+Telangana,Warangal,2019,113,936,4398,181898,41,64,74,High
+Rajasthan,Kurnool,2016,26,963,2041,252236,15,22,4,Low
+Rajasthan,Warangal,2022,126,341,4231,119851,8,24,67,High
+Rajasthan,Yavatmal,2021,150,379,4002,158227,10,44,77,High
+Telangana,Kurnool,2016,25,1296,4883,61712,46,33,19,Low
+Telangana,Warangal,2021,52,635,2924,280736,16,49,21,Medium
+Andhra Pradesh,Nagaur,2020,31,874,1220,116842,34,86,52,Low
+Andhra Pradesh,Bidar,2017,138,1734,4483,233243,35,19,53,High
+Rajasthan,Warangal,2018,65,1302,4984,112209,10,40,39,Medium
+Maharashtra,Sangrur,2022,5,358,1777,32566,14,80,12,Low
+Rajasthan,Sangrur,2022,92,414,1985,52129,30,65,69,Medium
+Andhra Pradesh,Nagaur,2016,82,1497,3499,119179,5,81,67,Medium
+Maharashtra,Bidar,2016,145,315,4028,203196,48,40,72,High
+Punjab,Warangal,2022,130,375,4859,153793,16,29,60,High
+Punjab,Nagaur,2018,58,665,4617,32700,42,16,36,Medium
+Andhra Pradesh,Sangrur,2022,44,1414,1114,258510,6,86,42,Medium
+Rajasthan,Warangal,2017,71,1451,2805,127585,41,77,65,Medium
+Maharashtra,Sangrur,2020,6,1173,1466,135858,12,47,9,Low
+Telangana,Sangrur,2019,82,667,3105,143944,49,52,50,Medium
+Telangana,Sangrur,2015,131,402,1845,143056,46,19,61,High
+Telangana,Kurnool,2020,76,905,4321,94398,27,47,50,Medium
+Punjab,Kurnool,2017,127,1789,2319,93560,26,15,62,High
+Punjab,Bidar,2018,65,1743,3962,223320,22,50,36,Medium
+Rajasthan,Warangal,2020,17,552,3522,112095,41,79,36,Low
+Rajasthan,Sangrur,2017,53,357,2360,33413,38,88,72,Medium
+Andhra Pradesh,Kurnool,2020,42,956,3503,210882,9,27,14,Medium
+Andhra Pradesh,Nagaur,2019,49,1354,4242,76557,38,40,35,Medium
+Telangana,Kurnool,2018,44,425,4758,153141,32,34,27,Medium
+Telangana,Sangrur,2021,38,1367,1654,109837,42,36,29,Low
+Maharashtra,Sangrur,2017,159,1748,2591,139877,20,22,77,High
+Karnataka,Yavatmal,2019,123,1589,3181,278271,29,8,34,High
+Karnataka,Warangal,2018,129,1165,1203,168043,6,40,70,High
+Telangana,Warangal,2019,85,379,4690,131163,23,53,58,Medium
+Rajasthan,Bidar,2020,150,1311,3283,129124,33,27,77,High
+Rajasthan,Bidar,2018,29,1077,2276,132757,19,13,13,Low
+Karnataka,Sangrur,2020,14,1652,2395,41774,29,75,36,Low
+Karnataka,Nagaur,2018,126,1669,1018,204447,7,23,53,High
+Rajasthan,Kurnool,2021,5,864,1368,147537,35,64,11,Low
+Rajasthan,Sangrur,2021,7,860,2887,161616,48,83,27,Low
+Andhra Pradesh,Bidar,2022,29,969,1257,244062,31,75,27,Low
+Karnataka,Sangrur,2017,12,821,4192,235600,18,41,8,Low
+Maharashtra,Bidar,2020,31,383,3193,154908,47,82,40,Low
+Andhra Pradesh,Bidar,2017,70,868,3394,177863,9,46,43,Medium
+Maharashtra,Nagaur,2018,27,1774,3950,52612,35,77,45,Low
+Andhra Pradesh,Bidar,2022,96,1524,1328,70615,34,66,71,High
+Rajasthan,Kurnool,2015,5,659,2401,93872,20,85,31,Low
+Andhra Pradesh,Nagaur,2021,175,1571,1481,199271,31,6,74,High
+Punjab,Kurnool,2018,118,538,2420,208512,25,27,50,High
+Rajasthan,Bidar,2018,136,1616,1797,251916,27,38,64,High
+Andhra Pradesh,Bidar,2016,69,431,2857,208295,31,37,32,Medium
+Andhra Pradesh,Nagaur,2019,69,1287,4650,100459,40,53,51,Medium
+Telangana,Yavatmal,2016,137,340,4428,97696,49,42,78,High
+Rajasthan,Warangal,2016,126,1132,1063,229307,45,46,60,High
+Karnataka,Sangrur,2018,39,1627,2990,279416,12,29,7,Low
+Karnataka,Warangal,2020,62,842,2547,109486,6,16,27,Medium
+Andhra Pradesh,Yavatmal,2016,42,1336,1948,95123,5,53,35,Medium
+Punjab,Sangrur,2016,111,973,1725,44559,33,50,75,High
+Andhra Pradesh,Sangrur,2019,48,495,2345,153297,47,9,9,Medium
+Andhra Pradesh,Bidar,2018,34,775,2617,250595,18,52,19,Low
+Karnataka,Nagaur,2021,40,1301,2603,219608,17,37,15,Low
+Punjab,Warangal,2016,144,868,1198,213456,11,9,57,High
+Rajasthan,Yavatmal,2022,119,583,4565,225619,11,44,59,High
+Telangana,Sangrur,2016,17,433,2654,171257,41,37,9,Low
+Telangana,Sangrur,2021,133,1211,1039,189270,36,40,65,High
+Andhra Pradesh,Kurnool,2017,135,773,1684,43348,27,5,66,High
+Telangana,Warangal,2021,102,916,2988,195127,38,53,58,High
+Karnataka,Sangrur,2019,124,669,2459,111119,39,38,69,High
+Telangana,Warangal,2022,76,1019,4390,260481,29,62,48,Medium
+Telangana,Kurnool,2016,77,1424,2753,290462,18,33,30,Medium
+Telangana,Sangrur,2022,138,1573,2675,146558,42,28,65,High
+Rajasthan,Kurnool,2022,48,1514,1774,241945,45,70,40,Medium
+Telangana,Nagaur,2021,123,973,4334,187400,20,26,53,High
+Andhra Pradesh,Warangal,2019,27,1189,2378,184837,39,48,15,Low
+Telangana,Kurnool,2019,109,1626,1330,237796,31,35,44,High
+Rajasthan,Yavatmal,2019,5,362,1127,195391,39,66,9,Low
+Punjab,Kurnool,2017,5,693,3739,221883,12,66,3,Low
+Punjab,Sangrur,2022,133,1029,4692,38086,14,22,76,High
+Maharashtra,Sangrur,2016,5,686,3621,216950,8,65,8,Low
+Andhra Pradesh,Warangal,2017,5,737,2586,178010,40,70,15,Low
+Maharashtra,Yavatmal,2022,60,1243,1472,76642,38,8,27,Medium
+Rajasthan,Kurnool,2019,145,957,1956,251443,5,54,70,High
+Telangana,Nagaur,2017,194,1483,4081,270209,45,16,74,High
+Rajasthan,Nagaur,2015,58,1203,3102,264573,47,35,16,Medium
+Rajasthan,Nagaur,2019,118,887,1417,165442,9,67,77,High
+Rajasthan,Kurnool,2016,136,1782,3902,182350,48,49,72,High
+Andhra Pradesh,Bidar,2019,55,438,1860,142451,40,83,59,Medium
+Punjab,Kurnool,2019,139,1197,2285,141248,9,6,58,High
+Andhra Pradesh,Yavatmal,2018,106,468,1659,132599,5,60,70,High
+Punjab,Warangal,2021,57,931,4204,97963,30,20,31,Medium
+Rajasthan,Bidar,2021,106,526,4498,204106,16,37,56,High
+Rajasthan,Kurnool,2022,123,1648,3081,296070,23,34,49,High
+Telangana,Yavatmal,2018,116,1037,2968,86714,18,51,79,High
+Maharashtra,Kurnool,2018,116,609,1981,59974,28,14,61,High
+Telangana,Kurnool,2020,26,456,3902,56649,41,56,38,Low
+Karnataka,Warangal,2020,17,769,1253,113489,23,74,37,Low
+Rajasthan,Bidar,2019,5,1521,4445,140159,5,34,1,Low
+Karnataka,Nagaur,2016,85,1729,3005,239402,39,35,40,Medium
+Andhra Pradesh,Warangal,2015,5,1264,1280,126589,34,51,12,Low
+Rajasthan,Yavatmal,2020,135,1379,4474,230473,11,42,69,High
+Maharashtra,Bidar,2020,5,411,1534,60070,18,73,22,Low
+Telangana,Yavatmal,2018,5,1272,2491,179115,49,40,7,Low
+Andhra Pradesh,Yavatmal,2016,110,1344,2787,232565,20,51,53,High
+Maharashtra,Bidar,2017,81,1739,3687,273543,48,21,25,Medium
+Rajasthan,Kurnool,2022,123,590,1804,124096,32,5,53,High
+Karnataka,Kurnool,2019,156,1259,3207,166475,35,12,72,High
+Maharashtra,Kurnool,2022,64,580,1882,241139,11,70,46,Medium
+Karnataka,Nagaur,2015,22,631,2075,275131,39,66,21,Low
+Andhra Pradesh,Bidar,2019,39,698,2738,65017,22,27,31,Low
+Maharashtra,Nagaur,2019,109,1507,2694,57841,6,51,75,High
+Punjab,Bidar,2015,86,1355,4741,270957,18,21,22,Medium
+Rajasthan,Bidar,2022,12,735,4079,169199,43,35,12,Low
+Maharashtra,Warangal,2015,5,721,4887,147201,23,59,3,Low
+Andhra Pradesh,Sangrur,2017,37,1350,1676,85277,25,20,25,Low
+Rajasthan,Bidar,2017,5,1609,4880,106803,6,64,9,Low
+Telangana,Kurnool,2022,5,1091,1220,146958,41,62,23,Low
+Rajasthan,Yavatmal,2020,80,817,2271,256560,12,32,33,Medium
+Telangana,Nagaur,2017,136,1197,1052,292749,34,72,77,High
+Rajasthan,Sangrur,2015,39,1695,4327,110266,41,18,19,Low
+Punjab,Sangrur,2017,5,1770,3310,36775,7,71,18,Low
+Karnataka,Kurnool,2018,150,1487,4727,208065,23,33,70,High
+Maharashtra,Yavatmal,2021,31,1064,4638,180170,11,87,41,Low
+Andhra Pradesh,Yavatmal,2021,91,1507,1779,265881,15,14,28,Medium
+Rajasthan,Kurnool,2019,5,1640,3610,65241,12,54,1,Low
+Punjab,Warangal,2017,34,859,3185,152766,43,51,25,Low
+Rajasthan,Sangrur,2015,11,1595,4895,79217,40,87,38,Low
+Andhra Pradesh,Sangrur,2022,74,1300,2662,212241,22,83,54,Medium
+Punjab,Nagaur,2015,139,1789,3782,139777,39,17,63,High
+Punjab,Warangal,2016,143,432,3061,227675,43,16,61,High
+Rajasthan,Bidar,2017,93,1117,2222,160263,14,54,55,High
+Andhra Pradesh,Warangal,2017,112,1355,2431,65925,7,31,61,High
+Karnataka,Sangrur,2017,126,1579,1240,64723,33,15,68,High
+Telangana,Bidar,2015,44,581,3698,214918,6,87,40,Medium
+Telangana,Bidar,2022,26,1193,1956,251070,27,71,26,Low
+Punjab,Warangal,2020,113,357,2360,280669,42,46,48,High
+Punjab,Warangal,2020,82,1182,2698,243423,7,72,52,Medium
+Telangana,Warangal,2021,28,704,3539,138609,20,11,9,Low
+Maharashtra,Bidar,2017,34,1548,2136,106427,49,15,13,Low
+Rajasthan,Yavatmal,2021,5,1482,1277,127157,24,89,10,Low
+Punjab,Yavatmal,2021,97,691,2156,104667,40,71,72,High
+Andhra Pradesh,Sangrur,2015,96,542,4363,114943,30,49,61,High
+Telangana,Warangal,2015,5,1637,1616,77083,30,83,29,Low
+Rajasthan,Warangal,2018,5,870,4301,196308,28,85,13,Low
+Karnataka,Sangrur,2017,153,1228,2428,227968,26,29,67,High
+Telangana,Nagaur,2018,138,1153,1257,244326,36,26,55,High
+Rajasthan,Sangrur,2017,44,1019,4207,236217,38,23,14,Medium
+Andhra Pradesh,Bidar,2021,102,1171,1650,94430,10,38,65,High
+Karnataka,Kurnool,2021,56,1533,1461,83662,23,66,54,Medium
+Maharashtra,Bidar,2017,41,467,4302,250709,6,45,19,Medium
+Maharashtra,Warangal,2022,113,361,4538,149645,26,18,56,High
+Andhra Pradesh,Nagaur,2016,5,1153,2453,86480,19,54,22,Low
+Karnataka,Bidar,2017,35,1330,4668,274867,16,63,26,Low
+Karnataka,Kurnool,2018,99,1691,1583,104674,20,22,47,High
+Rajasthan,Kurnool,2022,12,699,4284,84986,6,36,19,Low
+Punjab,Warangal,2016,82,1417,3375,212371,33,81,59,Medium
+Karnataka,Kurnool,2019,8,498,2302,103285,19,83,40,Low
+Rajasthan,Kurnool,2022,85,776,2878,132409,8,16,42,Medium
+Telangana,Warangal,2018,96,1159,4077,205862,39,51,58,High
+Punjab,Bidar,2015,69,1336,2927,74561,39,30,38,Medium
+Maharashtra,Yavatmal,2020,37,1636,1510,289555,29,34,7,Low
+Andhra Pradesh,Sangrur,2020,42,515,3589,182157,19,60,35,Medium
+Punjab,Yavatmal,2018,5,468,2838,47945,28,26,5,Low
+Telangana,Kurnool,2021,152,774,3358,151915,33,23,73,High
+Andhra Pradesh,Yavatmal,2020,79,780,3520,243943,8,73,55,Medium
+Telangana,Bidar,2015,117,1441,1497,239803,39,82,74,High
+Maharashtra,Bidar,2017,72,1688,3200,99903,12,39,46,Medium
+Andhra Pradesh,Warangal,2017,107,1575,1394,126849,46,52,63,High
+Andhra Pradesh,Kurnool,2015,87,512,2595,219441,17,70,57,Medium
+Andhra Pradesh,Yavatmal,2021,172,513,2774,260684,37,35,78,High
+Maharashtra,Sangrur,2021,22,1370,4586,207793,12,35,8,Low
+Maharashtra,Nagaur,2018,89,688,1134,196107,17,6,32,Medium
+Karnataka,Yavatmal,2022,5,656,4526,126219,34,73,24,Low
+Punjab,Yavatmal,2020,147,547,3993,71001,37,31,78,High
+Punjab,Nagaur,2018,43,1198,1710,172463,39,29,15,Medium
+Telangana,Sangrur,2021,5,973,2126,96219,31,68,23,Low
+Maharashtra,Warangal,2017,5,1696,1443,146359,41,71,2,Low
+Telangana,Warangal,2022,5,764,2045,105592,16,85,23,Low
+Rajasthan,Sangrur,2016,119,683,3058,95196,8,51,76,High
+Rajasthan,Yavatmal,2022,83,1280,2468,150357,25,12,28,Medium
+Telangana,Bidar,2018,145,1699,2576,249979,41,35,62,High
+Maharashtra,Nagaur,2015,108,1462,1094,203933,6,33,51,High
+Andhra Pradesh,Nagaur,2021,93,1295,1518,92335,17,66,74,High
+Andhra Pradesh,Sangrur,2017,28,768,3679,186252,9,53,18,Low
+Karnataka,Kurnool,2017,51,875,1059,148440,25,18,20,Medium
+Maharashtra,Warangal,2022,157,388,3596,235207,19,16,64,High
+Telangana,Warangal,2020,5,1358,4604,34718,44,67,17,Low
+Telangana,Yavatmal,2016,87,1320,4822,49958,32,64,67,Medium
+Rajasthan,Nagaur,2015,5,1418,4518,151246,5,79,6,Low
+Telangana,Nagaur,2016,35,1041,1107,252572,17,36,9,Low
+Rajasthan,Bidar,2019,5,1098,4486,100714,23,67,2,Low
+Punjab,Yavatmal,2015,92,1536,4260,196234,48,11,33,Medium
+Rajasthan,Yavatmal,2022,75,1791,3021,192590,12,67,50,Medium
+Karnataka,Nagaur,2016,103,1193,2769,153967,10,21,46,High
+Rajasthan,Yavatmal,2015,107,1680,1950,243475,10,74,68,High
+Punjab,Kurnool,2016,121,436,1778,164547,47,62,78,High
+Rajasthan,Warangal,2020,99,1550,4766,223666,5,68,58,High
+Andhra Pradesh,Warangal,2020,70,764,3513,98702,10,38,44,Medium
+Punjab,Warangal,2022,63,863,1792,137518,14,43,39,Medium
+Punjab,Bidar,2017,64,1326,1255,245555,12,18,14,Medium
+Telangana,Warangal,2017,51,1648,1907,296332,9,46,17,Medium
+Rajasthan,Yavatmal,2018,93,1048,4837,214834,27,32,45,High
+Telangana,Nagaur,2022,44,1086,2098,199511,43,22,12,Medium
+Maharashtra,Kurnool,2018,82,403,2946,91061,28,37,50,Medium
+Karnataka,Kurnool,2019,89,1189,3503,244885,7,68,58,Medium
+Telangana,Kurnool,2016,133,670,2571,189015,12,20,58,High
+Maharashtra,Warangal,2022,5,940,4584,61293,40,79,18,Low
+Karnataka,Yavatmal,2018,5,1274,1897,174375,35,77,10,Low
+Telangana,Kurnool,2020,86,1557,4695,206120,44,70,53,Medium
+Punjab,Kurnool,2015,31,645,1701,149076,8,37,22,Low
+Karnataka,Warangal,2022,50,1321,2283,61536,15,39,39,Medium
+Punjab,Yavatmal,2022,130,624,1150,48043,36,20,68,High
+Telangana,Warangal,2020,5,887,3619,160644,20,48,2,Low
+Punjab,Bidar,2020,94,1660,3568,129499,24,78,73,High
+Karnataka,Yavatmal,2017,102,619,3351,115263,27,30,54,High
+Karnataka,Nagaur,2019,5,1588,4084,225055,46,84,2,Low
+Punjab,Sangrur,2018,5,555,3698,257021,29,67,7,Low
+Rajasthan,Sangrur,2021,99,354,3200,182007,34,40,50,High
+Andhra Pradesh,Sangrur,2019,70,555,3225,98861,38,25,38,Medium
+Karnataka,Warangal,2022,97,1501,2405,86439,23,5,40,High
+Maharashtra,Yavatmal,2017,48,614,3354,214938,19,12,14,Medium
+Maharashtra,Yavatmal,2018,12,813,1348,201064,18,78,23,Low
+Maharashtra,Warangal,2022,80,309,2938,286146,48,63,44,Medium
+Andhra Pradesh,Sangrur,2022,5,639,4587,112624,17,71,12,Low
+Telangana,Yavatmal,2020,72,1473,1552,66979,49,18,35,Medium
+Karnataka,Nagaur,2022,35,774,4593,182088,49,15,9,Low
+Maharashtra,Sangrur,2018,20,669,4561,220808,9,59,15,Low
+Telangana,Nagaur,2022,130,1692,2488,57156,20,13,66,High
+Punjab,Kurnool,2017,63,1569,3175,283220,10,86,51,Medium
+Karnataka,Warangal,2015,43,820,4468,194835,41,62,30,Medium
+Telangana,Sangrur,2016,5,1156,4195,74377,30,81,17,Low
+Telangana,Sangrur,2017,123,1783,3568,94206,49,41,69,High
+Punjab,Bidar,2017,180,1350,3444,152043,16,13,77,High
+Telangana,Kurnool,2017,69,1258,1988,101317,13,23,38,Medium
+Rajasthan,Sangrur,2020,7,923,4757,98147,38,77,35,Low
+Andhra Pradesh,Nagaur,2019,94,922,4441,281056,13,23,28,High
+Maharashtra,Nagaur,2022,142,1678,1885,230772,11,27,65,High
+Maharashtra,Warangal,2022,5,934,2485,240883,46,79,4,Low
+Maharashtra,Bidar,2015,5,326,2065,96500,11,68,25,Low
+Maharashtra,Bidar,2018,45,567,4897,174228,48,63,36,Medium
+Rajasthan,Bidar,2016,60,1071,4811,114325,40,47,46,Medium
+Andhra Pradesh,Nagaur,2020,98,1240,2688,56178,36,43,65,High
+Maharashtra,Kurnool,2022,52,1153,2085,79325,17,35,35,Medium
+Andhra Pradesh,Kurnool,2020,132,496,2657,202444,12,12,54,High
+Punjab,Kurnool,2021,58,1474,2123,206361,36,66,45,Medium
+Rajasthan,Sangrur,2016,57,594,1644,271090,26,32,22,Medium
+Andhra Pradesh,Sangrur,2016,103,674,2612,243446,14,72,59,High
+Telangana,Nagaur,2015,5,842,1550,156677,41,76,15,Low
+Karnataka,Nagaur,2021,5,964,2246,68829,33,27,10,Low
+Karnataka,Kurnool,2022,24,1180,1434,199024,5,44,18,Low
+Rajasthan,Bidar,2021,59,1759,1995,107240,13,78,56,Medium
+Punjab,Yavatmal,2020,114,1616,2719,113870,37,16,58,High
+Andhra Pradesh,Yavatmal,2020,61,1413,3703,223607,32,11,15,Medium
+Telangana,Yavatmal,2021,79,873,1145,285716,45,65,43,Medium
+Punjab,Yavatmal,2021,112,1537,4534,127391,19,20,57,High
+Rajasthan,Yavatmal,2017,181,1092,2045,285905,27,20,70,High
+Maharashtra,Nagaur,2019,91,835,1140,291056,40,53,48,Medium
+Rajasthan,Sangrur,2020,5,1276,1579,98109,34,88,8,Low
+Andhra Pradesh,Warangal,2016,5,383,4003,282980,39,78,15,Low
+Karnataka,Nagaur,2017,36,776,2806,290117,13,55,17,Low
+Punjab,Sangrur,2017,5,720,4553,56505,34,89,21,Low
+Karnataka,Yavatmal,2016,135,887,2710,215592,24,10,50,High
+Telangana,Warangal,2015,135,1738,3817,201663,5,8,47,High
+Karnataka,Warangal,2021,61,398,2329,208217,35,88,56,Medium
+Karnataka,Bidar,2018,93,1111,4185,223019,48,88,73,High
+Rajasthan,Warangal,2019,5,936,4150,187438,21,87,9,Low
+Andhra Pradesh,Warangal,2016,58,1634,1387,71684,38,23,37,Medium
+Andhra Pradesh,Sangrur,2022,5,1752,2903,144187,45,60,14,Low
+Telangana,Yavatmal,2022,56,1583,3632,95783,26,16,30,Medium
+Karnataka,Bidar,2020,37,1690,2835,194453,30,20,7,Low
+Karnataka,Yavatmal,2020,176,644,4901,277543,11,16,67,High
+Punjab,Sangrur,2019,29,1767,1233,219638,20,36,8,Low
+Andhra Pradesh,Nagaur,2017,5,1599,2169,141972,10,88,29,Low
+Punjab,Warangal,2016,16,1423,4398,238115,36,44,5,Low
+Maharashtra,Sangrur,2016,90,1377,3767,68779,39,27,55,Medium
+Punjab,Kurnool,2021,132,1442,2220,198501,7,10,56,High
+Maharashtra,Nagaur,2020,52,816,4757,138169,45,48,33,Medium
+Telangana,Yavatmal,2015,26,1260,2400,126544,26,80,36,Low
+Telangana,Yavatmal,2021,106,1745,2677,33417,46,11,55,High
+Punjab,Bidar,2017,5,431,1492,68441,36,74,28,Low
+Punjab,Kurnool,2016,8,1185,4268,162278,32,45,9,Low
+Rajasthan,Nagaur,2020,46,403,2149,64337,41,53,42,Medium
+Maharashtra,Bidar,2020,108,1415,2635,297466,36,83,68,High
+Rajasthan,Yavatmal,2021,5,1731,4171,124265,9,68,19,Low
+Andhra Pradesh,Kurnool,2019,40,1703,4226,133528,6,20,14,Low
+Telangana,Nagaur,2017,5,828,3604,90539,44,68,6,Low
+Rajasthan,Bidar,2019,14,1550,4094,188539,33,31,6,Low
+Punjab,Bidar,2022,5,944,1398,114614,39,40,15,Low
+Karnataka,Kurnool,2021,43,641,1752,191630,36,76,41,Medium
+Punjab,Bidar,2021,46,979,4410,112667,42,46,37,Medium
+Karnataka,Nagaur,2020,128,404,4246,94367,43,19,66,High
+Telangana,Sangrur,2020,5,1535,3714,269276,27,85,13,Low
+Telangana,Yavatmal,2022,123,1476,4964,117599,21,44,75,High
+Andhra Pradesh,Yavatmal,2022,154,1251,1551,92559,8,12,73,High
+Karnataka,Bidar,2019,142,692,4781,128138,46,28,73,High
+Punjab,Sangrur,2019,53,1203,4344,147702,16,83,50,Medium
+Andhra Pradesh,Nagaur,2018,85,1590,3914,226150,31,71,60,Medium
+Telangana,Yavatmal,2018,46,1139,2665,130434,46,32,29,Medium
+Punjab,Warangal,2018,40,916,3671,269519,30,41,15,Low
+Telangana,Kurnool,2019,124,1295,4923,232811,26,68,71,High
+Rajasthan,Bidar,2021,12,1757,1518,114605,23,32,10,Low
+Maharashtra,Nagaur,2017,72,1279,2723,123566,47,73,63,Medium
+Punjab,Bidar,2017,17,750,2205,297868,19,79,18,Low
+Telangana,Sangrur,2020,64,1189,1178,35817,22,83,67,Medium
+Karnataka,Yavatmal,2020,35,1726,3044,262359,48,63,25,Low
+Andhra Pradesh,Warangal,2019,157,1431,3224,288474,40,23,66,High
+Karnataka,Bidar,2020,74,610,4854,284334,25,19,23,Medium
+Rajasthan,Warangal,2016,165,436,3241,255985,22,21,72,High
+Maharashtra,Kurnool,2022,202,855,2180,289005,32,20,78,High
+Maharashtra,Kurnool,2018,44,1705,4635,64600,35,30,27,Medium
+Maharashtra,Sangrur,2022,83,823,1354,82268,38,81,72,Medium
+Andhra Pradesh,Bidar,2017,183,1089,2300,228850,11,18,79,High
+Telangana,Sangrur,2021,25,375,1786,229450,22,17,1,Low
+Andhra Pradesh,Yavatmal,2019,44,1694,4634,79366,5,32,32,Medium
+Maharashtra,Nagaur,2022,47,1051,1348,66419,22,18,27,Medium
+Punjab,Nagaur,2017,117,1039,1406,228125,44,78,76,High
+Karnataka,Bidar,2019,37,505,2892,227128,30,52,24,Low
+Telangana,Yavatmal,2016,156,1085,4612,280957,8,43,73,High
