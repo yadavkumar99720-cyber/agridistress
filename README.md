@@ -44,12 +44,17 @@ MSP gap, insurance coverage, and crop failure percentage.
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
-- Gradient Boosting
 
 The model with the highest accuracy on the test set is automatically
 selected and saved as model.pkl, so app.py always uses the best one.
+
+Latest results:
+
+| Model | Accuracy |
+|---|---|
+| Decision Tree | 100.00% |
+| Random Forest | 100.00% |
+| Logistic Regression | 97.83% |
 
 ## Note about the dataset
 

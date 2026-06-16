@@ -1,9 +1,3 @@
-# app.py
-# Streamlit app for the AgriDistress project.
-# Page 1 lets the user enter farm/district details and predicts the
-# distress risk level. Page 2 shows how the different models performed
-# during training (accuracy, confusion matrix, feature importance).
-
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -11,10 +5,6 @@ import pickle
 
 st.set_page_config(page_title="AgriDistress Risk Predictor", layout="wide")
 
-# ------------------------------------------------------------------
-# Load the saved model, scaler and encoders
-# (these are created by running train_model.py)
-# ------------------------------------------------------------------
 model = pickle.load(open("model.pkl", "rb"))
 scaler = pickle.load(open("scaler.pkl", "rb"))
 encoders = pickle.load(open("encoders.pkl", "rb"))
@@ -29,20 +19,12 @@ try:
 except FileNotFoundError:
     best_model_name = "Unknown"
 
-
-# ------------------------------------------------------------------
-# Sidebar - choose which page to view
-# ------------------------------------------------------------------
 page = st.sidebar.radio("Go to", ["Predict Risk", "Model Performance"])
 
 st.sidebar.markdown("---")
 st.sidebar.write("Model currently being used:")
 st.sidebar.success(best_model_name)
 
-
-# ------------------------------------------------------------------
-# PAGE 1 - Prediction
-# ------------------------------------------------------------------
 if page == "Predict Risk":
     st.title("AgriDistress: Farmer Distress Risk Predictor")
     st.write("Fill in the details below and click Predict to see the risk level.")
@@ -64,11 +46,9 @@ if page == "Predict Risk":
         crop_failure_percent = st.number_input("Crop Failure (%)", min_value=0, max_value=100, value=30)
 
     if st.button("Predict"):
-        # convert the state/district names to the same numbers used during training
         state_num = state_encoder.transform([state])[0]
         district_num = district_encoder.transform([district])[0]
 
-        # the order of these values must match feature_cols in train_model.py
         input_data = np.array([[
             state_num,
             district_num,
@@ -93,7 +73,6 @@ if page == "Predict Risk":
         else:
             st.success(f"Predicted Risk Level: {risk_label}")
 
-        # if the model supports it, show how confident it is
         if hasattr(model, "predict_proba"):
             probs = model.predict_proba(input_scaled)[0]
             prob_df = pd.DataFrame({
@@ -103,14 +82,10 @@ if page == "Predict Risk":
             st.write("Prediction confidence:")
             st.bar_chart(prob_df.set_index("Risk Level"))
 
-
-# ------------------------------------------------------------------
-# PAGE 2 - Model Performance
-# ------------------------------------------------------------------
 else:
     st.title("Model Performance")
-    st.write("These results come from train_model.py, which trains several "
-             "models on the dataset and compares their accuracy.")
+    st.write("These results come from train_model.py, which trains Logistic Regression, "
+             "Decision Tree and Random Forest on the dataset and compares their accuracy.")
 
     try:
         results = pd.read_csv("model_results.csv")

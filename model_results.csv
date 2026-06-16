@@ -1,7 +1,4 @@
 model,accuracy
 Decision Tree,1.0
 Random Forest,1.0
-Gradient Boosting,1.0
 Logistic Regression,0.9783333333333334
-SVM,0.9566666666666667
-KNN,0.8666666666666667
